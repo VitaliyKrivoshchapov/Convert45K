@@ -1,3 +1,43 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+dist
+build
+# Eclipse
+*.class
+*.prefs
+.classpath
+.project
+build.xml
+*/.settings/*
+org.eclipse.*
+
+# IntelliJ
+.idea
+*.iml
+
+# Generated
+*/bin/*
+*/target/*
+
+# Misc.
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Releases folders
+user_dict.txt
+*__pycache__*
+generated_configs
+__runs__
+latets_history.list.txt
+.vscode
+__pycache__
+*.pyc
+generated_configs
+*.pyz
+__pypackages__
+Release
+.ipynb_checkpoints
