@@ -1,4 +1,4 @@
-{"star_rating": 9.3, "title": "The Shawshank Redemption", "content_rating": "R", "genre": "Crime", "duration": 142}
-{"star_rating": 9.2, "title": "The Godfather", "content_rating": "R", "genre": "Crime", "duration": 175}
-{"star_rating": 9.1, "title": "The Godfather: Part II", "content_rating": "R", "genre": "Crime", "duration": 200}
-{"star_rating": 9.0, "title": "The Dark Knight", "content_rating": "PG-13", "genre": "Action", "duration": 152}
+{"star_rating": 9.3, "title": "The Shawshank Redemption", "content_rating": "R", "genre": "Crime", "duration": 142, "actors_list": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]}
+{"star_rating": 9.2, "title": "The Godfather", "content_rating": "R", "genre": "Crime", "duration": 175, "actors_list": ["Marlon Brando", "Al Pacino", "James Caan"]}
+{"star_rating": 9.1, "title": "The Godfather: Part II", "content_rating": "R", "genre": "Crime", "duration": 200, "actors_list": ["Al Pacino", "Robert De Niro", "Robert Duvall"]}
+{"star_rating": 9.0, "title": "The Dark Knight", "content_rating": "PG-13", "genre": "Action", "duration": 152, "actors_list": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]}

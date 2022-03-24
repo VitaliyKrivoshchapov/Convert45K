@@ -9,7 +9,7 @@ class Movie(BaseModel):
     content_rating: str
     genre: str
     duration: int
-    #actors_list: str
+    actors_list: list[str]
 
 def convert_csv_json(file_name, out_path):
 
@@ -25,8 +25,8 @@ def convert_csv_json(file_name, out_path):
                     content_rating = row[2],
                     genre = row[3],
                     duration = row[4],
-                    actors_list = list(row[5].replace(", u'", ' ').split(" "))
-                    #actors_list = conver_string(row[5])
+                    #actors_list = list(row[5].replace(", u'", ' ').split(" "))
+                    actors_list = conver_string(row[5])
                 )
                 print(movie)
                 js_txt_line = movie.json()
