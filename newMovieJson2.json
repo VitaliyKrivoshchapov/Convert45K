@@ -2,3 +2,973 @@
 {"star_rating": 9.2, "title": "The Godfather", "content_rating": "R", "genre": "Crime", "duration": 175, "actors_list": ["Marlon Brando", "Al Pacino", "James Caan"]}
 {"star_rating": 9.1, "title": "The Godfather: Part II", "content_rating": "R", "genre": "Crime", "duration": 200, "actors_list": ["Al Pacino", "Robert De Niro", "Robert Duvall"]}
 {"star_rating": 9.0, "title": "The Dark Knight", "content_rating": "PG-13", "genre": "Action", "duration": 152, "actors_list": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]}
+{"star_rating": 8.9, "title": "Pulp Fiction", "content_rating": "R", "genre": "Crime", "duration": 154, "actors_list": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]}
+{"star_rating": 8.9, "title": "12 Angry Men", "content_rating": "NOT RATED", "genre": "Drama", "duration": 96, "actors_list": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam"]}
+{"star_rating": 8.9, "title": "The Good, the Bad and the Ugly", "content_rating": "NOT RATED", "genre": "Western", "duration": 161, "actors_list": ["Clint Eastwood", "Eli Wallach", "Lee Van Cleef"]}
+{"star_rating": 8.9, "title": "The Lord of the Rings: The Return of the King", "content_rating": "PG-13", "genre": "Adventure", "duration": 201, "actors_list": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"]}
+{"star_rating": 8.9, "title": "Schindler's List", "content_rating": "R", "genre": "Biography", "duration": 195, "actors_list": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"]}
+{"star_rating": 8.9, "title": "Fight Club", "content_rating": "R", "genre": "Drama", "duration": 139, "actors_list": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"]}
+{"star_rating": 8.8, "title": "The Lord of the Rings: The Fellowship of the Ring", "content_rating": "PG-13", "genre": "Adventure", "duration": 178, "actors_list": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]}
+{"star_rating": 8.8, "title": "Inception", "content_rating": "PG-13", "genre": "Action", "duration": 148, "actors_list": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]}
+{"star_rating": 8.8, "title": "Star Wars: Episode V - The Empire Strikes Back", "content_rating": "PG", "genre": "Action", "duration": 124, "actors_list": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"]}
+{"star_rating": 8.8, "title": "Forrest Gump", "content_rating": "PG-13", "genre": "Drama", "duration": 142, "actors_list": ["Tom Hanks", "Robin Wright", "Gary Sinise"]}
+{"star_rating": 8.8, "title": "The Lord of the Rings: The Two Towers", "content_rating": "PG-13", "genre": "Adventure", "duration": 179, "actors_list": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]}
+{"star_rating": 8.7, "title": "Interstellar", "content_rating": "PG-13", "genre": "Adventure", "duration": 169, "actors_list": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]}
+{"star_rating": 8.7, "title": "One Flew Over the Cuckoo's Nest", "content_rating": "R", "genre": "Drama", "duration": 133, "actors_list": ["Jack Nicholson", "Louise Fletcher", "Michael Berryman"]}
+{"star_rating": 8.7, "title": "Seven Samurai", "content_rating": "UNRATED", "genre": "Drama", "duration": 207, "actors_list": ["Toshir\u00f4 Mifune", "Takashi Shimura", "Keiko Tsushima"]}
+{"star_rating": 8.7, "title": "Goodfellas", "content_rating": "R", "genre": "Biography", "duration": 146, "actors_list": ["Robert De Niro", "Ray Liotta", "Joe Pesci"]}
+{"star_rating": 8.7, "title": "Star Wars", "content_rating": "PG", "genre": "Action", "duration": 121, "actors_list": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"]}
+{"star_rating": 8.7, "title": "The Matrix", "content_rating": "R", "genre": "Action", "duration": 136, "actors_list": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]}
+{"star_rating": 8.7, "title": "City of God", "content_rating": "R", "genre": "Crime", "duration": 130, "actors_list": ["Alexandre Rodrigues", "Matheus Nachtergaele", "Leandro Firmino"]}
+{"star_rating": 8.7, "title": "It's a Wonderful Life", "content_rating": "APPROVED", "genre": "Drama", "duration": 130, "actors_list": ["James Stewart", "Donna Reed", "Lionel Barrymore"]}
+{"star_rating": 8.7, "title": "The Usual Suspects", "content_rating": "R", "genre": "Crime", "duration": 106, "actors_list": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"]}
+{"star_rating": 8.7, "title": "Se7en", "content_rating": "R", "genre": "Drama", "duration": 127, "actors_list": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"]}
+{"star_rating": 8.6, "title": "Life Is Beautiful", "content_rating": "PG-13", "genre": "Comedy", "duration": 116, "actors_list": ["Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini"]}
+{"star_rating": 8.6, "title": "Once Upon a Time in the West", "content_rating": "PG-13", "genre": "Western", "duration": 175, "actors_list": ["Henry Fonda", "Charles Bronson", "Claudia Cardinale"]}
+{"star_rating": 8.6, "title": "The Silence of the Lambs", "content_rating": "R", "genre": "Drama", "duration": 118, "actors_list": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"]}
+{"star_rating": 8.6, "title": "Leon: The Professional", "content_rating": "R", "genre": "Crime", "duration": 110, "actors_list": ["Jean Reno", "Gary Oldman", "Natalie Portman"]}
+{"star_rating": 8.6, "title": "City Lights", "content_rating": "PASSED", "genre": "Comedy", "duration": 87, "actors_list": ["Charles Chaplin", "Virginia Cherrill", "Florence Lee"]}
+{"star_rating": 8.6, "title": "Spirited Away", "content_rating": "PG", "genre": "Animation", "duration": 125, "actors_list": ["Daveigh Chase", "Suzanne Pleshette", "Miyu Irino"]}
+{"star_rating": 8.6, "title": "The Intouchables", "content_rating": "R", "genre": "Biography", "duration": 112, "actors_list": ["Fran\u00e7ois Cluzet", "Omar Sy", "Anne Le Ny"]}
+{"star_rating": 8.6, "title": "Casablanca", "content_rating": "PG", "genre": "Drama", "duration": 102, "actors_list": ["Humphrey Bogart", "Ingrid Bergman", "Paul Henreid"]}
+{"star_rating": 8.6, "title": "Whiplash", "content_rating": "R", "genre": "Drama", "duration": 107, "actors_list": ["Miles Teller", "J.K. Simmons", "Melissa Benoist"]}
+{"star_rating": 8.6, "title": "American History X", "content_rating": "R", "genre": "Crime", "duration": 119, "actors_list": ["Edward Norton", "Edward Furlong", "Beverly D'Angelo"]}
+{"star_rating": 8.6, "title": "Modern Times", "content_rating": "G", "genre": "Comedy", "duration": 87, "actors_list": ["Charles Chaplin", "Paulette Goddard", "Henry Bergman"]}
+{"star_rating": 8.6, "title": "Saving Private Ryan", "content_rating": "R", "genre": "Action", "duration": 169, "actors_list": ["Tom Hanks", "Matt Damon", "Tom Sizemore"]}
+{"star_rating": 8.6, "title": "Raiders of the Lost Ark", "content_rating": "PG", "genre": "Action", "duration": 115, "actors_list": ["Harrison Ford", "Karen Allen", "Paul Freeman"]}
+{"star_rating": 8.6, "title": "Rear Window", "content_rating": "APPROVED", "genre": "Mystery", "duration": 112, "actors_list": ["James Stewart", "Grace Kelly", "Wendell Corey"]}
+{"star_rating": 8.6, "title": "Psycho", "content_rating": "R", "genre": "Horror", "duration": 109, "actors_list": ["Anthony Perkins", "Janet Leigh", "Vera Miles"]}
+{"star_rating": 8.5, "title": "The Green Mile", "content_rating": "R", "genre": "Crime", "duration": 189, "actors_list": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"]}
+{"star_rating": 8.5, "title": "Sunset Blvd.", "content_rating": "NOT RATED", "genre": "Drama", "duration": 110, "actors_list": ["William Holden", "Gloria Swanson", "Erich von Stroheim"]}
+{"star_rating": 8.5, "title": "The Pianist", "content_rating": "R", "genre": "Biography", "duration": 150, "actors_list": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"]}
+{"star_rating": 8.5, "title": "The Dark Knight Rises", "content_rating": "PG-13", "genre": "Action", "duration": 165, "actors_list": ["Christian Bale", "Tom Hardy", "Anne Hathaway"]}
+{"star_rating": 8.5, "title": "Gladiator", "content_rating": "R", "genre": "Action", "duration": 155, "actors_list": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]}
+{"star_rating": 8.5, "title": "Terminator 2: Judgment Day", "content_rating": "R", "genre": "Action", "duration": 137, "actors_list": ["Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong"]}
+{"star_rating": 8.5, "title": "Memento", "content_rating": "R", "genre": "Mystery", "duration": 113, "actors_list": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"]}
+{"star_rating": 8.5, "title": "Taare Zameen Par", "content_rating": "PG", "genre": "Drama", "duration": 165, "actors_list": ["Darsheel Safary", "Aamir Khan", "Tanay Chheda"]}
+{"star_rating": 8.5, "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "content_rating": "PG", "genre": "Comedy", "duration": 95, "actors_list": ["Peter Sellers", "George C. Scott", "Sterling Hayden"]}
+{"star_rating": 8.5, "title": "The Departed", "content_rating": "R", "genre": "Crime", "duration": 151, "actors_list": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"]}
+{"star_rating": 8.5, "title": "Cinema Paradiso", "content_rating": "R", "genre": "Drama", "duration": 155, "actors_list": ["Philippe Noiret", "Enzo Cannavale", "Antonella Attili"]}
+{"star_rating": 8.5, "title": "Apocalypse Now", "content_rating": "R", "genre": "Drama", "duration": 153, "actors_list": ["Martin Sheen", "Marlon Brando", "Robert Duvall"]}
+{"star_rating": 8.5, "title": "The Great Dictator", "content_rating": "APPROVED", "genre": "Comedy", "duration": 125, "actors_list": ["Charles Chaplin", "Paulette Goddard", "Jack Oakie"]}
+{"star_rating": 8.5, "title": "The Prestige", "content_rating": "PG-13", "genre": "Drama", "duration": 130, "actors_list": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"]}
+{"star_rating": 8.5, "title": "Back to the Future", "content_rating": "PG", "genre": "Adventure", "duration": 116, "actors_list": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"]}
+{"star_rating": 8.5, "title": "The Lion King", "content_rating": "G", "genre": "Animation", "duration": 89, "actors_list": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]}
+{"star_rating": 8.5, "title": "The Lives of Others", "content_rating": "R", "genre": "Drama", "duration": 137, "actors_list": ["Ulrich M\u00fche", "Martina Gedeck", "Sebastian Koch"]}
+{"star_rating": 8.5, "title": "Django Unchained", "content_rating": "R", "genre": "Western", "duration": 165, "actors_list": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"]}
+{"star_rating": 8.5, "title": "3 Idiots", "content_rating": "PG-13", "genre": "Comedy", "duration": 170, "actors_list": ["Aamir Khan", "Madhavan", "Mona Singh"]}
+{"star_rating": 8.5, "title": "Grave of the Fireflies", "content_rating": "UNRATED", "genre": "Animation", "duration": 89, "actors_list": ["Tsutomu Tatsumi", "Ayano Shiraishi", "Akemi Yamaguchi"]}
+{"star_rating": 8.5, "title": "The Shining", "content_rating": "R", "genre": "Horror", "duration": 146, "actors_list": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"]}
+{"star_rating": 8.4, "title": "M", "content_rating": "NOT RATED", "genre": "Crime", "duration": 99, "actors_list": ["Peter Lorre", "Ellen Widmann", "Inge Landgut"]}
+{"star_rating": 8.4, "title": "WALL-E", "content_rating": "G", "genre": "Animation", "duration": 98, "actors_list": ["Ben Burtt", "Elissa Knight", "Jeff Garlin"]}
+{"star_rating": 8.4, "title": "Witness for the Prosecution", "content_rating": "APPROVED", "genre": "Crime", "duration": 116, "actors_list": ["Tyrone Power", "Marlene Dietrich", "Charles Laughton"]}
+{"star_rating": 8.4, "title": "Munna Bhai M.B.B.S.", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 156, "actors_list": ["Sunil Dutt", "Sanjay Dutt", "Arshad Warsi"]}
+{"star_rating": 8.4, "title": "American Beauty", "content_rating": "R", "genre": "Drama", "duration": 122, "actors_list": ["Kevin Spacey", "Annette Bening", "Thora Birch"]}
+{"star_rating": 8.4, "title": "North by Northwest", "content_rating": "APPROVED", "genre": "Adventure", "duration": 136, "actors_list": ["Cary Grant", "Eva Marie Saint", "James Mason"]}
+{"star_rating": 8.4, "title": "Rang De Basanti", "content_rating": "NOT RATED", "genre": "Drama", "duration": 157, "actors_list": ["Aamir Khan", "Soha Ali Khan", "Siddharth"]}
+{"star_rating": 8.4, "title": "Jodaeiye Nader az Simin", "content_rating": "PG-13", "genre": "Drama", "duration": 123, "actors_list": ["Peyman Moaadi", "Leila Hatami", "Sareh Bayat"]}
+{"star_rating": 8.4, "title": "Citizen Kane", "content_rating": "APPROVED", "genre": "Drama", "duration": 119, "actors_list": ["Orson Welles", "Joseph Cotten", "Dorothy Comingore"]}
+{"star_rating": 8.4, "title": "Aliens", "content_rating": "R", "genre": "Action", "duration": 137, "actors_list": ["Sigourney Weaver", "Michael Biehn", "Carrie Henn"]}
+{"star_rating": 8.4, "title": "Vertigo", "content_rating": "APPROVED", "genre": "Mystery", "duration": 128, "actors_list": ["James Stewart", "Kim Novak", "Barbara Bel Geddes"]}
+{"star_rating": 8.4, "title": "Oldeuboi", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Min-sik Choi", "Ji-tae Yu", "Hye-jeong Kang"]}
+{"star_rating": 8.4, "title": "Once Upon a Time in America", "content_rating": "R", "genre": "Crime", "duration": 229, "actors_list": ["Robert De Niro", "James Woods", "Elizabeth McGovern"]}
+{"star_rating": 8.4, "title": "Double Indemnity", "content_rating": "PASSED", "genre": "Crime", "duration": 107, "actors_list": ["Fred MacMurray", "Barbara Stanwyck", "Edward G. Robinson"]}
+{"star_rating": 8.4, "title": "Star Wars: Episode VI - Return of the Jedi", "content_rating": "PG", "genre": "Action", "duration": 134, "actors_list": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"]}
+{"star_rating": 8.4, "title": "Toy Story 3", "content_rating": "G", "genre": "Animation", "duration": 103, "actors_list": ["Tom Hanks", "Tim Allen", "Joan Cusack"]}
+{"star_rating": 8.4, "title": "Braveheart", "content_rating": "R", "genre": "Action", "duration": 177, "actors_list": ["Mel Gibson", "Sophie Marceau", "Patrick McGoohan"]}
+{"star_rating": 8.4, "title": "To Kill a Mockingbird", "content_rating": "NOT RATED", "genre": "Drama", "duration": 129, "actors_list": ["Gregory Peck", "John Megna", "Frank Overton"]}
+{"star_rating": 8.4, "title": "Requiem for a Dream", "content_rating": "R", "genre": "Drama", "duration": 102, "actors_list": ["Ellen Burstyn", "Jared Leto", "Jennifer Connelly"]}
+{"star_rating": 8.4, "title": "Lawrence of Arabia", "content_rating": "PG", "genre": "Adventure", "duration": 216, "actors_list": ["Peter O'Toole", "Alec Guinness", "Anthony Quinn"]}
+{"star_rating": 8.4, "title": "A Clockwork Orange", "content_rating": "X", "genre": "Crime", "duration": 136, "actors_list": ["Malcolm McDowell", "Patrick Magee", "Michael Bates"]}
+{"star_rating": 8.4, "title": "Bicycle Thieves", "content_rating": "NOT RATED", "genre": "Drama", "duration": 93, "actors_list": ["Lamberto Maggiorani", "Enzo Staiola", "Lianella Carell"]}
+{"star_rating": 8.4, "title": "The Kid", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 68, "actors_list": ["Charles Chaplin", "Edna Purviance", "Jackie Coogan"]}
+{"star_rating": 8.4, "title": "Swades", "content_rating": "NOT RATED", "genre": "Drama", "duration": 189, "actors_list": ["Shah Rukh Khan", "Gayatri Joshi", "Kishori Balal"]}
+{"star_rating": 8.4, "title": "Reservoir Dogs", "content_rating": "R", "genre": "Crime", "duration": 99, "actors_list": ["Harvey Keitel", "Tim Roth", "Michael Madsen"]}
+{"star_rating": 8.4, "title": "Eternal Sunshine of the Spotless Mind", "content_rating": "R", "genre": "Drama", "duration": 108, "actors_list": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"]}
+{"star_rating": 8.4, "title": "Taxi Driver", "content_rating": "R", "genre": "Crime", "duration": 113, "actors_list": ["Robert De Niro", "Jodie Foster", "Cybill Shepherd"]}
+{"star_rating": 8.4, "title": "Dilwale Dulhania Le Jayenge", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 181, "actors_list": ["Shah Rukh Khan", "Kajol", "Amrish Puri"]}
+{"star_rating": 8.4, "title": "Singin' in the Rain", "content_rating": "APPROVED", "genre": "Comedy", "duration": 103, "actors_list": ["Gene Kelly", "Donald O'Connor", "Debbie Reynolds"]}
+{"star_rating": 8.4, "title": "All About Eve", "content_rating": "APPROVED", "genre": "Drama", "duration": 138, "actors_list": ["Bette Davis", "Anne Baxter", "George Sanders"]}
+{"star_rating": 8.4, "title": "Yojimbo", "content_rating": "UNRATED", "genre": "Action", "duration": 110, "actors_list": ["Toshir\u00f4 Mifune", "Eijir\u00f4 T\u00f4no", "Tatsuya Nakadai"]}
+{"star_rating": 8.4, "title": "The Sting", "content_rating": "PG", "genre": "Comedy", "duration": 129, "actors_list": ["Paul Newman", "Robert Redford", "Robert Shaw"]}
+{"star_rating": 8.4, "title": "Rashomon", "content_rating": "UNRATED", "genre": "Crime", "duration": 88, "actors_list": ["Toshir\u00f4 Mifune", "Machiko Ky\u00f4", "Masayuki Mori"]}
+{"star_rating": 8.4, "title": "Amadeus", "content_rating": "R", "genre": "Biography", "duration": 160, "actors_list": ["F. Murray Abraham", "Tom Hulce", "Elizabeth Berridge"]}
+{"star_rating": 8.3, "title": "The Treasure of the Sierra Madre", "content_rating": "NOT RATED", "genre": "Action", "duration": 126, "actors_list": ["Humphrey Bogart", "Walter Huston", "Tim Holt"]}
+{"star_rating": 8.3, "title": "Monty Python and the Holy Grail", "content_rating": "PG", "genre": "Adventure", "duration": 91, "actors_list": ["Graham Chapman", "John Cleese", "Eric Idle"]}
+{"star_rating": 8.3, "title": "Full Metal Jacket", "content_rating": "R", "genre": "Drama", "duration": 116, "actors_list": ["Matthew Modine", "R. Lee Ermey", "Vincent D'Onofrio"]}
+{"star_rating": 8.3, "title": "The Apartment", "content_rating": "APPROVED", "genre": "Comedy", "duration": 125, "actors_list": ["Jack Lemmon", "Shirley MacLaine", "Fred MacMurray"]}
+{"star_rating": 8.3, "title": "Ikiru", "content_rating": "NOT RATED", "genre": "Drama", "duration": 143, "actors_list": ["Takashi Shimura", "Nobuo Kaneko", "Shin'ichi Himori"]}
+{"star_rating": 8.3, "title": "The Third Man", "content_rating": "NOT RATED", "genre": "Film-Noir", "duration": 93, "actors_list": ["Orson Welles", "Joseph Cotten", "Alida Valli"]}
+{"star_rating": 8.3, "title": "Snatch.", "content_rating": "R", "genre": "Comedy", "duration": 102, "actors_list": ["Jason Statham", "Brad Pitt", "Benicio Del Toro"]}
+{"star_rating": 8.3, "title": "For a Few Dollars More", "content_rating": "APPROVED", "genre": "Western", "duration": 132, "actors_list": ["Clint Eastwood", "Lee Van Cleef", "Gian Maria Volont\u00e9"]}
+{"star_rating": 8.3, "title": "Metropolis", "content_rating": "NOT RATED", "genre": "Drama", "duration": 153, "actors_list": ["Brigitte Helm", "Alfred Abel", "Gustav Fr\u00f6hlich"]}
+{"star_rating": 8.3, "title": "Dil Chahta Hai", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 183, "actors_list": ["Aamir Khan", "Saif Ali Khan", "Akshaye Khanna"]}
+{"star_rating": 8.3, "title": "2001: A Space Odyssey", "content_rating": "G", "genre": "Mystery", "duration": 160, "actors_list": ["Keir Dullea", "Gary Lockwood", "William Sylvester"]}
+{"star_rating": 8.3, "title": "Some Like It Hot", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 120, "actors_list": ["Marilyn Monroe", "Tony Curtis", "Jack Lemmon"]}
+{"star_rating": 8.3, "title": "L.A. Confidential", "content_rating": "R", "genre": "Crime", "duration": 138, "actors_list": ["Kevin Spacey", "Russell Crowe", "Guy Pearce"]}
+{"star_rating": 8.3, "title": "Batman Begins", "content_rating": "PG-13", "genre": "Action", "duration": 140, "actors_list": ["Christian Bale", "Michael Caine", "Ken Watanabe"]}
+{"star_rating": 8.3, "title": "Inglourious Basterds", "content_rating": "R", "genre": "Adventure", "duration": 153, "actors_list": ["Brad Pitt", "Diane Kruger", "Eli Roth"]}
+{"star_rating": 8.3, "title": "Scarface", "content_rating": "R", "genre": "Crime", "duration": 170, "actors_list": ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"]}
+{"star_rating": 8.3, "title": "Mr. Smith Goes to Washington", "content_rating": "NOT RATED", "genre": "Drama", "duration": 129, "actors_list": ["James Stewart", "Jean Arthur", "Claude Rains"]}
+{"star_rating": 8.3, "title": "Toy Story", "content_rating": "G", "genre": "Animation", "duration": 81, "actors_list": ["Tom Hanks", "Tim Allen", "Don Rickles"]}
+{"star_rating": 8.3, "title": "Indiana Jones and the Last Crusade", "content_rating": "PG-13", "genre": "Action", "duration": 127, "actors_list": ["Harrison Ford", "Sean Connery", "Alison Doody"]}
+{"star_rating": 8.3, "title": "Unforgiven", "content_rating": "R", "genre": "Western", "duration": 131, "actors_list": ["Clint Eastwood", "Gene Hackman", "Morgan Freeman"]}
+{"star_rating": 8.3, "title": "The Great Escape", "content_rating": "UNRATED", "genre": "Adventure", "duration": 172, "actors_list": ["Steve McQueen", "James Garner", "Richard Attenborough"]}
+{"star_rating": 8.3, "title": "Jagten", "content_rating": "R", "genre": "Drama", "duration": 115, "actors_list": ["Mads Mikkelsen", "Thomas Bo Larsen", "Annika Wedderkopp"]}
+{"star_rating": 8.3, "title": "On the Waterfront", "content_rating": "NOT RATED", "genre": "Crime", "duration": 108, "actors_list": ["Marlon Brando", "Karl Malden", "Lee J. Cobb"]}
+{"star_rating": 8.3, "title": "The General", "content_rating": "UNRATED", "genre": "Action", "duration": 107, "actors_list": ["Buster Keaton", "Marion Mack", "Glen Cavender"]}
+{"star_rating": 8.3, "title": "Raging Bull", "content_rating": "R", "genre": "Biography", "duration": 129, "actors_list": ["Robert De Niro", "Cathy Moriarty", "Joe Pesci"]}
+{"star_rating": 8.3, "title": "Downfall", "content_rating": "R", "genre": "Biography", "duration": 156, "actors_list": ["Bruno Ganz", "Alexandra Maria Lara", "Ulrich Matthes"]}
+{"star_rating": 8.3, "title": "Up", "content_rating": "PG", "genre": "Animation", "duration": 96, "actors_list": ["Edward Asner", "Jordan Nagai", "John Ratzenberger"]}
+{"star_rating": 8.3, "title": "Wild Strawberries", "content_rating": "UNRATED", "genre": "Drama", "duration": 91, "actors_list": ["Victor Sj\u00f6str\u00f6m", "Bibi Andersson", "Ingrid Thulin"]}
+{"star_rating": 8.3, "title": "The Gold Rush", "content_rating": "NOT RATED", "genre": "Adventure", "duration": 95, "actors_list": ["Charles Chaplin", "Mack Swain", "Tom Murray"]}
+{"star_rating": 8.3, "title": "Ran", "content_rating": "R", "genre": "Action", "duration": 162, "actors_list": ["Tatsuya Nakadai", "Akira Terao", "Jinpachi Nezu"]}
+{"star_rating": 8.3, "title": "Chinatown", "content_rating": "R", "genre": "Drama", "duration": 130, "actors_list": ["Jack Nicholson", "Faye Dunaway", "John Huston"]}
+{"star_rating": 8.3, "title": "My Neighbor Totoro", "content_rating": "G", "genre": "Animation", "duration": 86, "actors_list": ["Hitoshi Takagi", "Noriko Hidaka", "Chika Sakamoto"]}
+{"star_rating": 8.3, "title": "Judgment at Nuremberg", "content_rating": "NOT RATED", "genre": "Drama", "duration": 186, "actors_list": ["Spencer Tracy", "Burt Lancaster", "Richard Widmark"]}
+{"star_rating": 8.3, "title": "Barfi!", "content_rating": "NOT RATED", "genre": "Adventure", "duration": 151, "actors_list": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana"]}
+{"star_rating": 8.3, "title": "The Seventh Seal", "content_rating": "NOT RATED", "genre": "Drama", "duration": 96, "actors_list": ["Max von Sydow", "Gunnar Bj\u00f6rnstrand", "Bengt Ekerot"]}
+{"star_rating": 8.3, "title": "Heat", "content_rating": "R", "genre": "Action", "duration": 170, "actors_list": ["Al Pacino", "Robert De Niro", "Val Kilmer"]}
+{"star_rating": 8.3, "title": "Pan's Labyrinth", "content_rating": "R", "genre": "Drama", "duration": 118, "actors_list": ["Ivana Baquero", "Ariadna Gil", "Sergi L\u00f3pez"]}
+{"star_rating": 8.3, "title": "The Bridge on the River Kwai", "content_rating": "PG", "genre": "Adventure", "duration": 161, "actors_list": ["William Holden", "Alec Guinness", "Jack Hawkins"]}
+{"star_rating": 8.3, "title": "Die Hard", "content_rating": "R", "genre": "Action", "duration": 131, "actors_list": ["Bruce Willis", "Alan Rickman", "Bonnie Bedelia"]}
+{"star_rating": 8.3, "title": "Good Will Hunting", "content_rating": "R", "genre": "Drama", "duration": 126, "actors_list": ["Robin Williams", "Matt Damon", "Ben Affleck"]}
+{"star_rating": 8.3, "title": "The Wages of Fear", "content_rating": "NOT RATED", "genre": "Adventure", "duration": 131, "actors_list": ["Yves Montand", "Charles Vanel", "Peter van Eyck"]}
+{"star_rating": 8.3, "title": "The Secret in Their Eyes", "content_rating": "R", "genre": "Drama", "duration": 129, "actors_list": ["Ricardo Dar\u00edn", "Soledad Villamil", "Pablo Rago"]}
+{"star_rating": 8.3, "title": "Lagaan: Once Upon a Time in India", "content_rating": "PG", "genre": "Adventure", "duration": 224, "actors_list": ["Aamir Khan", "Gracy Singh", "Rachel Shelley"]}
+{"star_rating": 8.2, "title": "The Wolf of Wall Street", "content_rating": "R", "genre": "Biography", "duration": 180, "actors_list": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"]}
+{"star_rating": 8.2, "title": "It Happened One Night", "content_rating": "UNRATED", "genre": "Comedy", "duration": 105, "actors_list": ["Clark Gable", "Claudette Colbert", "Walter Connolly"]}
+{"star_rating": 8.2, "title": "Blade Runner", "content_rating": "R", "genre": "Sci-Fi", "duration": 117, "actors_list": ["Harrison Ford", "Rutger Hauer", "Sean Young"]}
+{"star_rating": 8.2, "title": "Warrior", "content_rating": "PG-13", "genre": "Drama", "duration": 140, "actors_list": ["Tom Hardy", "Nick Nolte", "Joel Edgerton"]}
+{"star_rating": 8.2, "title": "Howl's Moving Castle", "content_rating": "PG", "genre": "Animation", "duration": 119, "actors_list": ["Chieko Baish\u00f4", "Takuya Kimura", "Tatsuya Gash\u00fbin"]}
+{"star_rating": 8.2, "title": "The Elephant Man", "content_rating": "PG", "genre": "Biography", "duration": 124, "actors_list": ["Anthony Hopkins", "John Hurt", "Anne Bancroft"]}
+{"star_rating": 8.2, "title": "Rebecca", "content_rating": "NOT RATED", "genre": "Mystery", "duration": 130, "actors_list": ["Laurence Olivier", "Joan Fontaine", "George Sanders"]}
+{"star_rating": 8.2, "title": "Incendies", "content_rating": "R", "genre": "Drama", "duration": 139, "actors_list": ["Lubna Azabal", "M\u00e9lissa D\u00e9sormeaux-Poulin", "Maxim Gaudette"]}
+{"star_rating": 8.2, "title": "Lock, Stock and Two Smoking Barrels", "content_rating": "R", "genre": "Comedy", "duration": 107, "actors_list": ["Jason Flemyng", "Dexter Fletcher", "Nick Moran"]}
+{"star_rating": 8.2, "title": "V for Vendetta", "content_rating": "R", "genre": "Action", "duration": 132, "actors_list": ["Hugo Weaving", "Natalie Portman", "Rupert Graves"]}
+{"star_rating": 8.2, "title": "The Big Lebowski", "content_rating": "R", "genre": "Comedy", "duration": 117, "actors_list": ["Jeff Bridges", "John Goodman", "Julianne Moore"]}
+{"star_rating": 8.2, "title": "Cool Hand Luke", "content_rating": "PG", "genre": "Crime", "duration": 126, "actors_list": ["Paul Newman", "George Kennedy", "Strother Martin"]}
+{"star_rating": 8.2, "title": "Relatos salvajes", "content_rating": "R", "genre": "Comedy", "duration": 122, "actors_list": ["Dar\u00edo Grandinetti", "Mar\u00eda Marull", "M\u00f3nica Villa"]}
+{"star_rating": 8.2, "title": "Casino", "content_rating": "R", "genre": "Biography", "duration": 178, "actors_list": ["Robert De Niro", "Sharon Stone", "Joe Pesci"]}
+{"star_rating": 8.2, "title": "Gone with the Wind", "content_rating": "G", "genre": "Drama", "duration": 238, "actors_list": ["Clark Gable", "Vivien Leigh", "Thomas Mitchell"]}
+{"star_rating": 8.2, "title": "Gone Girl", "content_rating": "R", "genre": "Drama", "duration": 149, "actors_list": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"]}
+{"star_rating": 8.2, "title": "The Best Years of Our Lives", "content_rating": "PASSED", "genre": "Drama", "duration": 172, "actors_list": ["Fredric March", "Dana Andrews", "Myrna Loy"]}
+{"star_rating": 8.2, "title": "How to Train Your Dragon", "content_rating": "PG", "genre": "Animation", "duration": 98, "actors_list": ["Jay Baruchel", "Gerard Butler", "Christopher Mintz-Plasse"]}
+{"star_rating": 8.2, "title": "Diabolique", "content_rating": "UNRATED", "genre": "Horror", "duration": 116, "actors_list": ["Simone Signoret", "V\u00e9ra Clouzot", "Paul Meurisse"]}
+{"star_rating": 8.2, "title": "Gran Torino", "content_rating": "R", "genre": "Drama", "duration": 116, "actors_list": ["Clint Eastwood", "Bee Vang", "Christopher Carley"]}
+{"star_rating": 8.2, "title": "Rush", "content_rating": "R", "genre": "Action", "duration": 123, "actors_list": ["Daniel Br\u00fchl", "Chris Hemsworth", "Olivia Wilde"]}
+{"star_rating": 8.2, "title": "Into the Wild", "content_rating": "R", "genre": "Adventure", "duration": 148, "actors_list": ["Emile Hirsch", "Vince Vaughn", "Catherine Keener"]}
+{"star_rating": 8.2, "title": "My Sassy Girl", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 123, "actors_list": ["Tae-hyun Cha", "Gianna Jun", "In-mun Kim"]}
+{"star_rating": 8.2, "title": "The Deer Hunter", "content_rating": "R", "genre": "Drama", "duration": 182, "actors_list": ["Robert De Niro", "Christopher Walken", "John Cazale"]}
+{"star_rating": 8.2, "title": "Mary and Max", "content_rating": "NOT RATED", "genre": "Animation", "duration": 92, "actors_list": ["Toni Collette", "Philip Seymour Hoffman", "Eric Bana"]}
+{"star_rating": 8.2, "title": "Hachi: A Dog's Tale", "content_rating": "G", "genre": "Drama", "duration": 93, "actors_list": ["Richard Gere", "Joan Allen", "Cary-Hiroyuki Tagawa"]}
+{"star_rating": 8.2, "title": "The Maltese Falcon", "content_rating": "NOT RATED", "genre": "Crime", "duration": 100, "actors_list": ["Humphrey Bogart", "Mary Astor", "Gladys George"]}
+{"star_rating": 8.2, "title": "A Beautiful Mind", "content_rating": "PG-13", "genre": "Biography", "duration": 135, "actors_list": ["Russell Crowe", "Ed Harris", "Jennifer Connelly"]}
+{"star_rating": 8.2, "title": "Dial M for Murder", "content_rating": "PG", "genre": "Crime", "duration": 105, "actors_list": ["Ray Milland", "Grace Kelly", "Robert Cummings"]}
+{"star_rating": 8.2, "title": "Trainspotting", "content_rating": "R", "genre": "Drama", "duration": 94, "actors_list": ["Ewan McGregor", "Ewen Bremner", "Jonny Lee Miller"]}
+{"star_rating": 8.2, "title": "Tae Guk Gi: The Brotherhood of War", "content_rating": "R", "genre": "Action", "duration": 140, "actors_list": ["Dong-gun Jang", "Bin Won", "Eun-ju Lee"]}
+{"star_rating": 8.2, "title": "Persona", "content_rating": "NOT RATED", "genre": "Drama", "duration": 83, "actors_list": ["Bibi Andersson", "Liv Ullmann", "Margaretha Krook"]}
+{"star_rating": 8.2, "title": "Touch of Evil", "content_rating": "PG-13", "genre": "Crime", "duration": 95, "actors_list": ["Charlton Heston", "Orson Welles", "Janet Leigh"]}
+{"star_rating": 8.2, "title": "Fargo", "content_rating": "R", "genre": "Crime", "duration": 98, "actors_list": ["William H. Macy", "Frances McDormand", "Steve Buscemi"]}
+{"star_rating": 8.2, "title": "The Avengers", "content_rating": "PG-13", "genre": "Action", "duration": 143, "actors_list": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]}
+{"star_rating": 8.2, "title": "The 400 Blows", "content_rating": "NOT RATED", "genre": "Crime", "duration": 99, "actors_list": ["Jean-Pierre L\u00e9aud", "Albert R\u00e9my", "Claire Maurier"]}
+{"star_rating": 8.2, "title": "The Princess Bride", "content_rating": "PG", "genre": "Adventure", "duration": 98, "actors_list": ["Cary Elwes", "Mandy Patinkin", "Robin Wright"]}
+{"star_rating": 8.2, "title": "Hotel Rwanda", "content_rating": "PG-13", "genre": "Drama", "duration": 121, "actors_list": ["Don Cheadle", "Sophie Okonedo", "Joaquin Phoenix"]}
+{"star_rating": 8.2, "title": "Stalker", "content_rating": "NOT RATED", "genre": "Drama", "duration": 163, "actors_list": ["Alisa Freyndlikh", "Aleksandr Kaydanovskiy", "Anatoliy Solonitsyn"]}
+{"star_rating": 8.2, "title": "The Battle of Algiers", "content_rating": "NOT RATED", "genre": "Crime", "duration": 121, "actors_list": ["Brahim Hadjadj", "Jean Martin", "Yacef Saadi"]}
+{"star_rating": 8.2, "title": "Underground", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 167, "actors_list": ["Predrag Manojlovic", "Lazar Ristovski", "Mirjana Jokovic"]}
+{"star_rating": 8.2, "title": "Fanny and Alexander", "content_rating": "R", "genre": "Drama", "duration": 188, "actors_list": ["Bertil Guve", "Pernilla Allwin", "Kristina Adolphson"]}
+{"star_rating": 8.2, "title": "Network", "content_rating": "R", "genre": "Drama", "duration": 121, "actors_list": ["Faye Dunaway", "William Holden", "Peter Finch"]}
+{"star_rating": 8.2, "title": "The Thing", "content_rating": "R", "genre": "Horror", "duration": 109, "actors_list": ["Kurt Russell", "Wilford Brimley", "Keith David"]}
+{"star_rating": 8.2, "title": "Butch Cassidy and the Sundance Kid", "content_rating": "", "genre": "Biography", "duration": 110, "actors_list": ["Paul Newman", "Robert Redford", "Katharine Ross"]}
+{"star_rating": 8.2, "title": "The Grapes of Wrath", "content_rating": "NOT RATED", "genre": "Drama", "duration": 129, "actors_list": ["Henry Fonda", "Jane Darwell", "John Carradine"]}
+{"star_rating": 8.2, "title": "Black Cat, White Cat", "content_rating": "R", "genre": "Comedy", "duration": 127, "actors_list": ["Bajram Severdzan", "Srdjan Todorovic", "Branka Katic"]}
+{"star_rating": 8.2, "title": "Life of Brian", "content_rating": "R", "genre": "Comedy", "duration": 94, "actors_list": ["Graham Chapman", "John Cleese", "Michael Palin"]}
+{"star_rating": 8.2, "title": "The Sixth Sense", "content_rating": "PG-13", "genre": "Drama", "duration": 107, "actors_list": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"]}
+{"star_rating": 8.2, "title": "Finding Nemo", "content_rating": "G", "genre": "Animation", "duration": 100, "actors_list": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"]}
+{"star_rating": 8.2, "title": "Nausicaa of the Valley of the Wind", "content_rating": "PG", "genre": "Animation", "duration": 117, "actors_list": ["Sumi Shimamoto", "Mahito Tsujimura", "Hisako Ky\u00f4da"]}
+{"star_rating": 8.1, "title": "Kingsman: The Secret Service", "content_rating": "R", "genre": "Action", "duration": 129, "actors_list": ["Colin Firth", "Taron Egerton", "Samuel L. Jackson"]}
+{"star_rating": 8.1, "title": "Platoon", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Charlie Sheen", "Tom Berenger", "Willem Dafoe"]}
+{"star_rating": 8.1, "title": "Guardians of the Galaxy", "content_rating": "PG-13", "genre": "Action", "duration": 121, "actors_list": ["Chris Pratt", "Vin Diesel", "Bradley Cooper"]}
+{"star_rating": 8.1, "title": "In the Name of the Father", "content_rating": "R", "genre": "Biography", "duration": 133, "actors_list": ["Daniel Day-Lewis", "Pete Postlethwaite", "Alison Crosbie"]}
+{"star_rating": 8.1, "title": "Kill Bill: Vol. 1", "content_rating": "R", "genre": "Action", "duration": 111, "actors_list": ["Uma Thurman", "David Carradine", "Daryl Hannah"]}
+{"star_rating": 8.1, "title": "No Country for Old Men", "content_rating": "R", "genre": "Crime", "duration": 122, "actors_list": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"]}
+{"star_rating": 8.1, "title": "Le Samourai", "content_rating": "PG", "genre": "Crime", "duration": 101, "actors_list": ["Alain Delon", "Nathalie Delon", "Fran\u00e7ois P\u00e9rier"]}
+{"star_rating": 8.1, "title": "12 Years a Slave", "content_rating": "R", "genre": "Biography", "duration": 134, "actors_list": ["Chiwetel Ejiofor", "Michael Kenneth Williams", "Michael Fassbender"]}
+{"star_rating": 8.1, "title": "La leggenda del pianista sull'oceano", "content_rating": "R", "genre": "Drama", "duration": 165, "actors_list": ["Tim Roth", "Pruitt Taylor Vince", "Bill Nunn"]}
+{"star_rating": 8.1, "title": "8 1/2", "content_rating": "NOT RATED", "genre": "Drama", "duration": 138, "actors_list": ["Marcello Mastroianni", "Anouk Aim\u00e9e", "Claudia Cardinale"]}
+{"star_rating": 8.1, "title": "Ben-Hur", "content_rating": "G", "genre": "Adventure", "duration": 212, "actors_list": ["Charlton Heston", "Jack Hawkins", "Stephen Boyd"]}
+{"star_rating": 8.1, "title": "Amores Perros", "content_rating": "R", "genre": "Drama", "duration": 154, "actors_list": ["Emilio Echevarr\u00eda", "Gael Garc\u00eda Bernal", "Goya Toledo"]}
+{"star_rating": 8.1, "title": "Stand by Me", "content_rating": "R", "genre": "Adventure", "duration": 89, "actors_list": ["Wil Wheaton", "River Phoenix", "Corey Feldman"]}
+{"star_rating": 8.1, "title": "What Ever Happened to Baby Jane?", "content_rating": "APPROVED", "genre": "Drama", "duration": 134, "actors_list": ["Bette Davis", "Joan Crawford", "Victor Buono"]}
+{"star_rating": 8.1, "title": "Annie Hall", "content_rating": "PG", "genre": "Comedy", "duration": 93, "actors_list": ["Woody Allen", "Diane Keaton", "Tony Roberts"]}
+{"star_rating": 8.1, "title": "The Imitation Game", "content_rating": "PG-13", "genre": "Biography", "duration": 114, "actors_list": ["Benedict Cumberbatch", "Keira Knightley", "Matthew Goode"]}
+{"star_rating": 8.1, "title": "Laura", "content_rating": "APPROVED", "genre": "Film-Noir", "duration": 88, "actors_list": ["Gene Tierney", "Dana Andrews", "Clifton Webb"]}
+{"star_rating": 8.1, "title": "Departures", "content_rating": "PG-13", "genre": "Drama", "duration": 130, "actors_list": ["Masahiro Motoki", "Ry\u00f4ko Hirosue", "Tsutomu Yamazaki"]}
+{"star_rating": 8.1, "title": "Infernal Affairs", "content_rating": "R", "genre": "Crime", "duration": 101, "actors_list": ["Andy Lau", "Tony Chiu Wai Leung", "Anthony Chau-Sang Wong"]}
+{"star_rating": 8.1, "title": "There Will Be Blood", "content_rating": "R", "genre": "Drama", "duration": 158, "actors_list": ["Daniel Day-Lewis", "Paul Dano", "Ciar\u00e1n Hinds"]}
+{"star_rating": 8.1, "title": "The Grand Budapest Hotel", "content_rating": "R", "genre": "Adventure", "duration": 99, "actors_list": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"]}
+{"star_rating": 8.1, "title": "La Strada", "content_rating": "NOT RATED", "genre": "Drama", "duration": 108, "actors_list": ["Anthony Quinn", "Giulietta Masina", "Richard Basehart"]}
+{"star_rating": 8.1, "title": "Sin City", "content_rating": "R", "genre": "Crime", "duration": 124, "actors_list": ["Mickey Rourke", "Clive Owen", "Bruce Willis"]}
+{"star_rating": 8.1, "title": "Memories of Murder", "content_rating": "UNRATED", "genre": "Crime", "duration": 132, "actors_list": ["Kang-ho Song", "Sang-kyung Kim", "Roe-ha Kim"]}
+{"star_rating": 8.1, "title": "Donnie Darko", "content_rating": "R", "genre": "Drama", "duration": 113, "actors_list": ["Jake Gyllenhaal", "Jena Malone", "Mary McDonnell"]}
+{"star_rating": 8.1, "title": "Who's Afraid of Virginia Woolf?", "content_rating": "TV-MA", "genre": "Drama", "duration": 131, "actors_list": ["Elizabeth Taylor", "Richard Burton", "George Segal"]}
+{"star_rating": 8.1, "title": "Gandhi", "content_rating": "PG", "genre": "Biography", "duration": 191, "actors_list": ["Ben Kingsley", "John Gielgud", "Candice Bergen"]}
+{"star_rating": 8.1, "title": "Solaris", "content_rating": "PG", "genre": "Drama", "duration": 167, "actors_list": ["Natalya Bondarchuk", "Donatas Banionis", "J\u00fcri J\u00e4rvet"]}
+{"star_rating": 8.1, "title": "Harry Potter and the Deathly Hallows: Part 2", "content_rating": "PG-13", "genre": "Adventure", "duration": 130, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 8.1, "title": "Paris, Texas", "content_rating": "R", "genre": "Drama", "duration": 147, "actors_list": ["Harry Dean Stanton", "Nastassja Kinski", "Dean Stockwell"]}
+{"star_rating": 8.1, "title": "The Wizard of Oz", "content_rating": "PASSED", "genre": "Adventure", "duration": 102, "actors_list": ["Judy Garland", "Frank Morgan", "Ray Bolger"]}
+{"star_rating": 8.1, "title": "3-Iron", "content_rating": "R", "genre": "Crime", "duration": 88, "actors_list": ["Seung-yeon Lee", "Hyun-kyoon Lee", "Hyuk-ho Kwon"]}
+{"star_rating": 8.1, "title": "Boyhood", "content_rating": "R", "genre": "Drama", "duration": 165, "actors_list": ["Ellar Coltrane", "Patricia Arquette", "Ethan Hawke"]}
+{"star_rating": 8.1, "title": "Million Dollar Baby", "content_rating": "PG-13", "genre": "Drama", "duration": 132, "actors_list": ["Hilary Swank", "Clint Eastwood", "Morgan Freeman"]}
+{"star_rating": 8.1, "title": "The Last Picture Show", "content_rating": "R", "genre": "Drama", "duration": 118, "actors_list": ["Timothy Bottoms", "Jeff Bridges", "Cybill Shepherd"]}
+{"star_rating": 8.1, "title": "Strangers on a Train", "content_rating": "APPROVED", "genre": "Crime", "duration": 101, "actors_list": ["Farley Granger", "Robert Walker", "Ruth Roman"]}
+{"star_rating": 8.1, "title": "Cat on a Hot Tin Roof", "content_rating": "APPROVED", "genre": "Drama", "duration": 108, "actors_list": ["Elizabeth Taylor", "Paul Newman", "Burl Ives"]}
+{"star_rating": 8.1, "title": "La Dolce Vita", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 174, "actors_list": ["Marcello Mastroianni", "Anita Ekberg", "Anouk Aim\u00e9e"]}
+{"star_rating": 8.1, "title": "Chungking Express", "content_rating": "PG-13", "genre": "Drama", "duration": 98, "actors_list": ["Brigitte Lin", "Takeshi Kaneshiro", "Tony Chiu Wai Leung"]}
+{"star_rating": 8.1, "title": "The Night of the Hunter", "content_rating": "APPROVED", "genre": "Crime", "duration": 92, "actors_list": ["Robert Mitchum", "Shelley Winters", "Lillian Gish"]}
+{"star_rating": 8.1, "title": "La Haine", "content_rating": "NOT RATED", "genre": "Crime", "duration": 98, "actors_list": ["Vincent Cassel", "Hubert Kound\u00e9", "Sa\u00efd Taghmaoui"]}
+{"star_rating": 8.1, "title": "Yip Man", "content_rating": "R", "genre": "Action", "duration": 106, "actors_list": ["Donnie Yen", "Simon Yam", "Siu-Wong Fan"]}
+{"star_rating": 8.1, "title": "High Noon", "content_rating": "PG", "genre": "Western", "duration": 85, "actors_list": ["Gary Cooper", "Grace Kelly", "Thomas Mitchell"]}
+{"star_rating": 8.1, "title": "Notorious", "content_rating": "APPROVED", "genre": "Drama", "duration": 101, "actors_list": ["Cary Grant", "Ingrid Bergman", "Claude Rains"]}
+{"star_rating": 8.1, "title": "Before Sunrise", "content_rating": "R", "genre": "Drama", "duration": 105, "actors_list": ["Ethan Hawke", "Julie Delpy", "Andrea Eckert"]}
+{"star_rating": 8.1, "title": "Elite Squad: The Enemy Within", "content_rating": "UNRATED", "genre": "Action", "duration": 115, "actors_list": ["Wagner Moura", "Irandhir Santos", "Andr\u00e9 Ramiro"]}
+{"star_rating": 8.1, "title": "The Bourne Ultimatum", "content_rating": "PG-13", "genre": "Action", "duration": 115, "actors_list": ["Matt Damon", "\u00c9dgar Ram\u00edrez", "Joan Allen"]}
+{"star_rating": 8.1, "title": "Castle in the Sky", "content_rating": "PG", "genre": "Animation", "duration": 124, "actors_list": ["Anna Paquin", "James Van Der Beek", "Cloris Leachman"]}
+{"star_rating": 8.1, "title": "The Celebration", "content_rating": "R", "genre": "Drama", "duration": 105, "actors_list": ["Ulrich Thomsen", "Henning Moritzen", "Thomas Bo Larsen"]}
+{"star_rating": 8.1, "title": "Spring, Summer, Fall, Winter... and Spring", "content_rating": "R", "genre": "Drama", "duration": 103, "actors_list": ["Ki-duk Kim", "Yeong-su Oh", "Jong-ho Kim"]}
+{"star_rating": 8.1, "title": "Shutter Island", "content_rating": "R", "genre": "Mystery", "duration": 138, "actors_list": ["Leonardo DiCaprio", "Emily Mortimer", "Mark Ruffalo"]}
+{"star_rating": 8.1, "title": "Barry Lyndon", "content_rating": "PG", "genre": "Adventure", "duration": 184, "actors_list": ["Ryan O'Neal", "Marisa Berenson", "Patrick Magee"]}
+{"star_rating": 8.1, "title": "Stalag 17", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 120, "actors_list": ["William Holden", "Don Taylor", "Otto Preminger"]}
+{"star_rating": 8.1, "title": "Three Colors: Red", "content_rating": "R", "genre": "Drama", "duration": 99, "actors_list": ["Ir\u00e8ne Jacob", "Jean-Louis Trintignant", "Fr\u00e9d\u00e9rique Feder"]}
+{"star_rating": 8.1, "title": "X-Men: Days of Future Past", "content_rating": "PG-13", "genre": "Action", "duration": 131, "actors_list": ["Patrick Stewart", "Ian McKellen", "Hugh Jackman"]}
+{"star_rating": 8.1, "title": "Sleuth", "content_rating": "PG", "genre": "Mystery", "duration": 138, "actors_list": ["Laurence Olivier", "Michael Caine", "Alec Cawthorne"]}
+{"star_rating": 8.1, "title": "In the Mood for Love", "content_rating": "PG", "genre": "Drama", "duration": 98, "actors_list": ["Tony Chiu Wai Leung", "Maggie Cheung", "Ping Lam Siu"]}
+{"star_rating": 8.1, "title": "The Man Who Shot Liberty Valance", "content_rating": "APPROVED", "genre": "Drama", "duration": 123, "actors_list": ["James Stewart", "John Wayne", "Vera Miles"]}
+{"star_rating": 8.1, "title": "Arsenic and Old Lace", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 118, "actors_list": ["Cary Grant", "Priscilla Lane", "Raymond Massey"]}
+{"star_rating": 8.1, "title": "The Big Sleep", "content_rating": "APPROVED", "genre": "Crime", "duration": 114, "actors_list": ["Humphrey Bogart", "Lauren Bacall", "John Ridgely"]}
+{"star_rating": 8.1, "title": "Roman Holiday", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 118, "actors_list": ["Gregory Peck", "Audrey Hepburn", "Eddie Albert"]}
+{"star_rating": 8.1, "title": "The Philadelphia Story", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 112, "actors_list": ["Cary Grant", "Katharine Hepburn", "James Stewart"]}
+{"star_rating": 8.1, "title": "Akira", "content_rating": "R", "genre": "Animation", "duration": 124, "actors_list": ["Nozomu Sasaki", "Mami Koyama", "Mitsuo Iwata"]}
+{"star_rating": 8.1, "title": "Anatomy of a Murder", "content_rating": "UNRATED", "genre": "Crime", "duration": 160, "actors_list": ["James Stewart", "Lee Remick", "Ben Gazzara"]}
+{"star_rating": 8.1, "title": "The Cabinet of Dr. Caligari", "content_rating": "UNRATED", "genre": "Crime", "duration": 67, "actors_list": ["Werner Krauss", "Conrad Veidt", "Friedrich Feher"]}
+{"star_rating": 8.1, "title": "The Help", "content_rating": "PG-13", "genre": "Drama", "duration": 146, "actors_list": ["Emma Stone", "Viola Davis", "Octavia Spencer"]}
+{"star_rating": 8.1, "title": "The Sea Inside", "content_rating": "PG-13", "genre": "Biography", "duration": 125, "actors_list": ["Javier Bardem", "Bel\u00e9n Rueda", "Lola Due\u00f1as"]}
+{"star_rating": 8.1, "title": "Elite Squad", "content_rating": "R", "genre": "Action", "duration": 115, "actors_list": ["Wagner Moura", "Andr\u00e9 Ramiro", "Caio Junqueira"]}
+{"star_rating": 8.1, "title": "The Hustler", "content_rating": "UNRATED", "genre": "Drama", "duration": 134, "actors_list": ["Paul Newman", "Jackie Gleason", "Piper Laurie"]}
+{"star_rating": 8.1, "title": "Rio Bravo", "content_rating": "NOT RATED", "genre": "Western", "duration": 141, "actors_list": ["John Wayne", "Dean Martin", "Ricky Nelson"]}
+{"star_rating": 8.1, "title": "Twelve Monkeys", "content_rating": "R", "genre": "Mystery", "duration": 129, "actors_list": ["Bruce Willis", "Madeleine Stowe", "Brad Pitt"]}
+{"star_rating": 8.1, "title": "Harvey", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 104, "actors_list": ["James Stewart", "Josephine Hull", "Peggy Dow"]}
+{"star_rating": 8.1, "title": "A Christmas Story", "content_rating": "PG", "genre": "Comedy", "duration": 94, "actors_list": ["Peter Billingsley", "Melinda Dillon", "Darren McGavin"]}
+{"star_rating": 8.1, "title": "Jaws", "content_rating": "PG", "genre": "Drama", "duration": 124, "actors_list": ["Roy Scheider", "Robert Shaw", "Richard Dreyfuss"]}
+{"star_rating": 8.1, "title": "The Raid 2", "content_rating": "R", "genre": "Action", "duration": 150, "actors_list": ["Iko Uwais", "Yayan Ruhian", "Arifin Putra"]}
+{"star_rating": 8.1, "title": "Rocky", "content_rating": "PG", "genre": "Drama", "duration": 119, "actors_list": ["Sylvester Stallone", "Talia Shire", "Burt Young"]}
+{"star_rating": 8.1, "title": "Wings of Desire", "content_rating": "PG-13", "genre": "Drama", "duration": 128, "actors_list": ["Bruno Ganz", "Solveig Dommartin", "Otto Sander"]}
+{"star_rating": 8.1, "title": "Pirates of the Caribbean: The Curse of the Black Pearl", "content_rating": "PG-13", "genre": "Adventure", "duration": 143, "actors_list": ["Johnny Depp", "Geoffrey Rush", "Orlando Bloom"]}
+{"star_rating": 8.1, "title": "The Killing", "content_rating": "APPROVED", "genre": "Crime", "duration": 85, "actors_list": ["Sterling Hayden", "Coleen Gray", "Vince Edwards"]}
+{"star_rating": 8.1, "title": "Papillon", "content_rating": "R", "genre": "Biography", "duration": 151, "actors_list": ["Steve McQueen", "Dustin Hoffman", "Victor Jory"]}
+{"star_rating": 8.1, "title": "The King's Speech", "content_rating": "R", "genre": "Biography", "duration": 118, "actors_list": ["Colin Firth", "Geoffrey Rush", "Helena Bonham Carter"]}
+{"star_rating": 8.1, "title": "Groundhog Day", "content_rating": "PG", "genre": "Comedy", "duration": 101, "actors_list": ["Bill Murray", "Andie MacDowell", "Chris Elliott"]}
+{"star_rating": 8.1, "title": "A Fistful of Dollars", "content_rating": "R", "genre": "Action", "duration": 99, "actors_list": ["Clint Eastwood", "Gian Maria Volont\u00e9", "Marianne Koch"]}
+{"star_rating": 8.1, "title": "Monsters, Inc.", "content_rating": "G", "genre": "Animation", "duration": 92, "actors_list": ["Billy Crystal", "John Goodman", "Mary Gibbs"]}
+{"star_rating": 8.1, "title": "Dog Day Afternoon", "content_rating": "R", "genre": "Crime", "duration": 125, "actors_list": ["Al Pacino", "John Cazale", "Penelope Allen"]}
+{"star_rating": 8.1, "title": "The Perks of Being a Wallflower", "content_rating": "PG-13", "genre": "Drama", "duration": 102, "actors_list": ["Logan Lerman", "Emma Watson", "Ezra Miller"]}
+{"star_rating": 8.1, "title": "Young Frankenstein", "content_rating": "PG", "genre": "Comedy", "duration": 106, "actors_list": ["Gene Wilder", "Madeline Kahn", "Marty Feldman"]}
+{"star_rating": 8.1, "title": "The Terminator", "content_rating": "R", "genre": "Action", "duration": 107, "actors_list": ["Arnold Schwarzenegger", "Linda Hamilton", "Michael Biehn"]}
+{"star_rating": 8.1, "title": "Harold and Maude", "content_rating": "GP", "genre": "Comedy", "duration": 91, "actors_list": ["Ruth Gordon", "Bud Cort", "Vivian Pickles"]}
+{"star_rating": 8.1, "title": "Before Sunset", "content_rating": "R", "genre": "Drama", "duration": 80, "actors_list": ["Ethan Hawke", "Julie Delpy", "Vernon Dobtcheff"]}
+{"star_rating": 8.1, "title": "A Streetcar Named Desire", "content_rating": "PG", "genre": "Drama", "duration": 122, "actors_list": ["Vivien Leigh", "Marlon Brando", "Kim Hunter"]}
+{"star_rating": 8.1, "title": "Bringing Up Baby", "content_rating": "APPROVED", "genre": "Comedy", "duration": 102, "actors_list": ["Katharine Hepburn", "Cary Grant", "Charles Ruggles"]}
+{"star_rating": 8.1, "title": "The Diving Bell and the Butterfly", "content_rating": "PG-13", "genre": "Biography", "duration": 112, "actors_list": ["Mathieu Amalric", "Emmanuelle Seigner", "Marie-Jos\u00e9e Croze"]}
+{"star_rating": 8.1, "title": "His Girl Friday", "content_rating": "APPROVED", "genre": "Comedy", "duration": 92, "actors_list": ["Cary Grant", "Rosalind Russell", "Ralph Bellamy"]}
+{"star_rating": 8.1, "title": "Sling Blade", "content_rating": "R", "genre": "Drama", "duration": 135, "actors_list": ["Billy Bob Thornton", "Dwight Yoakam", "J.T. Walsh"]}
+{"star_rating": 8.1, "title": "All Quiet on the Western Front", "content_rating": "UNRATED", "genre": "Drama", "duration": 136, "actors_list": ["Lew Ayres", "Louis Wolheim", "John Wray"]}
+{"star_rating": 8.1, "title": "Prisoners", "content_rating": "R", "genre": "Crime", "duration": 153, "actors_list": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis"]}
+{"star_rating": 8.1, "title": "The Return", "content_rating": "UNRATED", "genre": "Drama", "duration": 105, "actors_list": ["Vladimir Garin", "Ivan Dobronravov", "Konstantin Lavronenko"]}
+{"star_rating": 8.1, "title": "The Manchurian Candidate", "content_rating": "APPROVED", "genre": "Mystery", "duration": 126, "actors_list": ["Frank Sinatra", "Laurence Harvey", "Janet Leigh"]}
+{"star_rating": 8.1, "title": "Duck Soup", "content_rating": "PASSED", "genre": "Comedy", "duration": 68, "actors_list": ["Groucho Marx", "Harpo Marx", "Chico Marx"]}
+{"star_rating": 8.1, "title": "Beauty and the Beast", "content_rating": "G", "genre": "Animation", "duration": 84, "actors_list": ["Paige O'Hara", "Robby Benson", "Richard White"]}
+{"star_rating": 8.1, "title": "The Truman Show", "content_rating": "PG", "genre": "Drama", "duration": 103, "actors_list": ["Jim Carrey", "Ed Harris", "Laura Linney"]}
+{"star_rating": 8.1, "title": "The Wild Bunch", "content_rating": "R", "genre": "Action", "duration": 145, "actors_list": ["William Holden", "Ernest Borgnine", "Robert Ryan"]}
+{"star_rating": 8.0, "title": "Rope", "content_rating": "PG", "genre": "Crime", "duration": 80, "actors_list": ["James Stewart", "John Dall", "Farley Granger"]}
+{"star_rating": 8.0, "title": "The Graduate", "content_rating": "APPROVED", "genre": "Comedy", "duration": 106, "actors_list": ["Dustin Hoffman", "Anne Bancroft", "Katharine Ross"]}
+{"star_rating": 8.0, "title": "Jurassic Park", "content_rating": "PG-13", "genre": "Adventure", "duration": 127, "actors_list": ["Sam Neill", "Laura Dern", "Jeff Goldblum"]}
+{"star_rating": 8.0, "title": "Dogville", "content_rating": "R", "genre": "Crime", "duration": 178, "actors_list": ["Nicole Kidman", "Paul Bettany", "Lauren Bacall"]}
+{"star_rating": 8.0, "title": "Furious 7", "content_rating": "PG-13", "genre": "Action", "duration": 137, "actors_list": ["Vin Diesel", "Paul Walker", "Dwayne Johnson"]}
+{"star_rating": 8.0, "title": "Patton", "content_rating": "GP", "genre": "Biography", "duration": 172, "actors_list": ["George C. Scott", "Karl Malden", "Stephen Young"]}
+{"star_rating": 8.0, "title": "The Nightmare Before Christmas", "content_rating": "PG", "genre": "Animation", "duration": 76, "actors_list": ["Danny Elfman", "Chris Sarandon", "Catherine O'Hara"]}
+{"star_rating": 8.0, "title": "Being There", "content_rating": "PG", "genre": "Comedy", "duration": 130, "actors_list": ["Peter Sellers", "Shirley MacLaine", "Melvyn Douglas"]}
+{"star_rating": 8.0, "title": "Persepolis", "content_rating": "PG-13", "genre": "Animation", "duration": 96, "actors_list": ["Chiara Mastroianni", "Catherine Deneuve", "Gena Rowlands"]}
+{"star_rating": 8.0, "title": "This Is Spinal Tap", "content_rating": "R", "genre": "Comedy", "duration": 82, "actors_list": ["Rob Reiner", "Michael McKean", "Christopher Guest"]}
+{"star_rating": 8.0, "title": "East of Eden", "content_rating": "PG", "genre": "Drama", "duration": 115, "actors_list": ["James Dean", "Raymond Massey", "Julie Harris"]}
+{"star_rating": 8.0, "title": "Pink Floyd The Wall", "content_rating": "R", "genre": "Animation", "duration": 95, "actors_list": ["Bob Geldof", "Christine Hargreaves", "James Laurenson"]}
+{"star_rating": 8.0, "title": "Blood Diamond", "content_rating": "R", "genre": "Adventure", "duration": 143, "actors_list": ["Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly"]}
+{"star_rating": 8.0, "title": "Big Fish", "content_rating": "PG-13", "genre": "Adventure", "duration": 125, "actors_list": ["Ewan McGregor", "Albert Finney", "Billy Crudup"]}
+{"star_rating": 8.0, "title": "Slumdog Millionaire", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Dev Patel", "Freida Pinto", "Saurabh Shukla"]}
+{"star_rating": 8.0, "title": "Star Trek", "content_rating": "PG-13", "genre": "Action", "duration": 127, "actors_list": ["Chris Pine", "Zachary Quinto", "Simon Pegg"]}
+{"star_rating": 8.0, "title": "The Straight Story", "content_rating": "G", "genre": "Biography", "duration": 112, "actors_list": ["Richard Farnsworth", "Sissy Spacek", "Jane Galloway Heitz"]}
+{"star_rating": 8.0, "title": "Crimes and Misdemeanors", "content_rating": "PG-13", "genre": "Comedy", "duration": 104, "actors_list": ["Martin Landau", "Woody Allen", "Bill Bernstein"]}
+{"star_rating": 8.0, "title": "Charade", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 113, "actors_list": ["Cary Grant", "Audrey Hepburn", "Walter Matthau"]}
+{"star_rating": 8.0, "title": "JFK", "content_rating": "R", "genre": "Drama", "duration": 189, "actors_list": ["Kevin Costner", "Gary Oldman", "Jack Lemmon"]}
+{"star_rating": 8.0, "title": "Dawn of the Dead", "content_rating": "UNRATED", "genre": "Horror", "duration": 127, "actors_list": ["David Emge", "Ken Foree", "Scott H. Reiniger"]}
+{"star_rating": 8.0, "title": "Magnolia", "content_rating": "R", "genre": "Drama", "duration": 188, "actors_list": ["Tom Cruise", "Jason Robards", "Julianne Moore"]}
+{"star_rating": 8.0, "title": "Manhattan", "content_rating": "R", "genre": "Comedy", "duration": 96, "actors_list": ["Woody Allen", "Diane Keaton", "Mariel Hemingway"]}
+{"star_rating": 8.0, "title": "Central Station", "content_rating": "R", "genre": "Drama", "duration": 113, "actors_list": ["Fernanda Montenegro", "Vin\u00edcius de Oliveira", "Mar\u00edlia P\u00eara"]}
+{"star_rating": 8.0, "title": "Brazil", "content_rating": "R", "genre": "Sci-Fi", "duration": 132, "actors_list": ["Jonathan Pryce", "Kim Greist", "Robert De Niro"]}
+{"star_rating": 8.0, "title": "The Exorcist", "content_rating": "R", "genre": "Horror", "duration": 122, "actors_list": ["Ellen Burstyn", "Max von Sydow", "Linda Blair"]}
+{"star_rating": 8.0, "title": "Her", "content_rating": "R", "genre": "Drama", "duration": 126, "actors_list": ["Joaquin Phoenix", "Amy Adams", "Scarlett Johansson"]}
+{"star_rating": 8.0, "title": "Dancer in the Dark", "content_rating": "R", "genre": "Crime", "duration": 140, "actors_list": ["Bj\u00f6rk", "Catherine Deneuve", "David Morse"]}
+{"star_rating": 8.0, "title": "Rain Man", "content_rating": "R", "genre": "Drama", "duration": 133, "actors_list": ["Dustin Hoffman", "Tom Cruise", "Valeria Golino"]}
+{"star_rating": 8.0, "title": "Talk to Her", "content_rating": "R", "genre": "Drama", "duration": 112, "actors_list": ["Rosario Flores", "Javier C\u00e1mara", "Dar\u00edo Grandinetti"]}
+{"star_rating": 8.0, "title": "The Adventures of Robin Hood", "content_rating": "PG", "genre": "Action", "duration": 102, "actors_list": ["Errol Flynn", "Olivia de Havilland", "Basil Rathbone"]}
+{"star_rating": 8.0, "title": "Aguirre, the Wrath of God", "content_rating": "NOT RATED", "genre": "Adventure", "duration": 93, "actors_list": ["Klaus Kinski", "Ruy Guerra", "Helena Rojo"]}
+{"star_rating": 8.0, "title": "In the Heat of the Night", "content_rating": "APPROVED", "genre": "Crime", "duration": 109, "actors_list": ["Sidney Poitier", "Rod Steiger", "Warren Oates"]}
+{"star_rating": 8.0, "title": "Nosferatu", "content_rating": "UNRATED", "genre": "Horror", "duration": 81, "actors_list": ["Max Schreck", "Greta Schr\u00f6der", "Ruth Landshoff"]}
+{"star_rating": 8.0, "title": "Black Swan", "content_rating": "R", "genre": "Drama", "duration": 108, "actors_list": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"]}
+{"star_rating": 8.0, "title": "Ratatouille", "content_rating": "G", "genre": "Animation", "duration": 111, "actors_list": ["Brad Garrett", "Lou Romano", "Patton Oswalt"]}
+{"star_rating": 8.0, "title": "The Searchers", "content_rating": "APPROVED", "genre": "Adventure", "duration": 119, "actors_list": ["John Wayne", "Jeffrey Hunter", "Vera Miles"]}
+{"star_rating": 8.0, "title": "Short Term 12", "content_rating": "R", "genre": "Drama", "duration": 96, "actors_list": ["Brie Larson", "Frantz Turner", "John Gallagher Jr."]}
+{"star_rating": 8.0, "title": "Doctor Zhivago", "content_rating": "PG-13", "genre": "Drama", "duration": 197, "actors_list": ["Omar Sharif", "Julie Christie", "Geraldine Chaplin"]}
+{"star_rating": 8.0, "title": "Life of Pi", "content_rating": "PG", "genre": "Adventure", "duration": 127, "actors_list": ["Suraj Sharma", "Irrfan Khan", "Adil Hussain"]}
+{"star_rating": 8.0, "title": "All the President's Men", "content_rating": "R", "genre": "Drama", "duration": 138, "actors_list": ["Dustin Hoffman", "Robert Redford", "Jack Warden"]}
+{"star_rating": 8.0, "title": "Battleship Potemkin", "content_rating": "UNRATED", "genre": "History", "duration": 66, "actors_list": ["Aleksandr Antonov", "Vladimir Barsky", "Grigori Aleksandrov"]}
+{"star_rating": 8.0, "title": "Dances with Wolves", "content_rating": "PG-13", "genre": "Adventure", "duration": 181, "actors_list": ["Kevin Costner", "Mary McDonnell", "Graham Greene"]}
+{"star_rating": 8.0, "title": "Catch Me If You Can", "content_rating": "PG-13", "genre": "Biography", "duration": 141, "actors_list": ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken"]}
+{"star_rating": 8.0, "title": "Cinderella Man", "content_rating": "PG-13", "genre": "Biography", "duration": 144, "actors_list": ["Russell Crowe", "Ren\u00e9e Zellweger", "Craig Bierko"]}
+{"star_rating": 8.0, "title": "Dead Poets Society", "content_rating": "PG", "genre": "Drama", "duration": 128, "actors_list": ["Robin Williams", "Robert Sean Leonard", "Ethan Hawke"]}
+{"star_rating": 8.0, "title": "Ghost in the Shell", "content_rating": "NOT RATED", "genre": "Animation", "duration": 83, "actors_list": ["Atsuko Tanaka", "Iemasa Kayumi", "Akio \u00d4tsuka"]}
+{"star_rating": 8.0, "title": "Head-On", "content_rating": "R", "genre": "Drama", "duration": 121, "actors_list": ["Birol \u00dcnel", "Sibel Kekilli", "G\u00fcven Kira\u00e7"]}
+{"star_rating": 8.0, "title": "No Man's Land", "content_rating": "R", "genre": "Drama", "duration": 98, "actors_list": ["Branko Djuric", "Rene Bitorajac", "Filip Sovagovic"]}
+{"star_rating": 8.0, "title": "Dallas Buyers Club", "content_rating": "R", "genre": "Biography", "duration": 117, "actors_list": ["Matthew McConaughey", "Jennifer Garner", "Jared Leto"]}
+{"star_rating": 8.0, "title": "Days of Heaven", "content_rating": "PG", "genre": "Drama", "duration": 94, "actors_list": ["Richard Gere", "Brooke Adams", "Sam Shepard"]}
+{"star_rating": 8.0, "title": "The Sound of Music", "content_rating": "G", "genre": "Biography", "duration": 174, "actors_list": ["Julie Andrews", "Christopher Plummer", "Eleanor Parker"]}
+{"star_rating": 8.0, "title": "District 9", "content_rating": "R", "genre": "Action", "duration": 112, "actors_list": ["Sharlto Copley", "David James", "Jason Cope"]}
+{"star_rating": 8.0, "title": "Shadow of a Doubt", "content_rating": "APPROVED", "genre": "Thriller", "duration": 108, "actors_list": ["Teresa Wright", "Joseph Cotten", "Macdonald Carey"]}
+{"star_rating": 8.0, "title": "Frankenstein", "content_rating": "UNRATED", "genre": "Horror", "duration": 70, "actors_list": ["Colin Clive", "Mae Clarke", "Boris Karloff"]}
+{"star_rating": 8.0, "title": "Shaun of the Dead", "content_rating": "R", "genre": "Comedy", "duration": 99, "actors_list": ["Simon Pegg", "Nick Frost", "Kate Ashfield"]}
+{"star_rating": 8.0, "title": "Night of the Living Dead", "content_rating": "UNRATED", "genre": "Horror", "duration": 96, "actors_list": ["Duane Jones", "Judith O'Dea", "Karl Hardman"]}
+{"star_rating": 8.0, "title": "Kill Bill: Vol. 2", "content_rating": "R", "genre": "Action", "duration": 137, "actors_list": ["Uma Thurman", "David Carradine", "Michael Madsen"]}
+{"star_rating": 8.0, "title": "Secrets & Lies", "content_rating": "R", "genre": "Drama", "duration": 136, "actors_list": ["Timothy Spall", "Brenda Blethyn", "Phyllis Logan"]}
+{"star_rating": 8.0, "title": "The Artist", "content_rating": "PG-13", "genre": "Comedy", "duration": 100, "actors_list": ["Jean Dujardin", "B\u00e9r\u00e9nice Bejo", "John Goodman"]}
+{"star_rating": 8.0, "title": "Aladdin", "content_rating": "G", "genre": "Animation", "duration": 90, "actors_list": ["Scott Weinger", "Robin Williams", "Linda Larkin"]}
+{"star_rating": 8.0, "title": "The Lady Vanishes", "content_rating": "PASSED", "genre": "Comedy", "duration": 96, "actors_list": ["Margaret Lockwood", "Michael Redgrave", "Paul Lukas"]}
+{"star_rating": 8.0, "title": "The Hobbit: The Desolation of Smaug", "content_rating": "PG-13", "genre": "Adventure", "duration": 161, "actors_list": ["Ian McKellen", "Martin Freeman", "Richard Armitage"]}
+{"star_rating": 8.0, "title": "Let the Right One In", "content_rating": "R", "genre": "Drama", "duration": 115, "actors_list": ["K\u00e5re Hedebrant", "Lina Leandersson", "Per Ragnar"]}
+{"star_rating": 8.0, "title": "Fiddler on the Roof", "content_rating": "G", "genre": "Drama", "duration": 181, "actors_list": ["Topol", "Norma Crane", "Leonard Frey"]}
+{"star_rating": 8.0, "title": "The Hobbit: An Unexpected Journey", "content_rating": "PG-13", "genre": "Adventure", "duration": 169, "actors_list": ["Martin Freeman", "Ian McKellen", "Richard Armitage"]}
+{"star_rating": 8.0, "title": "Three Colors: Blue", "content_rating": "R", "genre": "Drama", "duration": 98, "actors_list": ["Juliette Binoche", "Zbigniew Zamachowski", "Julie Delpy"]}
+{"star_rating": 8.0, "title": "Rosemary's Baby", "content_rating": "R", "genre": "Drama", "duration": 136, "actors_list": ["Mia Farrow", "John Cassavetes", "Ruth Gordon"]}
+{"star_rating": 8.0, "title": "Mystic River", "content_rating": "R", "genre": "Crime", "duration": 138, "actors_list": ["Sean Penn", "Tim Robbins", "Kevin Bacon"]}
+{"star_rating": 8.0, "title": "Serenity", "content_rating": "PG-13", "genre": "Action", "duration": 119, "actors_list": ["Nathan Fillion", "Gina Torres", "Chiwetel Ejiofor"]}
+{"star_rating": 8.0, "title": "Amarcord", "content_rating": "R", "genre": "Comedy", "duration": 123, "actors_list": ["Magali No\u00ebl", "Bruno Zanin", "Pupella Maggio"]}
+{"star_rating": 8.0, "title": "Planet of the Apes", "content_rating": "G", "genre": "Adventure", "duration": 112, "actors_list": ["Charlton Heston", "Roddy McDowall", "Kim Hunter"]}
+{"star_rating": 8.0, "title": "True Romance", "content_rating": "R", "genre": "Crime", "duration": 120, "actors_list": ["Christian Slater", "Patricia Arquette", "Dennis Hopper"]}
+{"star_rating": 8.0, "title": "Hannah and Her Sisters", "content_rating": "PG-13", "genre": "Comedy", "duration": 103, "actors_list": ["Mia Farrow", "Dianne Wiest", "Michael Caine"]}
+{"star_rating": 8.0, "title": "Moon", "content_rating": "R", "genre": "Drama", "duration": 97, "actors_list": ["Sam Rockwell", "Kevin Spacey", "Dominique McElligott"]}
+{"star_rating": 8.0, "title": "Before Midnight", "content_rating": "R", "genre": "Drama", "duration": 109, "actors_list": ["Ethan Hawke", "Julie Delpy", "Seamus Davey-Fitzpatrick"]}
+{"star_rating": 8.0, "title": "My Name Is Khan", "content_rating": "PG-13", "genre": "Drama", "duration": 165, "actors_list": ["Shah Rukh Khan", "Kajol", "Sheetal Menon"]}
+{"star_rating": 8.0, "title": "Scent of a Woman", "content_rating": "R", "genre": "Drama", "duration": 156, "actors_list": ["Al Pacino", "Chris O'Donnell", "James Rebhorn"]}
+{"star_rating": 8.0, "title": "Mulholland Dr.", "content_rating": "R", "genre": "Drama", "duration": 147, "actors_list": ["Naomi Watts", "Laura Harring", "Justin Theroux"]}
+{"star_rating": 8.0, "title": "King Kong", "content_rating": "UNRATED", "genre": "Adventure", "duration": 100, "actors_list": ["Fay Wray", "Robert Armstrong", "Bruce Cabot"]}
+{"star_rating": 8.0, "title": "The Fault in Our Stars", "content_rating": "PG-13", "genre": "Drama", "duration": 126, "actors_list": ["Shailene Woodley", "Ansel Elgort", "Nat Wolff"]}
+{"star_rating": 8.0, "title": "The Incredibles", "content_rating": "PG", "genre": "Animation", "duration": 115, "actors_list": ["Craig T. Nelson", "Samuel L. Jackson", "Holly Hunter"]}
+{"star_rating": 8.0, "title": "Edward Scissorhands", "content_rating": "PG-13", "genre": "Drama", "duration": 105, "actors_list": ["Johnny Depp", "Winona Ryder", "Dianne Wiest"]}
+{"star_rating": 8.0, "title": "Casino Royale", "content_rating": "PG-13", "genre": "Action", "duration": 144, "actors_list": ["Daniel Craig", "Eva Green", "Judi Dench"]}
+{"star_rating": 8.0, "title": "How to Train Your Dragon 2", "content_rating": "PG", "genre": "Animation", "duration": 102, "actors_list": ["Jay Baruchel", "Cate Blanchett", "Gerard Butler"]}
+{"star_rating": 8.0, "title": "In Bruges", "content_rating": "R", "genre": "Comedy", "duration": 107, "actors_list": ["Colin Farrell", "Brendan Gleeson", "Ciar\u00e1n Hinds"]}
+{"star_rating": 8.0, "title": "The Untouchables", "content_rating": "R", "genre": "Crime", "duration": 119, "actors_list": ["Kevin Costner", "Sean Connery", "Robert De Niro"]}
+{"star_rating": 8.0, "title": "Breathless", "content_rating": "UNRATED", "genre": "Crime", "duration": 90, "actors_list": ["Jean-Paul Belmondo", "Jean Seberg", "Daniel Boulanger"]}
+{"star_rating": 8.0, "title": "Spartacus", "content_rating": "PG-13", "genre": "Action", "duration": 197, "actors_list": ["Kirk Douglas", "Laurence Olivier", "Jean Simmons"]}
+{"star_rating": 8.0, "title": "The Iron Giant", "content_rating": "PG", "genre": "Animation", "duration": 86, "actors_list": ["Eli Marienthal", "Harry Connick Jr.", "Jennifer Aniston"]}
+{"star_rating": 8.0, "title": "Midnight Cowboy", "content_rating": "X", "genre": "Drama", "duration": 113, "actors_list": ["Dustin Hoffman", "Jon Voight", "Sylvia Miles"]}
+{"star_rating": 8.0, "title": "The Blues Brothers", "content_rating": "R", "genre": "Action", "duration": 133, "actors_list": ["John Belushi", "Dan Aykroyd", "Cab Calloway"]}
+{"star_rating": 8.0, "title": "Freaks", "content_rating": "UNRATED", "genre": "Drama", "duration": 64, "actors_list": ["Wallace Ford", "Leila Hyams", "Olga Baclanova"]}
+{"star_rating": 8.0, "title": "Letters from Iwo Jima", "content_rating": "R", "genre": "Drama", "duration": 141, "actors_list": ["Ken Watanabe", "Kazunari Ninomiya", "Tsuyoshi Ihara"]}
+{"star_rating": 8.0, "title": "Edge of Tomorrow", "content_rating": "PG-13", "genre": "Action", "duration": 113, "actors_list": ["Tom Cruise", "Emily Blunt", "Bill Paxton"]}
+{"star_rating": 8.0, "title": "Glory", "content_rating": "R", "genre": "Drama", "duration": 122, "actors_list": ["Matthew Broderick", "Denzel Washington", "Cary Elwes"]}
+{"star_rating": 8.0, "title": "The African Queen", "content_rating": "PG", "genre": "Adventure", "duration": 105, "actors_list": ["Humphrey Bogart", "Katharine Hepburn", "Robert Morley"]}
+{"star_rating": 7.9, "title": "Birdman: Or (The Unexpected Virtue of Ignorance)", "content_rating": "R", "genre": "Comedy", "duration": 119, "actors_list": ["Michael Keaton", "Zach Galifianakis", "Edward Norton"]}
+{"star_rating": 7.9, "title": "Big Hero 6", "content_rating": "PG", "genre": "Animation", "duration": 102, "actors_list": ["Ryan Potter", "Scott Adsit", "Jamie Chung"]}
+{"star_rating": 7.9, "title": "Almost Famous", "content_rating": "R", "genre": "Drama", "duration": 122, "actors_list": ["Billy Crudup", "Patrick Fugit", "Kate Hudson"]}
+{"star_rating": 7.9, "title": "The Notebook", "content_rating": "PG-13", "genre": "Drama", "duration": 123, "actors_list": ["Gena Rowlands", "James Garner", "Rachel McAdams"]}
+{"star_rating": 7.9, "title": "The Conversation", "content_rating": "PG", "genre": "Drama", "duration": 113, "actors_list": ["Gene Hackman", "John Cazale", "Allen Garfield"]}
+{"star_rating": 7.9, "title": "The Breakfast Club", "content_rating": "R", "genre": "Comedy", "duration": 97, "actors_list": ["Emilio Estevez", "Judd Nelson", "Molly Ringwald"]}
+{"star_rating": 7.9, "title": "The Pursuit of Happyness", "content_rating": "PG-13", "genre": "Biography", "duration": 117, "actors_list": ["Will Smith", "Thandie Newton", "Jaden Smith"]}
+{"star_rating": 7.9, "title": "The Killer", "content_rating": "R", "genre": "Action", "duration": 111, "actors_list": ["Yun-Fat Chow", "Danny Lee", "Sally Yeh"]}
+{"star_rating": 7.9, "title": "Once", "content_rating": "R", "genre": "Drama", "duration": 85, "actors_list": ["Glen Hansard", "Mark\u00e9ta Irglov\u00e1", "Hugh Walsh"]}
+{"star_rating": 7.9, "title": "Ying xiong", "content_rating": "PG-13", "genre": "Action", "duration": 99, "actors_list": ["Jet Li", "Tony Chiu Wai Leung", "Maggie Cheung"]}
+{"star_rating": 7.9, "title": "The Remains of the Day", "content_rating": "PG", "genre": "Drama", "duration": 134, "actors_list": ["Anthony Hopkins", "Emma Thompson", "John Haycraft"]}
+{"star_rating": 7.9, "title": "The Bride of Frankenstein", "content_rating": "NOT RATED", "genre": "Horror", "duration": 75, "actors_list": ["Boris Karloff", "Elsa Lanchester", "Colin Clive"]}
+{"star_rating": 7.9, "title": "The Wrestler", "content_rating": "R", "genre": "Drama", "duration": 109, "actors_list": ["Mickey Rourke", "Marisa Tomei", "Evan Rachel Wood"]}
+{"star_rating": 7.9, "title": "Nightcrawler", "content_rating": "R", "genre": "Crime", "duration": 117, "actors_list": ["Jake Gyllenhaal", "Rene Russo", "Bill Paxton"]}
+{"star_rating": 7.9, "title": "Gravity", "content_rating": "PG-13", "genre": "Sci-Fi", "duration": 91, "actors_list": ["Sandra Bullock", "George Clooney", "Ed Harris"]}
+{"star_rating": 7.9, "title": "Hard Boiled", "content_rating": "R", "genre": "Action", "duration": 128, "actors_list": ["Yun-Fat Chow", "Tony Chiu Wai Leung", "Teresa Mo"]}
+{"star_rating": 7.9, "title": "Bonnie and Clyde", "content_rating": "APPROVED", "genre": "Biography", "duration": 111, "actors_list": ["Warren Beatty", "Faye Dunaway", "Michael J. Pollard"]}
+{"star_rating": 7.9, "title": "The Bourne Identity", "content_rating": "PG-13", "genre": "Action", "duration": 119, "actors_list": ["Franka Potente", "Matt Damon", "Chris Cooper"]}
+{"star_rating": 7.9, "title": "Key Largo", "content_rating": "UNRATED", "genre": "Crime", "duration": 100, "actors_list": ["Humphrey Bogart", "Edward G. Robinson", "Lauren Bacall"]}
+{"star_rating": 7.9, "title": "Nine Queens", "content_rating": "R", "genre": "Crime", "duration": 114, "actors_list": ["Ricardo Dar\u00edn", "Gast\u00f3n Pauls", "Leticia Br\u00e9dice"]}
+{"star_rating": 7.9, "title": "Toy Story 2", "content_rating": "G", "genre": "Animation", "duration": 92, "actors_list": ["Tom Hanks", "Tim Allen", "Joan Cusack"]}
+{"star_rating": 7.9, "title": "The Killing Fields", "content_rating": "R", "genre": "Drama", "duration": 141, "actors_list": ["Sam Waterston", "Haing S. Ngor", "John Malkovich"]}
+{"star_rating": 7.9, "title": "All About My Mother", "content_rating": "R", "genre": "Drama", "duration": 101, "actors_list": ["Cecilia Roth", "Marisa Paredes", "Candela Pe\u00f1a"]}
+{"star_rating": 7.9, "title": "Cowboy Bebop: The Movie", "content_rating": "R", "genre": "Animation", "duration": 115, "actors_list": ["Beau Billingslea", "Melissa Fahn", "Nicholas Guest"]}
+{"star_rating": 7.9, "title": "Ed Wood", "content_rating": "R", "genre": "Biography", "duration": 127, "actors_list": ["Johnny Depp", "Martin Landau", "Sarah Jessica Parker"]}
+{"star_rating": 7.9, "title": "Stagecoach", "content_rating": "NOT RATED", "genre": "Adventure", "duration": 96, "actors_list": ["John Wayne", "Claire Trevor", "Andy Devine"]}
+{"star_rating": 7.9, "title": "The Man Who Would Be King", "content_rating": "PG", "genre": "Action", "duration": 129, "actors_list": ["Sean Connery", "Michael Caine", "Christopher Plummer"]}
+{"star_rating": 7.9, "title": "The Outlaw Josey Wales", "content_rating": "PG", "genre": "Western", "duration": 135, "actors_list": ["Clint Eastwood", "Sondra Locke", "Chief Dan George"]}
+{"star_rating": 7.9, "title": "Children of Men", "content_rating": "R", "genre": "Drama", "duration": 109, "actors_list": ["Julianne Moore", "Clive Owen", "Chiwetel Ejiofor"]}
+{"star_rating": 7.9, "title": "The Insider", "content_rating": "R", "genre": "Biography", "duration": 157, "actors_list": ["Russell Crowe", "Al Pacino", "Christopher Plummer"]}
+{"star_rating": 7.9, "title": "The Right Stuff", "content_rating": "R", "genre": "Adventure", "duration": 193, "actors_list": ["Sam Shepard", "Scott Glenn", "Ed Harris"]}
+{"star_rating": 7.9, "title": "Badlands", "content_rating": "PG", "genre": "Crime", "duration": 94, "actors_list": ["Martin Sheen", "Sissy Spacek", "Warren Oates"]}
+{"star_rating": 7.9, "title": "A Prophet", "content_rating": "R", "genre": "Crime", "duration": 155, "actors_list": ["Tahar Rahim", "Niels Arestrup", "Adel Bencherif"]}
+{"star_rating": 7.9, "title": "4 Months, 3 Weeks and 2 Days", "content_rating": "NOT RATED", "genre": "Drama", "duration": 113, "actors_list": ["Anamaria Marinca", "Vlad Ivanov", "Laura Vasiliu"]}
+{"star_rating": 7.9, "title": "Le passe", "content_rating": "PG-13", "genre": "Drama", "duration": 130, "actors_list": ["B\u00e9r\u00e9nice Bejo", "Tahar Rahim", "Ali Mosaffa"]}
+{"star_rating": 7.9, "title": "The Fall", "content_rating": "R", "genre": "Adventure", "duration": 117, "actors_list": ["Lee Pace", "Catinca Untaru", "Justine Waddell"]}
+{"star_rating": 7.9, "title": "Breaking the Waves", "content_rating": "R", "genre": "Drama", "duration": 159, "actors_list": ["Emily Watson", "Stellan Skarsg\u00e5rd", "Katrin Cartlidge"]}
+{"star_rating": 7.9, "title": "Mr. Nobody", "content_rating": "R", "genre": "Drama", "duration": 141, "actors_list": ["Jared Leto", "Sarah Polley", "Diane Kruger"]}
+{"star_rating": 7.9, "title": "Crash", "content_rating": "R", "genre": "Drama", "duration": 112, "actors_list": ["Don Cheadle", "Sandra Bullock", "Thandie Newton"]}
+{"star_rating": 7.9, "title": "Avatar", "content_rating": "PG-13", "genre": "Action", "duration": 162, "actors_list": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]}
+{"star_rating": 7.9, "title": "Iron Man", "content_rating": "PG-13", "genre": "Action", "duration": 126, "actors_list": ["Robert Downey Jr.", "Gwyneth Paltrow", "Terrence Howard"]}
+{"star_rating": 7.9, "title": "Do the Right Thing", "content_rating": "R", "genre": "Comedy", "duration": 120, "actors_list": ["Danny Aiello", "Ossie Davis", "Ruby Dee"]}
+{"star_rating": 7.9, "title": "Carlito's Way", "content_rating": "R", "genre": "Crime", "duration": 144, "actors_list": ["Al Pacino", "Sean Penn", "Penelope Ann Miller"]}
+{"star_rating": 7.9, "title": "Crouching Tiger, Hidden Dragon", "content_rating": "PG-13", "genre": "Action", "duration": 120, "actors_list": ["Yun-Fat Chow", "Michelle Yeoh", "Ziyi Zhang"]}
+{"star_rating": 7.9, "title": "Lilya 4-Ever", "content_rating": "R", "genre": "Crime", "duration": 109, "actors_list": ["Oksana Akinshina", "Artyom Bogucharskiy", "Pavel Ponomaryov"]}
+{"star_rating": 7.9, "title": "The Chorus", "content_rating": "PG-13", "genre": "Drama", "duration": 97, "actors_list": ["G\u00e9rard Jugnot", "Fran\u00e7ois Berl\u00e9and", "Jean-Baptiste Maunier"]}
+{"star_rating": 7.9, "title": "The Boondock Saints", "content_rating": "R", "genre": "Action", "duration": 108, "actors_list": ["Willem Dafoe", "Sean Patrick Flanery", "Norman Reedus"]}
+{"star_rating": 7.9, "title": "Miller's Crossing", "content_rating": "R", "genre": "Crime", "duration": 115, "actors_list": ["Gabriel Byrne", "Albert Finney", "John Turturro"]}
+{"star_rating": 7.9, "title": "Walk the Line", "content_rating": "PG-13", "genre": "Biography", "duration": 136, "actors_list": ["Joaquin Phoenix", "Reese Witherspoon", "Ginnifer Goodwin"]}
+{"star_rating": 7.9, "title": "Shrek", "content_rating": "PG", "genre": "Animation", "duration": 90, "actors_list": ["Mike Myers", "Eddie Murphy", "Cameron Diaz"]}
+{"star_rating": 7.9, "title": "My Fair Lady", "content_rating": "APPROVED", "genre": "Drama", "duration": 170, "actors_list": ["Audrey Hepburn", "Rex Harrison", "Stanley Holloway"]}
+{"star_rating": 7.9, "title": "The Ten Commandments", "content_rating": "APPROVED", "genre": "Adventure", "duration": 220, "actors_list": ["Charlton Heston", "Yul Brynner", "Anne Baxter"]}
+{"star_rating": 7.9, "title": "The Fighter", "content_rating": "R", "genre": "Biography", "duration": 116, "actors_list": ["Mark Wahlberg", "Christian Bale", "Amy Adams"]}
+{"star_rating": 7.9, "title": "Captain Phillips", "content_rating": "PG-13", "genre": "Biography", "duration": 134, "actors_list": ["Tom Hanks", "Barkhad Abdi", "Barkhad Abdirahman"]}
+{"star_rating": 7.9, "title": "Cabaret", "content_rating": "PG", "genre": "Drama", "duration": 124, "actors_list": ["Liza Minnelli", "Michael York", "Helmut Griem"]}
+{"star_rating": 7.9, "title": "Halloween", "content_rating": "R", "genre": "Drama", "duration": 91, "actors_list": ["Donald Pleasence", "Jamie Lee Curtis", "Tony Moran"]}
+{"star_rating": 7.9, "title": "My Left Foot", "content_rating": "R", "genre": "Biography", "duration": 103, "actors_list": ["Daniel Day-Lewis", "Brenda Fricker", "Alison Whelan"]}
+{"star_rating": 7.9, "title": "Miracle on 34th Street", "content_rating": "APPROVED", "genre": "Comedy", "duration": 96, "actors_list": ["Edmund Gwenn", "Maureen O'Hara", "John Payne"]}
+{"star_rating": 7.9, "title": "The Man from Nowhere", "content_rating": "R", "genre": "Action", "duration": 119, "actors_list": ["Bin Won", "Sae-ron Kim", "Tae-hoon Kim"]}
+{"star_rating": 7.9, "title": "Toki o kakeru shojo", "content_rating": "NOT RATED", "genre": "Animation", "duration": 98, "actors_list": ["Riisa Naka", "Takuya Ishida", "Mitsutaka Itakura"]}
+{"star_rating": 7.9, "title": "Little Miss Sunshine", "content_rating": "R", "genre": "Adventure", "duration": 101, "actors_list": ["Steve Carell", "Toni Collette", "Greg Kinnear"]}
+{"star_rating": 7.9, "title": "Taken", "content_rating": "PG-13", "genre": "Action", "duration": 93, "actors_list": ["Liam Neeson", "Maggie Grace", "Famke Janssen"]}
+{"star_rating": 7.9, "title": "Blue Is the Warmest Color", "content_rating": "NC-17", "genre": "Drama", "duration": 179, "actors_list": ["L\u00e9a Seydoux", "Ad\u00e8le Exarchopoulos", "Salim Kechiouche"]}
+{"star_rating": 7.9, "title": "Boogie Nights", "content_rating": "R", "genre": "Drama", "duration": 155, "actors_list": ["Mark Wahlberg", "Julianne Moore", "Burt Reynolds"]}
+{"star_rating": 7.9, "title": "Hot Fuzz", "content_rating": "R", "genre": "Comedy", "duration": 121, "actors_list": ["Simon Pegg", "Nick Frost", "Martin Freeman"]}
+{"star_rating": 7.9, "title": "Ferris Bueller's Day Off", "content_rating": "PG-13", "genre": "Comedy", "duration": 103, "actors_list": ["Matthew Broderick", "Alan Ruck", "Mia Sara"]}
+{"star_rating": 7.9, "title": "The World's Fastest Indian", "content_rating": "PG-13", "genre": "Biography", "duration": 127, "actors_list": ["Anthony Hopkins", "Diane Ladd", "Iain Rea"]}
+{"star_rating": 7.9, "title": "Kiki's Delivery Service", "content_rating": "G", "genre": "Animation", "duration": 103, "actors_list": ["Kirsten Dunst", "Minami Takayama", "Rei Sakuma"]}
+{"star_rating": 7.9, "title": "Down by Law", "content_rating": "R", "genre": "Comedy", "duration": 107, "actors_list": ["Tom Waits", "John Lurie", "Roberto Benigni"]}
+{"star_rating": 7.9, "title": "Glengarry Glen Ross", "content_rating": "R", "genre": "Drama", "duration": 100, "actors_list": ["Al Pacino", "Jack Lemmon", "Alec Baldwin"]}
+{"star_rating": 7.9, "title": "Clerks", "content_rating": "R", "genre": "Comedy", "duration": 92, "actors_list": ["Brian O'Halloran", "Jeff Anderson", "Marilyn Ghigliotti"]}
+{"star_rating": 7.9, "title": "Adam's Apples", "content_rating": "R", "genre": "Comedy", "duration": 94, "actors_list": ["Ulrich Thomsen", "Mads Mikkelsen", "Nicolas Bro"]}
+{"star_rating": 7.9, "title": "The Girl with the Dragon Tattoo", "content_rating": "R", "genre": "Crime", "duration": 158, "actors_list": ["Daniel Craig", "Rooney Mara", "Christopher Plummer"]}
+{"star_rating": 7.9, "title": "The 39 Steps", "content_rating": "UNRATED", "genre": "Mystery", "duration": 86, "actors_list": ["Robert Donat", "Madeleine Carroll", "Lucie Mannheim"]}
+{"star_rating": 7.9, "title": "E.T. the Extra-Terrestrial", "content_rating": "PG", "genre": "Family", "duration": 115, "actors_list": ["Henry Thomas", "Drew Barrymore", "Peter Coyote"]}
+{"star_rating": 7.8, "title": "Tombstone", "content_rating": "R", "genre": "Action", "duration": 130, "actors_list": ["Kurt Russell", "Val Kilmer", "Sam Elliott"]}
+{"star_rating": 7.8, "title": "Predator", "content_rating": "R", "genre": "Action", "duration": 107, "actors_list": ["Arnold Schwarzenegger", "Carl Weathers", "Kevin Peter Hall"]}
+{"star_rating": 7.8, "title": "Tangled", "content_rating": "PG", "genre": "Animation", "duration": 100, "actors_list": ["Mandy Moore", "Zachary Levi", "Donna Murphy"]}
+{"star_rating": 7.8, "title": "Guess Who's Coming to Dinner", "content_rating": "UNRATED", "genre": "Comedy", "duration": 108, "actors_list": ["Spencer Tracy", "Sidney Poitier", "Katharine Hepburn"]}
+{"star_rating": 7.8, "title": "Ordinary People", "content_rating": "R", "genre": "Drama", "duration": 124, "actors_list": ["Donald Sutherland", "Mary Tyler Moore", "Judd Hirsch"]}
+{"star_rating": 7.8, "title": "The Best Offer", "content_rating": "R", "genre": "Crime", "duration": 131, "actors_list": ["Geoffrey Rush", "Jim Sturgess", "Sylvia Hoeks"]}
+{"star_rating": 7.8, "title": "Silver Linings Playbook", "content_rating": "R", "genre": "Comedy", "duration": 122, "actors_list": ["Bradley Cooper", "Jennifer Lawrence", "Robert De Niro"]}
+{"star_rating": 7.8, "title": "Hamlet", "content_rating": "PG-13", "genre": "Drama", "duration": 242, "actors_list": ["Kenneth Branagh", "Julie Christie", "Derek Jacobi"]}
+{"star_rating": 7.8, "title": "Amour", "content_rating": "PG-13", "genre": "Drama", "duration": 127, "actors_list": ["Jean-Louis Trintignant", "Emmanuelle Riva", "Isabelle Huppert"]}
+{"star_rating": 7.8, "title": "I Saw the Devil", "content_rating": "NOT RATED", "genre": "Crime", "duration": 141, "actors_list": ["Byung-hun Lee", "Min-sik Choi", "In-seo Kim"]}
+{"star_rating": 7.8, "title": "The Motorcycle Diaries", "content_rating": "R", "genre": "Adventure", "duration": 126, "actors_list": ["Gael Garc\u00eda Bernal", "Rodrigo De la Serna", "M\u00eda Maestro"]}
+{"star_rating": 7.8, "title": "Office Space", "content_rating": "R", "genre": "Comedy", "duration": 89, "actors_list": ["Ron Livingston", "Jennifer Aniston", "David Herman"]}
+{"star_rating": 7.8, "title": "Evil", "content_rating": "NOT RATED", "genre": "Drama", "duration": 113, "actors_list": ["Andreas Wilson", "Henrik Lundstr\u00f6m", "Gustaf Skarsg\u00e5rd"]}
+{"star_rating": 7.8, "title": "The Girl with the Dragon Tattoo", "content_rating": "R", "genre": "Crime", "duration": 152, "actors_list": ["Michael Nyqvist", "Noomi Rapace", "Ewa Fr\u00f6ling"]}
+{"star_rating": 7.8, "title": "Withnail & I", "content_rating": "R", "genre": "Comedy", "duration": 107, "actors_list": ["Richard E. Grant", "Paul McGann", "Richard Griffiths"]}
+{"star_rating": 7.8, "title": "The Day the Earth Stood Still", "content_rating": "APPROVED", "genre": "Sci-Fi", "duration": 92, "actors_list": ["Michael Rennie", "Patricia Neal", "Hugh Marlowe"]}
+{"star_rating": 7.8, "title": "Black Book", "content_rating": "R", "genre": "Drama", "duration": 145, "actors_list": ["Carice van Houten", "Sebastian Koch", "Thom Hoffman"]}
+{"star_rating": 7.8, "title": "Evil Dead II", "content_rating": "X", "genre": "Comedy", "duration": 84, "actors_list": ["Bruce Campbell", "Sarah Berry", "Dan Hicks"]}
+{"star_rating": 7.8, "title": "Kaze tachinu", "content_rating": "PG-13", "genre": "Animation", "duration": 126, "actors_list": ["Hideaki Anno", "Hidetoshi Nishijima", "Miori Takimoto"]}
+{"star_rating": 7.8, "title": "Star Trek Into Darkness", "content_rating": "PG-13", "genre": "Action", "duration": 132, "actors_list": ["Chris Pine", "Zachary Quinto", "Zoe Saldana"]}
+{"star_rating": 7.8, "title": "The Triplets of Belleville", "content_rating": "PG-13", "genre": "Animation", "duration": 78, "actors_list": ["Mich\u00e8le Caucheteux", "Jean-Claude Donda", "Michel Robin"]}
+{"star_rating": 7.8, "title": "Open Your Eyes", "content_rating": "R", "genre": "Drama", "duration": 117, "actors_list": ["Eduardo Noriega", "Pen\u00e9lope Cruz", "Chete Lera"]}
+{"star_rating": 7.8, "title": "The Magnificent Seven", "content_rating": "NOT RATED", "genre": "Action", "duration": 128, "actors_list": ["Yul Brynner", "Steve McQueen", "Charles Bronson"]}
+{"star_rating": 7.8, "title": "Drive", "content_rating": "R", "genre": "Crime", "duration": 100, "actors_list": ["Ryan Gosling", "Carey Mulligan", "Bryan Cranston"]}
+{"star_rating": 7.8, "title": "Mississippi Burning", "content_rating": "R", "genre": "Crime", "duration": 128, "actors_list": ["Gene Hackman", "Willem Dafoe", "Frances McDormand"]}
+{"star_rating": 7.8, "title": "The Lego Movie", "content_rating": "PG", "genre": "Animation", "duration": 100, "actors_list": ["Chris Pratt", "Will Ferrell", "Elizabeth Banks"]}
+{"star_rating": 7.8, "title": "The Day of the Jackal", "content_rating": "PG", "genre": "Crime", "duration": 143, "actors_list": ["Edward Fox", "Terence Alexander", "Michel Auclair"]}
+{"star_rating": 7.8, "title": "Misery", "content_rating": "R", "genre": "Thriller", "duration": 107, "actors_list": ["James Caan", "Kathy Bates", "Richard Farnsworth"]}
+{"star_rating": 7.8, "title": "Willy Wonka & the Chocolate Factory", "content_rating": "G", "genre": "Family", "duration": 100, "actors_list": ["Gene Wilder", "Jack Albertson", "Peter Ostrum"]}
+{"star_rating": 7.8, "title": "Fantasia", "content_rating": "G", "genre": "Animation", "duration": 125, "actors_list": ["Leopold Stokowski", "Deems Taylor", "Corey Burton"]}
+{"star_rating": 7.8, "title": "Gattaca", "content_rating": "PG-13", "genre": "Drama", "duration": 106, "actors_list": ["Ethan Hawke", "Uma Thurman", "Jude Law"]}
+{"star_rating": 7.8, "title": "American Gangster", "content_rating": "R", "genre": "Biography", "duration": 157, "actors_list": ["Denzel Washington", "Russell Crowe", "Chiwetel Ejiofor"]}
+{"star_rating": 7.8, "title": "Porco Rosso", "content_rating": "PG", "genre": "Animation", "duration": 94, "actors_list": ["Sh\u00fbichir\u00f4 Moriyama", "Tokiko Kat\u00f4", "Sanshi Katsura"]}
+{"star_rating": 7.8, "title": "The French Connection", "content_rating": "R", "genre": "Action", "duration": 104, "actors_list": ["Gene Hackman", "Roy Scheider", "Fernando Rey"]}
+{"star_rating": 7.8, "title": "The Boy in the Striped Pajamas", "content_rating": "PG-13", "genre": "Drama", "duration": 94, "actors_list": ["Asa Butterfield", "David Thewlis", "Rupert Friend"]}
+{"star_rating": 7.8, "title": "Empire of the Sun", "content_rating": "PG", "genre": "Drama", "duration": 153, "actors_list": ["Christian Bale", "John Malkovich", "Miranda Richardson"]}
+{"star_rating": 7.8, "title": "About Time", "content_rating": "R", "genre": "Drama", "duration": 123, "actors_list": ["Domhnall Gleeson", "Rachel McAdams", "Bill Nighy"]}
+{"star_rating": 7.8, "title": "Blue Velvet", "content_rating": "R", "genre": "Crime", "duration": 120, "actors_list": ["Isabella Rossellini", "Kyle MacLachlan", "Dennis Hopper"]}
+{"star_rating": 7.8, "title": "In America", "content_rating": "PG-13", "genre": "Drama", "duration": 105, "actors_list": ["Paddy Considine", "Samantha Morton", "Djimon Hounsou"]}
+{"star_rating": 7.8, "title": "The Curious Case of Benjamin Button", "content_rating": "PG-13", "genre": "Drama", "duration": 166, "actors_list": ["Brad Pitt", "Cate Blanchett", "Tilda Swinton"]}
+{"star_rating": 7.8, "title": "The Last of the Mohicans", "content_rating": "R", "genre": "Action", "duration": 112, "actors_list": ["Daniel Day-Lewis", "Madeleine Stowe", "Russell Means"]}
+{"star_rating": 7.8, "title": "Moonrise Kingdom", "content_rating": "PG-13", "genre": "Adventure", "duration": 94, "actors_list": ["Jared Gilman", "Kara Hayward", "Bruce Willis"]}
+{"star_rating": 7.8, "title": "Rebel Without a Cause", "content_rating": "PG-13", "genre": "Drama", "duration": 111, "actors_list": ["James Dean", "Natalie Wood", "Sal Mineo"]}
+{"star_rating": 7.8, "title": "Fantastic Mr. Fox", "content_rating": "PG", "genre": "Animation", "duration": 87, "actors_list": ["George Clooney", "Meryl Streep", "Bill Murray"]}
+{"star_rating": 7.8, "title": "Invasion of the Body Snatchers", "content_rating": "APPROVED", "genre": "Horror", "duration": 80, "actors_list": ["Kevin McCarthy", "Dana Wynter", "Larry Gates"]}
+{"star_rating": 7.8, "title": "October Sky", "content_rating": "PG", "genre": "Biography", "duration": 108, "actors_list": ["Jake Gyllenhaal", "Chris Cooper", "Laura Dern"]}
+{"star_rating": 7.8, "title": "Dirty Harry", "content_rating": "R", "genre": "Action", "duration": 102, "actors_list": ["Clint Eastwood", "Andrew Robinson", "Harry Guardino"]}
+{"star_rating": 7.8, "title": "Ghostbusters", "content_rating": "PG", "genre": "Comedy", "duration": 105, "actors_list": ["Bill Murray", "Dan Aykroyd", "Sigourney Weaver"]}
+{"star_rating": 7.8, "title": "Captain America: The Winter Soldier", "content_rating": "PG-13", "genre": "Action", "duration": 136, "actors_list": ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson"]}
+{"star_rating": 7.8, "title": "Wreck-It Ralph", "content_rating": "PG", "genre": "Animation", "duration": 101, "actors_list": ["John C. Reilly", "Jack McBrayer", "Jane Lynch"]}
+{"star_rating": 7.8, "title": "The Hangover", "content_rating": "R", "genre": "Comedy", "duration": 100, "actors_list": ["Zach Galifianakis", "Bradley Cooper", "Justin Bartha"]}
+{"star_rating": 7.8, "title": "Back to the Future Part II", "content_rating": "PG", "genre": "Adventure", "duration": 108, "actors_list": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"]}
+{"star_rating": 7.8, "title": "Belle de Jour", "content_rating": "APPROVED", "genre": "Drama", "duration": 101, "actors_list": ["Catherine Deneuve", "Jean Sorel", "Michel Piccoli"]}
+{"star_rating": 7.8, "title": "O Brother, Where Art Thou?", "content_rating": "PG-13", "genre": "Adventure", "duration": 106, "actors_list": ["George Clooney", "John Turturro", "Tim Blake Nelson"]}
+{"star_rating": 7.8, "title": "Repulsion", "content_rating": "UNRATED", "genre": "Drama", "duration": 105, "actors_list": ["Catherine Deneuve", "Ian Hendry", "John Fraser"]}
+{"star_rating": 7.8, "title": "Airplane!", "content_rating": "PG", "genre": "Comedy", "duration": 88, "actors_list": ["Robert Hays", "Julie Hagerty", "Leslie Nielsen"]}
+{"star_rating": 7.8, "title": "Pride & Prejudice", "content_rating": "PG", "genre": "Drama", "duration": 129, "actors_list": ["Keira Knightley", "Matthew Macfadyen", "Brenda Blethyn"]}
+{"star_rating": 7.8, "title": "Zulu", "content_rating": "UNRATED", "genre": "Drama", "duration": 138, "actors_list": ["Stanley Baker", "Jack Hawkins", "Ulla Jacobsson"]}
+{"star_rating": 7.8, "title": "Night on Earth", "content_rating": "R", "genre": "Comedy", "duration": 129, "actors_list": ["Winona Ryder", "Gena Rowlands", "Lisanne Falk"]}
+{"star_rating": 7.8, "title": "From Here to Eternity", "content_rating": "NOT RATED", "genre": "Drama", "duration": 118, "actors_list": ["Burt Lancaster", "Montgomery Clift", "Deborah Kerr"]}
+{"star_rating": 7.8, "title": "Apocalypto", "content_rating": "R", "genre": "Action", "duration": 139, "actors_list": ["Gerardo Taracena", "Raoul Trujillo", "Dalia Hern\u00e1ndez"]}
+{"star_rating": 7.8, "title": "Atonement", "content_rating": "R", "genre": "Drama", "duration": 123, "actors_list": ["Keira Knightley", "James McAvoy", "Brenda Blethyn"]}
+{"star_rating": 7.8, "title": "The Dirty Dozen", "content_rating": "NOT RATED", "genre": "Action", "duration": 150, "actors_list": ["Lee Marvin", "Ernest Borgnine", "Charles Bronson"]}
+{"star_rating": 7.8, "title": "X-Men: First Class", "content_rating": "PG-13", "genre": "Action", "duration": 132, "actors_list": ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence"]}
+{"star_rating": 7.8, "title": "Run Lola Run", "content_rating": "R", "genre": "Action", "duration": 80, "actors_list": ["Franka Potente", "Moritz Bleibtreu", "Herbert Knaup"]}
+{"star_rating": 7.8, "title": "The Longest Day", "content_rating": "G", "genre": "Action", "duration": 178, "actors_list": ["John Wayne", "Robert Ryan", "Richard Burton"]}
+{"star_rating": 7.8, "title": "Zelig", "content_rating": "PG", "genre": "Comedy", "duration": 79, "actors_list": ["Woody Allen", "Mia Farrow", "Patrick Horgan"]}
+{"star_rating": 7.8, "title": "The Last Emperor", "content_rating": "PG-13", "genre": "Biography", "duration": 163, "actors_list": ["John Lone", "Joan Chen", "Peter O'Toole"]}
+{"star_rating": 7.8, "title": "The Goonies", "content_rating": "PG", "genre": "Adventure", "duration": 114, "actors_list": ["Sean Astin", "Josh Brolin", "Jeff Cohen"]}
+{"star_rating": 7.8, "title": "The White Ribbon", "content_rating": "R", "genre": "Drama", "duration": 144, "actors_list": ["Christian Friedel", "Ernst Jacobi", "Leonie Benesch"]}
+{"star_rating": 7.8, "title": "The Fugitive", "content_rating": "PG-13", "genre": "Action", "duration": 130, "actors_list": ["Harrison Ford", "Tommy Lee Jones", "Sela Ward"]}
+{"star_rating": 7.8, "title": "The Color Purple", "content_rating": "PG-13", "genre": "Drama", "duration": 154, "actors_list": ["Danny Glover", "Whoopi Goldberg", "Oprah Winfrey"]}
+{"star_rating": 7.8, "title": "South Park: Bigger Longer & Uncut", "content_rating": "R", "genre": "Animation", "duration": 81, "actors_list": ["Trey Parker", "Matt Stone", "Mary Kay Bergman"]}
+{"star_rating": 7.8, "title": "(500) Days of Summer", "content_rating": "PG-13", "genre": "Comedy", "duration": 95, "actors_list": ["Zooey Deschanel", "Joseph Gordon-Levitt", "Geoffrey Arend"]}
+{"star_rating": 7.8, "title": "Lost in Translation", "content_rating": "R", "genre": "Drama", "duration": 101, "actors_list": ["Bill Murray", "Scarlett Johansson", "Giovanni Ribisi"]}
+{"star_rating": 7.8, "title": "Argo", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Ben Affleck", "Bryan Cranston", "John Goodman"]}
+{"star_rating": 7.8, "title": "Blazing Saddles", "content_rating": "R", "genre": "Comedy", "duration": 93, "actors_list": ["Cleavon Little", "Gene Wilder", "Slim Pickens"]}
+{"star_rating": 7.8, "title": "Breakfast at Tiffany's", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 115, "actors_list": ["Audrey Hepburn", "George Peppard", "Patricia Neal"]}
+{"star_rating": 7.8, "title": "Finding Neverland", "content_rating": "PG", "genre": "Biography", "duration": 106, "actors_list": ["Johnny Depp", "Kate Winslet", "Julie Christie"]}
+{"star_rating": 7.8, "title": "The Experiment", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Moritz Bleibtreu", "Christian Berkel", "Oliver Stokowski"]}
+{"star_rating": 7.8, "title": "Lucky Number Slevin", "content_rating": "R", "genre": "Crime", "duration": 110, "actors_list": ["Josh Hartnett", "Ben Kingsley", "Morgan Freeman"]}
+{"star_rating": 7.8, "title": "The Theory of Everything", "content_rating": "PG-13", "genre": "Biography", "duration": 123, "actors_list": ["Eddie Redmayne", "Felicity Jones", "Tom Prior"]}
+{"star_rating": 7.8, "title": "Harry Potter and the Prisoner of Azkaban", "content_rating": "PG", "genre": "Adventure", "duration": 142, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 7.8, "title": "Kung Fu Hustle", "content_rating": "R", "genre": "Action", "duration": 99, "actors_list": ["Stephen Chow", "Wah Yuen", "Qiu Yuen"]}
+{"star_rating": 7.8, "title": "Being John Malkovich", "content_rating": "R", "genre": "Comedy", "duration": 112, "actors_list": ["John Cusack", "Cameron Diaz", "Catherine Keener"]}
+{"star_rating": 7.8, "title": "The Social Network", "content_rating": "PG-13", "genre": "Biography", "duration": 120, "actors_list": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"]}
+{"star_rating": 7.8, "title": "3:10 to Yuma", "content_rating": "R", "genre": "Adventure", "duration": 122, "actors_list": ["Russell Crowe", "Christian Bale", "Ben Foster"]}
+{"star_rating": 7.8, "title": "The Name of the Rose", "content_rating": "R", "genre": "Crime", "duration": 130, "actors_list": ["Sean Connery", "Christian Slater", "Helmut Qualtinger"]}
+{"star_rating": 7.8, "title": "Mary Poppins", "content_rating": "APPROVED", "genre": "Comedy", "duration": 139, "actors_list": ["Julie Andrews", "Dick Van Dyke", "David Tomlinson"]}
+{"star_rating": 7.8, "title": "The Game", "content_rating": "R", "genre": "Drama", "duration": 129, "actors_list": ["Michael Douglas", "Deborah Kara Unger", "Sean Penn"]}
+{"star_rating": 7.8, "title": "Changeling", "content_rating": "R", "genre": "Drama", "duration": 141, "actors_list": ["Angelina Jolie", "Colm Feore", "Amy Ryan"]}
+{"star_rating": 7.8, "title": "Donnie Brasco", "content_rating": "R", "genre": "Biography", "duration": 127, "actors_list": ["Al Pacino", "Johnny Depp", "Michael Madsen"]}
+{"star_rating": 7.8, "title": "Serpico", "content_rating": "R", "genre": "Biography", "duration": 130, "actors_list": ["Al Pacino", "John Randolph", "Jack Kehoe"]}
+{"star_rating": 7.8, "title": "What's Eating Gilbert Grape", "content_rating": "PG-13", "genre": "Drama", "duration": 118, "actors_list": ["Johnny Depp", "Leonardo DiCaprio", "Juliette Lewis"]}
+{"star_rating": 7.8, "title": "Goldfinger", "content_rating": "APPROVED", "genre": "Action", "duration": 110, "actors_list": ["Sean Connery", "Gert Fr\u00f6be", "Honor Blackman"]}
+{"star_rating": 7.8, "title": "Nebraska", "content_rating": "R", "genre": "Adventure", "duration": 115, "actors_list": ["Bruce Dern", "Will Forte", "June Squibb"]}
+{"star_rating": 7.8, "title": "The Sandlot", "content_rating": "PG", "genre": "Comedy", "duration": 101, "actors_list": ["Tom Guiry", "Mike Vitar", "Patrick Renna"]}
+{"star_rating": 7.8, "title": "Boyz n the Hood", "content_rating": "R", "genre": "Crime", "duration": 112, "actors_list": ["Cuba Gooding Jr.", "Laurence Fishburne", "Hudhail Al-Amir"]}
+{"star_rating": 7.8, "title": "The Bourne Supremacy", "content_rating": "PG-13", "genre": "Action", "duration": 108, "actors_list": ["Matt Damon", "Franka Potente", "Joan Allen"]}
+{"star_rating": 7.8, "title": "Skyfall", "content_rating": "PG-13", "genre": "Action", "duration": 143, "actors_list": ["Daniel Craig", "Javier Bardem", "Naomie Harris"]}
+{"star_rating": 7.8, "title": "Ray", "content_rating": "PG-13", "genre": "Biography", "duration": 152, "actors_list": ["Jamie Foxx", "Regina King", "Kerry Washington"]}
+{"star_rating": 7.8, "title": "300", "content_rating": "R", "genre": "Action", "duration": 117, "actors_list": ["Gerard Butler", "Lena Headey", "David Wenham"]}
+{"star_rating": 7.8, "title": "A Bronx Tale", "content_rating": "R", "genre": "Crime", "duration": 121, "actors_list": ["Robert De Niro", "Chazz Palminteri", "Lillo Brancato"]}
+{"star_rating": 7.8, "title": "The Birds", "content_rating": "PG-13", "genre": "Horror", "duration": 119, "actors_list": ["Rod Taylor", "Tippi Hedren", "Suzanne Pleshette"]}
+{"star_rating": 7.8, "title": "Battle Royale", "content_rating": "NOT RATED", "genre": "Action", "duration": 114, "actors_list": ["Tatsuya Fujiwara", "Aki Maeda", "Tar\u00f4 Yamamoto"]}
+{"star_rating": 7.8, "title": "Control", "content_rating": "R", "genre": "Biography", "duration": 122, "actors_list": ["Sam Riley", "Samantha Morton", "Craig Parkinson"]}
+{"star_rating": 7.8, "title": "Kramer vs. Kramer", "content_rating": "APPROVED", "genre": "Drama", "duration": 105, "actors_list": ["Dustin Hoffman", "Meryl Streep", "Jane Alexander"]}
+{"star_rating": 7.8, "title": "Deliverance", "content_rating": "R", "genre": "Adventure", "duration": 110, "actors_list": ["Jon Voight", "Burt Reynolds", "Ned Beatty"]}
+{"star_rating": 7.8, "title": "Ocean's Eleven", "content_rating": "PG-13", "genre": "Crime", "duration": 116, "actors_list": ["George Clooney", "Brad Pitt", "Julia Roberts"]}
+{"star_rating": 7.8, "title": "As Good as It Gets", "content_rating": "PG-13", "genre": "Comedy", "duration": 139, "actors_list": ["Jack Nicholson", "Helen Hunt", "Greg Kinnear"]}
+{"star_rating": 7.8, "title": "Awakenings", "content_rating": "PG-13", "genre": "Biography", "duration": 121, "actors_list": ["Robert De Niro", "Robin Williams", "Julie Kavner"]}
+{"star_rating": 7.8, "title": "The King of Comedy", "content_rating": "PG", "genre": "Comedy", "duration": 109, "actors_list": ["Robert De Niro", "Jerry Lewis", "Diahnne Abbott"]}
+{"star_rating": 7.8, "title": "Man on Fire", "content_rating": "R", "genre": "Action", "duration": 146, "actors_list": ["Denzel Washington", "Christopher Walken", "Dakota Fanning"]}
+{"star_rating": 7.8, "title": "Sabrina", "content_rating": "UNRATED", "genre": "Comedy", "duration": 113, "actors_list": ["Humphrey Bogart", "Audrey Hepburn", "William Holden"]}
+{"star_rating": 7.8, "title": "Dark City", "content_rating": "R", "genre": "Mystery", "duration": 100, "actors_list": ["Rufus Sewell", "Kiefer Sutherland", "Jennifer Connelly"]}
+{"star_rating": 7.8, "title": "Good Bye Lenin!", "content_rating": "R", "genre": "Comedy", "duration": 121, "actors_list": ["Daniel Br\u00fchl", "Katrin Sa\u00df", "Chulpan Khamatova"]}
+{"star_rating": 7.7, "title": "Remember the Titans", "content_rating": "PG", "genre": "Biography", "duration": 113, "actors_list": ["Denzel Washington", "Will Patton", "Wood Harris"]}
+{"star_rating": 7.7, "title": "Star Trek II: The Wrath of Khan", "content_rating": "PG", "genre": "Action", "duration": 113, "actors_list": ["William Shatner", "Leonard Nimoy", "DeForest Kelley"]}
+{"star_rating": 7.7, "title": "Road to Perdition", "content_rating": "R", "genre": "Crime", "duration": 117, "actors_list": ["Tom Hanks", "Tyler Hoechlin", "Rob Maxey"]}
+{"star_rating": 7.7, "title": "Rushmore", "content_rating": "R", "genre": "Comedy", "duration": 93, "actors_list": ["Jason Schwartzman", "Bill Murray", "Olivia Williams"]}
+{"star_rating": 7.7, "title": "The Machinist", "content_rating": "R", "genre": "Drama", "duration": 101, "actors_list": ["Christian Bale", "Jennifer Jason Leigh", "Aitana S\u00e1nchez-Gij\u00f3n"]}
+{"star_rating": 7.7, "title": "Flipped", "content_rating": "PG", "genre": "Comedy", "duration": 90, "actors_list": ["Madeline Carroll", "Callan McAuliffe", "Rebecca De Mornay"]}
+{"star_rating": 7.7, "title": "The Count of Monte Cristo", "content_rating": "PG-13", "genre": "Action", "duration": 131, "actors_list": ["Jim Caviezel", "Guy Pearce", "Richard Harris"]}
+{"star_rating": 7.7, "title": "Detachment", "content_rating": "NOT RATED", "genre": "Drama", "duration": 98, "actors_list": ["Adrien Brody", "Christina Hendricks", "Marcia Gay Harden"]}
+{"star_rating": 7.7, "title": "Love Me If You Dare", "content_rating": "R", "genre": "Comedy", "duration": 93, "actors_list": ["Guillaume Canet", "Marion Cotillard", "Thibault Verhaeghe"]}
+{"star_rating": 7.7, "title": "Dead Man", "content_rating": "R", "genre": "Drama", "duration": 121, "actors_list": ["Johnny Depp", "Gary Farmer", "Crispin Glover"]}
+{"star_rating": 7.7, "title": "The Purple Rose of Cairo", "content_rating": "PG", "genre": "Comedy", "duration": 82, "actors_list": ["Mia Farrow", "Jeff Daniels", "Danny Aiello"]}
+{"star_rating": 7.7, "title": "21 Grams", "content_rating": "R", "genre": "Crime", "duration": 124, "actors_list": ["Sean Penn", "Benicio Del Toro", "Naomi Watts"]}
+{"star_rating": 7.7, "title": "50/50", "content_rating": "R", "genre": "Comedy", "duration": 100, "actors_list": ["Joseph Gordon-Levitt", "Seth Rogen", "Anna Kendrick"]}
+{"star_rating": 7.7, "title": "Kick-Ass", "content_rating": "R", "genre": "Action", "duration": 117, "actors_list": ["Aaron Taylor-Johnson", "Nicolas Cage", "Chlo\u00eb Grace Moretz"]}
+{"star_rating": 7.7, "title": "Delicatessen", "content_rating": "R", "genre": "Comedy", "duration": 99, "actors_list": ["Marie-Laure Dougnac", "Dominique Pinon", "Pascal Benezech"]}
+{"star_rating": 7.7, "title": "Barton Fink", "content_rating": "R", "genre": "Drama", "duration": 116, "actors_list": ["John Turturro", "John Goodman", "Judy Davis"]}
+{"star_rating": 7.7, "title": "The Last King of Scotland", "content_rating": "R", "genre": "Biography", "duration": 123, "actors_list": ["James McAvoy", "Forest Whitaker", "Gillian Anderson"]}
+{"star_rating": 7.7, "title": "Adaptation.", "content_rating": "R", "genre": "Comedy", "duration": 114, "actors_list": ["Nicolas Cage", "Meryl Streep", "Chris Cooper"]}
+{"star_rating": 7.7, "title": "A Very Long Engagement", "content_rating": "R", "genre": "Drama", "duration": 133, "actors_list": ["Audrey Tautou", "Gaspard Ulliel", "Jodie Foster"]}
+{"star_rating": 7.7, "title": "Mysterious Skin", "content_rating": "NC-17", "genre": "Drama", "duration": 105, "actors_list": ["Brady Corbet", "Joseph Gordon-Levitt", "Elisabeth Shue"]}
+{"star_rating": 7.7, "title": "Stardust", "content_rating": "PG-13", "genre": "Adventure", "duration": 127, "actors_list": ["Charlie Cox", "Claire Danes", "Sienna Miller"]}
+{"star_rating": 7.7, "title": "Black Hawk Down", "content_rating": "R", "genre": "Drama", "duration": 144, "actors_list": ["Josh Hartnett", "Ewan McGregor", "Tom Sizemore"]}
+{"star_rating": 7.7, "title": "Paprika", "content_rating": "R", "genre": "Animation", "duration": 90, "actors_list": ["Megumi Hayashibara", "T\u00f4ru Emori", "Katsunosuke Hori"]}
+{"star_rating": 7.7, "title": "Fear and Loathing in Las Vegas", "content_rating": "R", "genre": "Comedy", "duration": 118, "actors_list": ["Johnny Depp", "Benicio Del Toro", "Tobey Maguire"]}
+{"star_rating": 7.7, "title": "Frost/Nixon", "content_rating": "R", "genre": "Drama", "duration": 122, "actors_list": ["Frank Langella", "Michael Sheen", "Kevin Bacon"]}
+{"star_rating": 7.7, "title": "Enter the Dragon", "content_rating": "R", "genre": "Action", "duration": 102, "actors_list": ["Bruce Lee", "John Saxon", "Jim Kelly"]}
+{"star_rating": 7.7, "title": "Short Cuts", "content_rating": "R", "genre": "Comedy", "duration": 187, "actors_list": ["Andie MacDowell", "Julianne Moore", "Tim Robbins"]}
+{"star_rating": 7.7, "title": "A Hard Day's Night", "content_rating": "APPROVED", "genre": "Comedy", "duration": 87, "actors_list": ["John Lennon", "Paul McCartney", "George Harrison"]}
+{"star_rating": 7.7, "title": "The Last Samurai", "content_rating": "R", "genre": "Action", "duration": 154, "actors_list": ["Tom Cruise", "Ken Watanabe", "Billy Connolly"]}
+{"star_rating": 7.7, "title": "The Station Agent", "content_rating": "R", "genre": "Comedy", "duration": 89, "actors_list": ["Peter Dinklage", "Patricia Clarkson", "Bobby Cannavale"]}
+{"star_rating": 7.7, "title": "Zombieland", "content_rating": "R", "genre": "Comedy", "duration": 88, "actors_list": ["Jesse Eisenberg", "Emma Stone", "Woody Harrelson"]}
+{"star_rating": 7.7, "title": "Sympathy for Mr. Vengeance", "content_rating": "R", "genre": "Crime", "duration": 129, "actors_list": ["Kang-ho Song", "Ha-kyun Shin", "Doona Bae"]}
+{"star_rating": 7.7, "title": "Despicable Me", "content_rating": "PG", "genre": "Animation", "duration": 95, "actors_list": ["Steve Carell", "Jason Segel", "Russell Brand"]}
+{"star_rating": 7.7, "title": "Shane", "content_rating": "APPROVED", "genre": "Drama", "duration": 118, "actors_list": ["Alan Ladd", "Jean Arthur", "Van Heflin"]}
+{"star_rating": 7.7, "title": "Forbidden Planet", "content_rating": "PASSED", "genre": "Action", "duration": 98, "actors_list": ["Walter Pidgeon", "Anne Francis", "Leslie Nielsen"]}
+{"star_rating": 7.7, "title": "Titanic", "content_rating": "PG-13", "genre": "Drama", "duration": 194, "actors_list": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]}
+{"star_rating": 7.7, "title": "Gone Baby Gone", "content_rating": "R", "genre": "Crime", "duration": 114, "actors_list": ["Morgan Freeman", "Ed Harris", "Casey Affleck"]}
+{"star_rating": 7.7, "title": "The Dinner Game", "content_rating": "PG-13", "genre": "Comedy", "duration": 80, "actors_list": ["Thierry Lhermitte", "Jacques Villeret", "Francis Huster"]}
+{"star_rating": 7.7, "title": "Dawn of the Planet of the Apes", "content_rating": "PG-13", "genre": "Action", "duration": 130, "actors_list": ["Gary Oldman", "Keri Russell", "Andy Serkis"]}
+{"star_rating": 7.7, "title": "25th Hour", "content_rating": "R", "genre": "Crime", "duration": 135, "actors_list": ["Edward Norton", "Barry Pepper", "Philip Seymour Hoffman"]}
+{"star_rating": 7.7, "title": "Ponyo", "content_rating": "G", "genre": "Animation", "duration": 101, "actors_list": ["Cate Blanchett", "Matt Damon", "Liam Neeson"]}
+{"star_rating": 7.7, "title": "Shine", "content_rating": "PG-13", "genre": "Biography", "duration": 105, "actors_list": ["Geoffrey Rush", "Armin Mueller-Stahl", "Justin Braine"]}
+{"star_rating": 7.7, "title": "The Blind Side", "content_rating": "PG-13", "genre": "Biography", "duration": 129, "actors_list": ["Quinton Aaron", "Sandra Bullock", "Tim McGraw"]}
+{"star_rating": 7.7, "title": "Brokeback Mountain", "content_rating": "R", "genre": "Drama", "duration": 134, "actors_list": ["Jake Gyllenhaal", "Heath Ledger", "Michelle Williams"]}
+{"star_rating": 7.7, "title": "Cast Away", "content_rating": "PG-13", "genre": "Adventure", "duration": 143, "actors_list": ["Tom Hanks", "Helen Hunt", "Paul Sanchez"]}
+{"star_rating": 7.7, "title": "Malcolm X", "content_rating": "PG-13", "genre": "Biography", "duration": 202, "actors_list": ["Denzel Washington", "Angela Bassett", "Delroy Lindo"]}
+{"star_rating": 7.7, "title": "Show Me Love", "content_rating": "UNRATED", "genre": "Comedy", "duration": 89, "actors_list": ["Alexandra Dahlstr\u00f6m", "Rebecka Liljeberg", "Erica Carlson"]}
+{"star_rating": 7.7, "title": "Boy A", "content_rating": "R", "genre": "Drama", "duration": 106, "actors_list": ["Andrew Garfield", "Peter Mullan", "Shaun Evans"]}
+{"star_rating": 7.7, "title": "The Warriors", "content_rating": "R", "genre": "Action", "duration": 92, "actors_list": ["Michael Beck", "James Remar", "Dorsey Wright"]}
+{"star_rating": 7.7, "title": "Close Encounters of the Third Kind", "content_rating": "PG", "genre": "Drama", "duration": 137, "actors_list": ["Richard Dreyfuss", "Fran\u00e7ois Truffaut", "Teri Garr"]}
+{"star_rating": 7.7, "title": "Match Point", "content_rating": "R", "genre": "Drama", "duration": 124, "actors_list": ["Scarlett Johansson", "Jonathan Rhys Meyers", "Emily Mortimer"]}
+{"star_rating": 7.7, "title": "Training Day", "content_rating": "R", "genre": "Crime", "duration": 122, "actors_list": ["Denzel Washington", "Ethan Hawke", "Scott Glenn"]}
+{"star_rating": 7.7, "title": "The Butterfly Effect", "content_rating": "R", "genre": "Sci-Fi", "duration": 113, "actors_list": ["Ashton Kutcher", "Amy Smart", "Melora Walters"]}
+{"star_rating": 7.7, "title": "The City of Lost Children", "content_rating": "R", "genre": "Fantasy", "duration": 112, "actors_list": ["Ron Perlman", "Daniel Emilfork", "Judith Vittet"]}
+{"star_rating": 7.7, "title": "Billy Elliot", "content_rating": "PG-13", "genre": "Comedy", "duration": 110, "actors_list": ["Jamie Bell", "Julie Walters", "Jean Heywood"]}
+{"star_rating": 7.7, "title": "Love Actually", "content_rating": "R", "genre": "Comedy", "duration": 135, "actors_list": ["Hugh Grant", "Martine McCutcheon", "Liam Neeson"]}
+{"star_rating": 7.7, "title": "The Producers", "content_rating": "PG", "genre": "Comedy", "duration": 88, "actors_list": ["Zero Mostel", "Gene Wilder", "Dick Shawn"]}
+{"star_rating": 7.7, "title": "Harry Potter and the Deathly Hallows: Part 1", "content_rating": "PG-13", "genre": "Adventure", "duration": 146, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 7.7, "title": "The Visitor", "content_rating": "PG-13", "genre": "Drama", "duration": 104, "actors_list": ["Richard Jenkins", "Haaz Sleiman", "Danai Gurira"]}
+{"star_rating": 7.7, "title": "Philadelphia", "content_rating": "PG-13", "genre": "Drama", "duration": 125, "actors_list": ["Tom Hanks", "Denzel Washington", "Roberta Maxwell"]}
+{"star_rating": 7.7, "title": "Sense and Sensibility", "content_rating": "PG", "genre": "Drama", "duration": 131, "actors_list": ["Emma Thompson", "Kate Winslet", "James Fleet"]}
+{"star_rating": 7.7, "title": "Three Colors: White", "content_rating": "R", "genre": "Comedy", "duration": 91, "actors_list": ["Zbigniew Zamachowski", "Julie Delpy", "Janusz Gajos"]}
+{"star_rating": 7.7, "title": "La grande bellezza", "content_rating": "NOT RATED", "genre": "Drama", "duration": 142, "actors_list": ["Toni Servillo", "Carlo Verdone", "Sabrina Ferilli"]}
+{"star_rating": 7.7, "title": "Primal Fear", "content_rating": "R", "genre": "Crime", "duration": 129, "actors_list": ["Richard Gere", "Laura Linney", "Edward Norton"]}
+{"star_rating": 7.7, "title": "Where Eagles Dare", "content_rating": "", "genre": "Action", "duration": 158, "actors_list": ["Richard Burton", "Clint Eastwood", "Mary Ure"]}
+{"star_rating": 7.7, "title": "Dazed and Confused", "content_rating": "R", "genre": "Comedy", "duration": 102, "actors_list": ["Jason London", "Wiley Wiggins", "Matthew McConaughey"]}
+{"star_rating": 7.7, "title": "Blood Simple.", "content_rating": "R", "genre": "Crime", "duration": 99, "actors_list": ["John Getz", "Frances McDormand", "Dan Hedaya"]}
+{"star_rating": 7.7, "title": "This Is England", "content_rating": "UNRATED", "genre": "Crime", "duration": 101, "actors_list": ["Thomas Turgoose", "Stephen Graham", "Jo Hartley"]}
+{"star_rating": 7.7, "title": "Fearless", "content_rating": "PG-13", "genre": "Action", "duration": 104, "actors_list": ["Jet Li", "Li Sun", "Yong Dong"]}
+{"star_rating": 7.7, "title": "Dangerous Liaisons", "content_rating": "R", "genre": "Drama", "duration": 119, "actors_list": ["Glenn Close", "John Malkovich", "Michelle Pfeiffer"]}
+{"star_rating": 7.7, "title": "Saw", "content_rating": "R", "genre": "Horror", "duration": 103, "actors_list": ["Cary Elwes", "Leigh Whannell", "Danny Glover"]}
+{"star_rating": 7.7, "title": "Snow White and the Seven Dwarfs", "content_rating": "APPROVED", "genre": "Animation", "duration": 88, "actors_list": ["Adriana Caselotti", "Harry Stockwell", "Lucille La Verne"]}
+{"star_rating": 7.7, "title": "Coraline", "content_rating": "PG", "genre": "Animation", "duration": 100, "actors_list": ["Dakota Fanning", "Teri Hatcher", "John Hodgman"]}
+{"star_rating": 7.7, "title": "The Hunger Games: Catching Fire", "content_rating": "PG-13", "genre": "Adventure", "duration": 146, "actors_list": ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth"]}
+{"star_rating": 7.7, "title": "Sophie's Choice", "content_rating": "R", "genre": "Drama", "duration": 150, "actors_list": ["Meryl Streep", "Kevin Kline", "Peter MacNicol"]}
+{"star_rating": 7.7, "title": "La Vie en Rose", "content_rating": "PG-13", "genre": "Biography", "duration": 140, "actors_list": ["Marion Cotillard", "Sylvie Testud", "Pascal Greggory"]}
+{"star_rating": 7.7, "title": "Star Wars: Episode III - Revenge of the Sith", "content_rating": "PG-13", "genre": "Action", "duration": 140, "actors_list": ["Hayden Christensen", "Natalie Portman", "Ewan McGregor"]}
+{"star_rating": 7.7, "title": "True Grit", "content_rating": "PG-13", "genre": "Adventure", "duration": 110, "actors_list": ["Jeff Bridges", "Matt Damon", "Hailee Steinfeld"]}
+{"star_rating": 7.7, "title": "After Hours", "content_rating": "R", "genre": "Comedy", "duration": 97, "actors_list": ["Griffin Dunne", "Rosanna Arquette", "Verna Bloom"]}
+{"star_rating": 7.7, "title": "Frozen", "content_rating": "PG", "genre": "Animation", "duration": 102, "actors_list": ["Kristen Bell", "Idina Menzel", "Jonathan Groff"]}
+{"star_rating": 7.7, "title": "Lolita", "content_rating": "NOT RATED", "genre": "Drama", "duration": 152, "actors_list": ["James Mason", "Shelley Winters", "Sue Lyon"]}
+{"star_rating": 7.7, "title": "Eastern Promises", "content_rating": "R", "genre": "Crime", "duration": 100, "actors_list": ["Naomi Watts", "Viggo Mortensen", "Armin Mueller-Stahl"]}
+{"star_rating": 7.7, "title": "Midnight in Paris", "content_rating": "PG-13", "genre": "Comedy", "duration": 94, "actors_list": ["Owen Wilson", "Rachel McAdams", "Kathy Bates"]}
+{"star_rating": 7.7, "title": "The Muppet Christmas Carol", "content_rating": "G", "genre": "Comedy", "duration": 85, "actors_list": ["Michael Caine", "Dave Goelz", "Steve Whitmire"]}
+{"star_rating": 7.7, "title": "Who Framed Roger Rabbit", "content_rating": "PG", "genre": "Animation", "duration": 104, "actors_list": ["Bob Hoskins", "Christopher Lloyd", "Joanna Cassidy"]}
+{"star_rating": 7.7, "title": "Sympathy for Lady Vengeance", "content_rating": "R", "genre": "Crime", "duration": 112, "actors_list": ["Yeong-ae Lee", "Min-sik Choi", "Shi-hoo Kim"]}
+{"star_rating": 7.7, "title": "Grindhouse", "content_rating": "R", "genre": "Action", "duration": 191, "actors_list": ["Kurt Russell", "Rose McGowan", "Danny Trejo"]}
+{"star_rating": 7.7, "title": "In a Better World", "content_rating": "R", "genre": "Drama", "duration": 119, "actors_list": ["Mikael Persbrandt", "Trine Dyrholm", "Markus Rygaard"]}
+{"star_rating": 7.7, "title": "Blow-Up", "content_rating": "NOT RATED", "genre": "Drama", "duration": 111, "actors_list": ["David Hemmings", "Vanessa Redgrave", "Sarah Miles"]}
+{"star_rating": 7.7, "title": "The Secret World of Arrietty", "content_rating": "G", "genre": "Animation", "duration": 94, "actors_list": ["Bridgit Mendler", "Amy Poehler", "Will Arnett"]}
+{"star_rating": 7.7, "title": "Kiss Kiss Bang Bang", "content_rating": "R", "genre": "Action", "duration": 103, "actors_list": ["Robert Downey Jr.", "Val Kilmer", "Michelle Monaghan"]}
+{"star_rating": 7.7, "title": "Lost Highway", "content_rating": "R", "genre": "Drama", "duration": 134, "actors_list": ["Bill Pullman", "Patricia Arquette", "John Roselius"]}
+{"star_rating": 7.7, "title": "Zodiac", "content_rating": "R", "genre": "Crime", "duration": 157, "actors_list": ["Jake Gyllenhaal", "Robert Downey Jr.", "Mark Ruffalo"]}
+{"star_rating": 7.7, "title": "Les Miserables", "content_rating": "PG-13", "genre": "Drama", "duration": 158, "actors_list": ["Hugh Jackman", "Russell Crowe", "Anne Hathaway"]}
+{"star_rating": 7.7, "title": "Moulin Rouge!", "content_rating": "PG-13", "genre": "Drama", "duration": 127, "actors_list": ["Nicole Kidman", "Ewan McGregor", "John Leguizamo"]}
+{"star_rating": 7.7, "title": "Whale Rider", "content_rating": "PG-13", "genre": "Drama", "duration": 101, "actors_list": ["Keisha Castle-Hughes", "Rawiri Paratene", "Vicky Haughton"]}
+{"star_rating": 7.7, "title": "End of Watch", "content_rating": "R", "genre": "Crime", "duration": 109, "actors_list": ["Jake Gyllenhaal", "Michael Pe\u00f1a", "Anna Kendrick"]}
+{"star_rating": 7.7, "title": "Philomena", "content_rating": "PG-13", "genre": "Biography", "duration": 98, "actors_list": ["Judi Dench", "Steve Coogan", "Sophie Kennedy Clark"]}
+{"star_rating": 7.7, "title": "Fury", "content_rating": "R", "genre": "Action", "duration": 134, "actors_list": ["Brad Pitt", "Shia LaBeouf", "Logan Lerman"]}
+{"star_rating": 7.7, "title": "The Big Blue", "content_rating": "PG-13", "genre": "Action", "duration": 168, "actors_list": ["Jean-Marc Barr", "Jean Reno", "Rosanna Arquette"]}
+{"star_rating": 7.7, "title": "First Blood", "content_rating": "R", "genre": "Action", "duration": 93, "actors_list": ["Sylvester Stallone", "Brian Dennehy", "Richard Crenna"]}
+{"star_rating": 7.7, "title": "Minority Report", "content_rating": "PG-13", "genre": "Action", "duration": 145, "actors_list": ["Tom Cruise", "Colin Farrell", "Samantha Morton"]}
+{"star_rating": 7.7, "title": "Spellbound", "content_rating": "UNRATED", "genre": "Film-Noir", "duration": 111, "actors_list": ["Ingrid Bergman", "Gregory Peck", "Michael Chekhov"]}
+{"star_rating": 7.7, "title": "The Wicker Man", "content_rating": "R", "genre": "Horror", "duration": 88, "actors_list": ["Edward Woodward", "Christopher Lee", "Diane Cilento"]}
+{"star_rating": 7.7, "title": "Seven Pounds", "content_rating": "PG-13", "genre": "Drama", "duration": 123, "actors_list": ["Will Smith", "Rosario Dawson", "Woody Harrelson"]}
+{"star_rating": 7.7, "title": "Midnight Express", "content_rating": "R", "genre": "Biography", "duration": 121, "actors_list": ["Brad Davis", "Irene Miracle", "Bo Hopkins"]}
+{"star_rating": 7.7, "title": "Kelly's Heroes", "content_rating": "GP", "genre": "Action", "duration": 144, "actors_list": ["Clint Eastwood", "Telly Savalas", "Don Rickles"]}
+{"star_rating": 7.7, "title": "MASH", "content_rating": "R", "genre": "Comedy", "duration": 116, "actors_list": ["Donald Sutherland", "Elliott Gould", "Tom Skerritt"]}
+{"star_rating": 7.7, "title": "The Player", "content_rating": "R", "genre": "Comedy", "duration": 124, "actors_list": ["Tim Robbins", "Greta Scacchi", "Fred Ward"]}
+{"star_rating": 7.7, "title": "Traffic", "content_rating": "R", "genre": "Crime", "duration": 147, "actors_list": ["Michael Douglas", "Benicio Del Toro", "Catherine Zeta-Jones"]}
+{"star_rating": 7.7, "title": "Y Tu Mama Tambien", "content_rating": "R", "genre": "Drama", "duration": 106, "actors_list": ["Maribel Verd\u00fa", "Gael Garc\u00eda Bernal", "Daniel Gim\u00e9nez Cacho"]}
+{"star_rating": 7.7, "title": "Stranger Than Fiction", "content_rating": "PG-13", "genre": "Comedy", "duration": 113, "actors_list": ["Will Ferrell", "Emma Thompson", "Dustin Hoffman"]}
+{"star_rating": 7.7, "title": "Inside Man", "content_rating": "R", "genre": "Crime", "duration": 129, "actors_list": ["Denzel Washington", "Clive Owen", "Jodie Foster"]}
+{"star_rating": 7.6, "title": "127 Hours", "content_rating": "R", "genre": "Adventure", "duration": 94, "actors_list": ["James Franco", "Amber Tamblyn", "Kate Mara"]}
+{"star_rating": 7.6, "title": "The Fifth Element", "content_rating": "PG-13", "genre": "Action", "duration": 126, "actors_list": ["Bruce Willis", "Milla Jovovich", "Gary Oldman"]}
+{"star_rating": 7.6, "title": "Milk", "content_rating": "R", "genre": "Biography", "duration": 128, "actors_list": ["Sean Penn", "Josh Brolin", "Emile Hirsch"]}
+{"star_rating": 7.6, "title": "United 93", "content_rating": "R", "genre": "Action", "duration": 111, "actors_list": ["David Alan Basche", "Olivia Thirlby", "Liza Col\u00f3n-Zayas"]}
+{"star_rating": 7.6, "title": "Jin ling shi san chai", "content_rating": "R", "genre": "Drama", "duration": 146, "actors_list": ["Christian Bale", "Ni Ni", "Xinyi Zhang"]}
+{"star_rating": 7.6, "title": "Dracula", "content_rating": "APPROVED", "genre": "Horror", "duration": 85, "actors_list": ["Bela Lugosi", "Helen Chandler", "David Manners"]}
+{"star_rating": 7.6, "title": "High Plains Drifter", "content_rating": "R", "genre": "Western", "duration": 105, "actors_list": ["Clint Eastwood", "Verna Bloom", "Marianna Hill"]}
+{"star_rating": 7.6, "title": "I Am Sam", "content_rating": "PG-13", "genre": "Drama", "duration": 132, "actors_list": ["Sean Penn", "Michelle Pfeiffer", "Dakota Fanning"]}
+{"star_rating": 7.6, "title": "Fried Green Tomatoes", "content_rating": "PG-13", "genre": "Drama", "duration": 130, "actors_list": ["Kathy Bates", "Jessica Tandy", "Mary Stuart Masterson"]}
+{"star_rating": 7.6, "title": "Watchmen", "content_rating": "R", "genre": "Action", "duration": 162, "actors_list": ["Jackie Earle Haley", "Patrick Wilson", "Carla Gugino"]}
+{"star_rating": 7.6, "title": "28 Days Later...", "content_rating": "R", "genre": "Horror", "duration": 113, "actors_list": ["Cillian Murphy", "Naomie Harris", "Christopher Eccleston"]}
+{"star_rating": 7.6, "title": "The Illusionist", "content_rating": "PG-13", "genre": "Drama", "duration": 110, "actors_list": ["Edward Norton", "Jessica Biel", "Paul Giamatti"]}
+{"star_rating": 7.6, "title": "Superbad", "content_rating": "R", "genre": "Comedy", "duration": 113, "actors_list": ["Michael Cera", "Jonah Hill", "Christopher Mintz-Plasse"]}
+{"star_rating": 7.6, "title": "The Godfather: Part III", "content_rating": "R", "genre": "Crime", "duration": 162, "actors_list": ["Al Pacino", "Diane Keaton", "Andy Garcia"]}
+{"star_rating": 7.6, "title": "The Royal Tenenbaums", "content_rating": "R", "genre": "Comedy", "duration": 110, "actors_list": ["Gene Hackman", "Gwyneth Paltrow", "Anjelica Huston"]}
+{"star_rating": 7.6, "title": "The Jungle Book", "content_rating": "APPROVED", "genre": "Animation", "duration": 78, "actors_list": ["Phil Harris", "Sebastian Cabot", "Louis Prima"]}
+{"star_rating": 7.6, "title": "Thank You for Smoking", "content_rating": "R", "genre": "Comedy", "duration": 92, "actors_list": ["Aaron Eckhart", "Cameron Bright", "Maria Bello"]}
+{"star_rating": 7.6, "title": "Man Bites Dog", "content_rating": "NC-17", "genre": "Comedy", "duration": 95, "actors_list": ["Beno\u00eet Poelvoorde", "Jacqueline Poelvoorde-Pappaert", "Nelly Pappaert"]}
+{"star_rating": 7.6, "title": "A Few Good Men", "content_rating": "R", "genre": "Drama", "duration": 138, "actors_list": ["Tom Cruise", "Jack Nicholson", "Demi Moore"]}
+{"star_rating": 7.6, "title": "The Legend of Drunken Master", "content_rating": "R", "genre": "Action", "duration": 102, "actors_list": ["Jackie Chan", "Ho-Sung Pak", "Lung Ti"]}
+{"star_rating": 7.6, "title": "The Kite Runner", "content_rating": "PG-13", "genre": "Drama", "duration": 128, "actors_list": ["Khalid Abdalla", "Ahmad Khan Mahmoodzada", "Atossa Leoni"]}
+{"star_rating": 7.6, "title": "When Harry Met Sally...", "content_rating": "R", "genre": "Comedy", "duration": 96, "actors_list": ["Billy Crystal", "Meg Ryan", "Carrie Fisher"]}
+{"star_rating": 7.6, "title": "Munich", "content_rating": "R", "genre": "Drama", "duration": 164, "actors_list": ["Eric Bana", "Daniel Craig", "Marie-Jos\u00e9e Croze"]}
+{"star_rating": 7.6, "title": "House of Sand and Fog", "content_rating": "R", "genre": "Drama", "duration": 126, "actors_list": ["Jennifer Connelly", "Ben Kingsley", "Ron Eldard"]}
+{"star_rating": 7.6, "title": "Lethal Weapon", "content_rating": "R", "genre": "Action", "duration": 110, "actors_list": ["Mel Gibson", "Danny Glover", "Gary Busey"]}
+{"star_rating": 7.6, "title": "Animal House", "content_rating": "R", "genre": "Comedy", "duration": 109, "actors_list": ["John Belushi", "Karen Allen", "Tom Hulce"]}
+{"star_rating": 7.6, "title": "Lord of War", "content_rating": "R", "genre": "Crime", "duration": 122, "actors_list": ["Nicolas Cage", "Ethan Hawke", "Jared Leto"]}
+{"star_rating": 7.6, "title": "Blow", "content_rating": "R", "genre": "Biography", "duration": 124, "actors_list": ["Johnny Depp", "Pen\u00e9lope Cruz", "Franka Potente"]}
+{"star_rating": 7.6, "title": "Sherlock Holmes", "content_rating": "PG-13", "genre": "Action", "duration": 128, "actors_list": ["Robert Downey Jr.", "Jude Law", "Rachel McAdams"]}
+{"star_rating": 7.6, "title": "Harry Potter and the Goblet of Fire", "content_rating": "PG-13", "genre": "Adventure", "duration": 157, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 7.6, "title": "La piel que habito", "content_rating": "R", "genre": "Thriller", "duration": 120, "actors_list": ["Antonio Banderas", "Elena Anaya", "Jan Cornet"]}
+{"star_rating": 7.6, "title": "The Crow", "content_rating": "R", "genre": "Action", "duration": 102, "actors_list": ["Brandon Lee", "Michael Wincott", "Rochelle Davis"]}
+{"star_rating": 7.6, "title": "West Side Story", "content_rating": "UNRATED", "genre": "Crime", "duration": 152, "actors_list": ["Natalie Wood", "George Chakiris", "Richard Beymer"]}
+{"star_rating": 7.6, "title": "The Thin Red Line", "content_rating": "R", "genre": "Drama", "duration": 170, "actors_list": ["Jim Caviezel", "Sean Penn", "Nick Nolte"]}
+{"star_rating": 7.6, "title": "American Psycho", "content_rating": "R", "genre": "Crime", "duration": 102, "actors_list": ["Christian Bale", "Justin Theroux", "Josh Lucas"]}
+{"star_rating": 7.6, "title": "The Blind Swordsman: Zatoichi", "content_rating": "R", "genre": "Action", "duration": 116, "actors_list": ["Takeshi Kitano", "Tadanobu Asano", "Yui Natsukawa"]}
+{"star_rating": 7.6, "title": "The Last Temptation of Christ", "content_rating": "R", "genre": "Drama", "duration": 164, "actors_list": ["Willem Dafoe", "Harvey Keitel", "Barbara Hershey"]}
+{"star_rating": 7.6, "title": "The Naked Gun: From the Files of Police Squad!", "content_rating": "PG-13", "genre": "Comedy", "duration": 85, "actors_list": ["Leslie Nielsen", "Priscilla Presley", "O.J. Simpson"]}
+{"star_rating": 7.6, "title": "The Others", "content_rating": "PG-13", "genre": "Horror", "duration": 104, "actors_list": ["Nicole Kidman", "Christopher Eccleston", "Fionnula Flanagan"]}
+{"star_rating": 7.6, "title": "The Party", "content_rating": "PG", "genre": "Comedy", "duration": 99, "actors_list": ["Peter Sellers", "Claudine Longet", "Natalia Borisova"]}
+{"star_rating": 7.6, "title": "Army of Darkness", "content_rating": "R", "genre": "Comedy", "duration": 81, "actors_list": ["Bruce Campbell", "Embeth Davidtz", "Marcus Gilbert"]}
+{"star_rating": 7.6, "title": "The Hurt Locker", "content_rating": "R", "genre": "Drama", "duration": 131, "actors_list": ["Jeremy Renner", "Anthony Mackie", "Brian Geraghty"]}
+{"star_rating": 7.6, "title": "The Raid: Redemption", "content_rating": "R", "genre": "Action", "duration": 101, "actors_list": ["Iko Uwais", "Ananda George", "Ray Sahetapy"]}
+{"star_rating": 7.6, "title": "Volver", "content_rating": "R", "genre": "Comedy", "duration": 121, "actors_list": ["Pen\u00e9lope Cruz", "Carmen Maura", "Lola Due\u00f1as"]}
+{"star_rating": 7.6, "title": "Following", "content_rating": "R", "genre": "Mystery", "duration": 69, "actors_list": ["Jeremy Theobald", "Alex Haw", "Lucy Russell"]}
+{"star_rating": 7.6, "title": "Kung Fu Panda", "content_rating": "PG", "genre": "Animation", "duration": 92, "actors_list": ["Jack Black", "Ian McShane", "Angelina Jolie"]}
+{"star_rating": 7.6, "title": "Mad Max 2: The Road Warrior", "content_rating": "R", "genre": "Action", "duration": 94, "actors_list": ["Mel Gibson", "Bruce Spence", "Michael Preston"]}
+{"star_rating": 7.6, "title": "Jusan-nin no shikaku", "content_rating": "R", "genre": "Action", "duration": 141, "actors_list": ["K\u00f4ji Yakusho", "Takayuki Yamada", "Y\u00fbsuke Iseya"]}
+{"star_rating": 7.6, "title": "The Man Who Wasn't There", "content_rating": "R", "genre": "Crime", "duration": 116, "actors_list": ["Billy Bob Thornton", "Frances McDormand", "Michael Badalucco"]}
+{"star_rating": 7.6, "title": "The Counterfeiters", "content_rating": "R", "genre": "Crime", "duration": 98, "actors_list": ["Karl Markovics", "August Diehl", "Devid Striesow"]}
+{"star_rating": 7.6, "title": "The Hunt for Red October", "content_rating": "PG", "genre": "Action", "duration": 135, "actors_list": ["Sean Connery", "Alec Baldwin", "Scott Glenn"]}
+{"star_rating": 7.6, "title": "Lone Survivor", "content_rating": "R", "genre": "Action", "duration": 121, "actors_list": ["Mark Wahlberg", "Taylor Kitsch", "Emile Hirsch"]}
+{"star_rating": 7.6, "title": "A Fish Called Wanda", "content_rating": "R", "genre": "Comedy", "duration": 108, "actors_list": ["John Cleese", "Jamie Lee Curtis", "Kevin Kline"]}
+{"star_rating": 7.6, "title": "The Impossible", "content_rating": "PG-13", "genre": "Drama", "duration": 114, "actors_list": ["Naomi Watts", "Ewan McGregor", "Tom Holland"]}
+{"star_rating": 7.6, "title": "Garden State", "content_rating": "R", "genre": "Comedy", "duration": 102, "actors_list": ["Zach Braff", "Peter Sarsgaard", "Natalie Portman"]}
+{"star_rating": 7.6, "title": "Escape from Alcatraz", "content_rating": "PG", "genre": "Action", "duration": 112, "actors_list": ["Clint Eastwood", "Patrick McGoohan", "Roberts Blossom"]}
+{"star_rating": 7.6, "title": "Apollo 13", "content_rating": "PG", "genre": "Adventure", "duration": 140, "actors_list": ["Tom Hanks", "Bill Paxton", "Kevin Bacon"]}
+{"star_rating": 7.6, "title": "Lust, Caution", "content_rating": "NC-17", "genre": "Drama", "duration": 157, "actors_list": ["Tony Chiu Wai Leung", "Wei Tang", "Joan Chen"]}
+{"star_rating": 7.6, "title": "Selma", "content_rating": "PG-13", "genre": "Biography", "duration": 128, "actors_list": ["David Oyelowo", "Carmen Ejogo", "Tim Roth"]}
+{"star_rating": 7.6, "title": "Funny Games", "content_rating": "UNRATED", "genre": "Crime", "duration": 108, "actors_list": ["Susanne Lothar", "Ulrich M\u00fche", "Arno Frisch"]}
+{"star_rating": 7.6, "title": "The Abyss", "content_rating": "PG-13", "genre": "Adventure", "duration": 139, "actors_list": ["Ed Harris", "Mary Elizabeth Mastrantonio", "Michael Biehn"]}
+{"star_rating": 7.6, "title": "Robin Hood", "content_rating": "G", "genre": "Animation", "duration": 83, "actors_list": ["Brian Bedford", "Phil Harris", "Roger Miller"]}
+{"star_rating": 7.6, "title": "Enemy at the Gates", "content_rating": "R", "genre": "Drama", "duration": 131, "actors_list": ["Jude Law", "Ed Harris", "Joseph Fiennes"]}
+{"star_rating": 7.6, "title": "Falling Down", "content_rating": "R", "genre": "Crime", "duration": 113, "actors_list": ["Michael Douglas", "Robert Duvall", "Barbara Hershey"]}
+{"star_rating": 7.6, "title": "Little Children", "content_rating": "R", "genre": "Drama", "duration": 136, "actors_list": ["Kate Winslet", "Jennifer Connelly", "Patrick Wilson"]}
+{"star_rating": 7.6, "title": "Hunger", "content_rating": "NOT RATED", "genre": "Biography", "duration": 96, "actors_list": ["Stuart Graham", "Laine Megaw", "Brian Milligan"]}
+{"star_rating": 7.6, "title": "Indiana Jones and the Temple of Doom", "content_rating": "PG", "genre": "Action", "duration": 118, "actors_list": ["Harrison Ford", "Kate Capshaw", "Jonathan Ke Quan"]}
+{"star_rating": 7.6, "title": "Ip Man 2", "content_rating": "R", "genre": "Action", "duration": 108, "actors_list": ["Donnie Yen", "Xiaoming Huang", "Sammo Kam-Bo Hung"]}
+{"star_rating": 7.6, "title": "The Little Mermaid", "content_rating": "G", "genre": "Animation", "duration": 83, "actors_list": ["Jodi Benson", "Samuel E. Wright", "Rene Auberjonois"]}
+{"star_rating": 7.6, "title": "It's a Mad, Mad, Mad, Mad World", "content_rating": "APPROVED", "genre": "Action", "duration": 205, "actors_list": ["Spencer Tracy", "Milton Berle", "Ethel Merman"]}
+{"star_rating": 7.6, "title": "The Reader", "content_rating": "R", "genre": "Drama", "duration": 124, "actors_list": ["Kate Winslet", "Ralph Fiennes", "Bruno Ganz"]}
+{"star_rating": 7.6, "title": "The Omen", "content_rating": "R", "genre": "Horror", "duration": 111, "actors_list": ["Gregory Peck", "Lee Remick", "Harvey Stephens"]}
+{"star_rating": 7.6, "title": "A Royal Affair", "content_rating": "R", "genre": "Drama", "duration": 137, "actors_list": ["Alicia Vikander", "Mads Mikkelsen", "Mikkel Boe F\u00f8lsgaard"]}
+{"star_rating": 7.6, "title": "Braindead", "content_rating": "R", "genre": "Comedy", "duration": 104, "actors_list": ["Timothy Balme", "Diana Pe\u00f1alver", "Elizabeth Moody"]}
+{"star_rating": 7.6, "title": "Secondhand Lions", "content_rating": "PG", "genre": "Comedy", "duration": 109, "actors_list": ["Haley Joel Osment", "Michael Caine", "Robert Duvall"]}
+{"star_rating": 7.6, "title": "Disconnect", "content_rating": "R", "genre": "Drama", "duration": 115, "actors_list": ["Jason Bateman", "Jonah Bobo", "Haley Ramm"]}
+{"star_rating": 7.6, "title": "A Single Man", "content_rating": "R", "genre": "Drama", "duration": 99, "actors_list": ["Colin Firth", "Julianne Moore", "Matthew Goode"]}
+{"star_rating": 7.6, "title": "Hoosiers", "content_rating": "PG", "genre": "Drama", "duration": 114, "actors_list": ["Gene Hackman", "Barbara Hershey", "Dennis Hopper"]}
+{"star_rating": 7.6, "title": "Moneyball", "content_rating": "PG-13", "genre": "Biography", "duration": 133, "actors_list": ["Brad Pitt", "Robin Wright", "Jonah Hill"]}
+{"star_rating": 7.6, "title": "The Book Thief", "content_rating": "PG-13", "genre": "Drama", "duration": 131, "actors_list": ["Sophie N\u00e9lisse", "Geoffrey Rush", "Emily Watson"]}
+{"star_rating": 7.6, "title": "Die Hard: With a Vengeance", "content_rating": "R", "genre": "Action", "duration": 131, "actors_list": ["Bruce Willis", "Jeremy Irons", "Samuel L. Jackson"]}
+{"star_rating": 7.6, "title": "Interview with the Vampire: The Vampire Chronicles", "content_rating": "R", "genre": "Horror", "duration": 123, "actors_list": ["Brad Pitt", "Tom Cruise", "Antonio Banderas"]}
+{"star_rating": 7.6, "title": "Midnight Run", "content_rating": "R", "genre": "Action", "duration": 126, "actors_list": ["Robert De Niro", "Charles Grodin", "Yaphet Kotto"]}
+{"star_rating": 7.6, "title": "An American Werewolf in London", "content_rating": "R", "genre": "Comedy", "duration": 97, "actors_list": ["David Naughton", "Jenny Agutter", "Joe Belcher"]}
+{"star_rating": 7.6, "title": "The Great Debaters", "content_rating": "PG-13", "genre": "Biography", "duration": 126, "actors_list": ["Denzel Washington", "Forest Whitaker", "Kimberly Elise"]}
+{"star_rating": 7.6, "title": "Tucker and Dale vs. Evil", "content_rating": "R", "genre": "Comedy", "duration": 89, "actors_list": ["Tyler Labine", "Alan Tudyk", "Katrina Bowden"]}
+{"star_rating": 7.6, "title": "Dead Man Walking", "content_rating": "R", "genre": "Crime", "duration": 122, "actors_list": ["Susan Sarandon", "Sean Penn", "Robert Prosky"]}
+{"star_rating": 7.6, "title": "The Piano", "content_rating": "R", "genre": "Drama", "duration": 121, "actors_list": ["Holly Hunter", "Harvey Keitel", "Sam Neill"]}
+{"star_rating": 7.6, "title": "The Town", "content_rating": "R", "genre": "Crime", "duration": 125, "actors_list": ["Ben Affleck", "Rebecca Hall", "Jon Hamm"]}
+{"star_rating": 7.6, "title": "Rise of the Planet of the Apes", "content_rating": "PG-13", "genre": "Action", "duration": 105, "actors_list": ["James Franco", "Andy Serkis", "Freida Pinto"]}
+{"star_rating": 7.6, "title": "Boys Don't Cry", "content_rating": "R", "genre": "Biography", "duration": 118, "actors_list": ["Hilary Swank", "Chlo\u00eb Sevigny", "Peter Sarsgaard"]}
+{"star_rating": 7.6, "title": "Ice Age", "content_rating": "PG", "genre": "Animation", "duration": 81, "actors_list": ["Denis Leary", "John Leguizamo", "Ray Romano"]}
+{"star_rating": 7.6, "title": "Of Mice and Men", "content_rating": "PG-13", "genre": "Drama", "duration": 115, "actors_list": ["John Malkovich", "Gary Sinise", "Ray Walston"]}
+{"star_rating": 7.6, "title": "Sideways", "content_rating": "R", "genre": "Comedy", "duration": 126, "actors_list": ["Paul Giamatti", "Thomas Haden Church", "Virginia Madsen"]}
+{"star_rating": 7.6, "title": "High Fidelity", "content_rating": "R", "genre": "Comedy", "duration": 113, "actors_list": ["John Cusack", "Iben Hjejle", "Todd Louiso"]}
+{"star_rating": 7.6, "title": "The Meaning of Life", "content_rating": "R", "genre": "Comedy", "duration": 107, "actors_list": ["John Cleese", "Terry Gilliam", "Eric Idle"]}
+{"star_rating": 7.6, "title": "Hugo", "content_rating": "PG", "genre": "Adventure", "duration": 126, "actors_list": ["Asa Butterfield", "Chlo\u00eb Grace Moretz", "Christopher Lee"]}
+{"star_rating": 7.6, "title": "Leaving Las Vegas", "content_rating": "R", "genre": "Drama", "duration": 111, "actors_list": ["Nicolas Cage", "Elisabeth Shue", "Julian Sands"]}
+{"star_rating": 7.6, "title": "The Evil Dead", "content_rating": "NC-17", "genre": "Horror", "duration": 85, "actors_list": ["Bruce Campbell", "Ellen Sandweiss", "Richard DeManincor"]}
+{"star_rating": 7.6, "title": "Collateral", "content_rating": "R", "genre": "Crime", "duration": 120, "actors_list": ["Tom Cruise", "Jamie Foxx", "Jada Pinkett Smith"]}
+{"star_rating": 7.6, "title": "Planes, Trains & Automobiles", "content_rating": "R", "genre": "Comedy", "duration": 93, "actors_list": ["Steve Martin", "John Candy", "Laila Robins"]}
+{"star_rating": 7.6, "title": "Hodejegerne", "content_rating": "R", "genre": "Crime", "duration": 100, "actors_list": ["Aksel Hennie", "Synn\u00f8ve Macody Lund", "Nikolaj Coster-Waldau"]}
+{"star_rating": 7.6, "title": "Field of Dreams", "content_rating": "PG", "genre": "Drama", "duration": 107, "actors_list": ["Kevin Costner", "James Earl Jones", "Ray Liotta"]}
+{"star_rating": 7.6, "title": "Batman", "content_rating": "PG-13", "genre": "Action", "duration": 126, "actors_list": ["Michael Keaton", "Jack Nicholson", "Kim Basinger"]}
+{"star_rating": 7.6, "title": "Tell No One", "content_rating": "UNRATED", "genre": "Crime", "duration": 131, "actors_list": ["Fran\u00e7ois Cluzet", "Marie-Jos\u00e9e Croze", "Andr\u00e9 Dussollier"]}
+{"star_rating": 7.6, "title": "Ghost Dog: The Way of the Samurai", "content_rating": "R", "genre": "Action", "duration": 116, "actors_list": ["Forest Whitaker", "Henry Silva", "John Tormey"]}
+{"star_rating": 7.6, "title": "Chaplin", "content_rating": "PG-13", "genre": "Biography", "duration": 143, "actors_list": ["Robert Downey Jr.", "Geraldine Chaplin", "Paul Rhys"]}
+{"star_rating": 7.6, "title": "Keith", "content_rating": "PG-13", "genre": "Drama", "duration": 93, "actors_list": ["Elisabeth Harnois", "Jesse McCartney", "Margo Harshman"]}
+{"star_rating": 7.6, "title": "Juno", "content_rating": "PG-13", "genre": "Comedy", "duration": 96, "actors_list": ["Ellen Page", "Michael Cera", "Jennifer Garner"]}
+{"star_rating": 7.6, "title": "The Assassination of Jesse James by the Coward Robert Ford", "content_rating": "R", "genre": "Biography", "duration": 160, "actors_list": ["Brad Pitt", "Casey Affleck", "Sam Shepard"]}
+{"star_rating": 7.6, "title": "The Fisher King", "content_rating": "R", "genre": "Comedy", "duration": 137, "actors_list": ["Jeff Bridges", "Robin Williams", "Adam Bryant"]}
+{"star_rating": 7.6, "title": "House of Flying Daggers", "content_rating": "PG-13", "genre": "Action", "duration": 119, "actors_list": ["Ziyi Zhang", "Takeshi Kaneshiro", "Andy Lau"]}
+{"star_rating": 7.6, "title": "The Hours", "content_rating": "PG-13", "genre": "Drama", "duration": 114, "actors_list": ["Meryl Streep", "Nicole Kidman", "Julianne Moore"]}
+{"star_rating": 7.6, "title": "The Damned United", "content_rating": "R", "genre": "Biography", "duration": 98, "actors_list": ["Colm Meaney", "Henry Goodman", "David Roper"]}
+{"star_rating": 7.6, "title": "Star Trek: First Contact", "content_rating": "PG-13", "genre": "Action", "duration": 111, "actors_list": ["Patrick Stewart", "Jonathan Frakes", "Brent Spiner"]}
+{"star_rating": 7.6, "title": "The Natural", "content_rating": "PG", "genre": "Drama", "duration": 138, "actors_list": ["Robert Redford", "Robert Duvall", "Glenn Close"]}
+{"star_rating": 7.6, "title": "The Hobbit: The Battle of the Five Armies", "content_rating": "PG-13", "genre": "Adventure", "duration": 144, "actors_list": ["Ian McKellen", "Martin Freeman", "Richard Armitage"]}
+{"star_rating": 7.6, "title": "Equilibrium", "content_rating": "R", "genre": "Action", "duration": 107, "actors_list": ["Christian Bale", "Sean Bean", "Emily Watson"]}
+{"star_rating": 7.6, "title": "August Rush", "content_rating": "PG", "genre": "Drama", "duration": 114, "actors_list": ["Freddie Highmore", "Keri Russell", "Jonathan Rhys Meyers"]}
+{"star_rating": 7.6, "title": "Saving Mr. Banks", "content_rating": "PG-13", "genre": "Biography", "duration": 125, "actors_list": ["Emma Thompson", "Tom Hanks", "Annie Rose Buckley"]}
+{"star_rating": 7.6, "title": "The Hurricane", "content_rating": "R", "genre": "Biography", "duration": 146, "actors_list": ["Denzel Washington", "Vicellous Reon Shannon", "Deborah Kara Unger"]}
+{"star_rating": 7.6, "title": "Jacob's Ladder", "content_rating": "R", "genre": "Drama", "duration": 113, "actors_list": ["Tim Robbins", "Elizabeth Pe\u00f1a", "Danny Aiello"]}
+{"star_rating": 7.6, "title": "The Curse of the Were-Rabbit", "content_rating": "G", "genre": "Animation", "duration": 85, "actors_list": ["Peter Sallis", "Helena Bonham Carter", "Ralph Fiennes"]}
+{"star_rating": 7.6, "title": "Christmas Vacation", "content_rating": "PG-13", "genre": "Comedy", "duration": 97, "actors_list": ["Chevy Chase", "Beverly D'Angelo", "Juliette Lewis"]}
+{"star_rating": 7.5, "title": "Good Night, and Good Luck.", "content_rating": "PG", "genre": "Drama", "duration": 93, "actors_list": ["David Strathairn", "George Clooney", "Patricia Clarkson"]}
+{"star_rating": 7.5, "title": "Straw Dogs", "content_rating": "UNRATED", "genre": "Crime", "duration": 113, "actors_list": ["Dustin Hoffman", "Susan George", "Peter Vaughan"]}
+{"star_rating": 7.5, "title": "42", "content_rating": "PG-13", "genre": "Biography", "duration": 128, "actors_list": ["Chadwick Boseman", "T.R. Knight", "Harrison Ford"]}
+{"star_rating": 7.5, "title": "Rudy", "content_rating": "PG", "genre": "Biography", "duration": 114, "actors_list": ["Sean Astin", "Jon Favreau", "Ned Beatty"]}
+{"star_rating": 7.5, "title": "Sleepers", "content_rating": "R", "genre": "Crime", "duration": 147, "actors_list": ["Robert De Niro", "Kevin Bacon", "Brad Pitt"]}
+{"star_rating": 7.5, "title": "The Wind That Shakes the Barley", "content_rating": "NOT RATED", "genre": "Drama", "duration": 127, "actors_list": ["Cillian Murphy", "Padraic Delaney", "Liam Cunningham"]}
+{"star_rating": 7.5, "title": "Gangs of New York", "content_rating": "R", "genre": "Crime", "duration": 167, "actors_list": ["Leonardo DiCaprio", "Cameron Diaz", "Daniel Day-Lewis"]}
+{"star_rating": 7.5, "title": "Elizabeth", "content_rating": "R", "genre": "Biography", "duration": 124, "actors_list": ["Cate Blanchett", "Geoffrey Rush", "Christopher Eccleston"]}
+{"star_rating": 7.5, "title": "Green Street Hooligans", "content_rating": "R", "genre": "Crime", "duration": 109, "actors_list": ["Elijah Wood", "Charlie Hunnam", "Claire Forlani"]}
+{"star_rating": 7.5, "title": "Reign Over Me", "content_rating": "R", "genre": "Drama", "duration": 124, "actors_list": ["Adam Sandler", "Don Cheadle", "Jada Pinkett Smith"]}
+{"star_rating": 7.5, "title": "RoboCop", "content_rating": "R", "genre": "Action", "duration": 102, "actors_list": ["Peter Weller", "Nancy Allen", "Dan O'Herlihy"]}
+{"star_rating": 7.5, "title": "The Life of David Gale", "content_rating": "R", "genre": "Crime", "duration": 130, "actors_list": ["Kevin Spacey", "Kate Winslet", "Laura Linney"]}
+{"star_rating": 7.5, "title": "Life as a House", "content_rating": "R", "genre": "Drama", "duration": 125, "actors_list": ["Hayden Christensen", "Kevin Kline", "Kristin Scott Thomas"]}
+{"star_rating": 7.5, "title": "Despicable Me 2", "content_rating": "PG", "genre": "Animation", "duration": 98, "actors_list": ["Steve Carell", "Kristen Wiig", "Benjamin Bratt"]}
+{"star_rating": 7.5, "title": "Jackie Brown", "content_rating": "R", "genre": "Crime", "duration": 154, "actors_list": ["Pam Grier", "Samuel L. Jackson", "Robert Forster"]}
+{"star_rating": 7.5, "title": "Menace II Society", "content_rating": "R", "genre": "Crime", "duration": 97, "actors_list": ["Tyrin Turner", "Larenz Tate", "June Kyoto Lu"]}
+{"star_rating": 7.5, "title": "The Class", "content_rating": "PG-13", "genre": "Drama", "duration": 128, "actors_list": ["Fran\u00e7ois B\u00e9gaudeau", "Agame Malembo-Emene", "Ang\u00e9lica Sancio"]}
+{"star_rating": 7.5, "title": "Bullets Over Broadway", "content_rating": "R", "genre": "Comedy", "duration": 98, "actors_list": ["John Cusack", "Dianne Wiest", "Jennifer Tilly"]}
+{"star_rating": 7.5, "title": "American Splendor", "content_rating": "R", "genre": "Biography", "duration": 101, "actors_list": ["Paul Giamatti", "Shari Springer Berman", "Harvey Pekar"]}
+{"star_rating": 7.5, "title": "Perfume: The Story of a Murderer", "content_rating": "R", "genre": "Crime", "duration": 147, "actors_list": ["Ben Whishaw", "Dustin Hoffman", "Alan Rickman"]}
+{"star_rating": 7.5, "title": "Cloud Atlas", "content_rating": "R", "genre": "Drama", "duration": 172, "actors_list": ["Tom Hanks", "Halle Berry", "Hugh Grant"]}
+{"star_rating": 7.5, "title": "Marathon Man", "content_rating": "R", "genre": "Crime", "duration": 125, "actors_list": ["Dustin Hoffman", "Laurence Olivier", "Roy Scheider"]}
+{"star_rating": 7.5, "title": "Pinocchio", "content_rating": "APPROVED", "genre": "Animation", "duration": 88, "actors_list": ["Dickie Jones", "Christian Rub", "Mel Blanc"]}
+{"star_rating": 7.5, "title": "The Painted Veil", "content_rating": "PG-13", "genre": "Drama", "duration": 125, "actors_list": ["Naomi Watts", "Edward Norton", "Liev Schreiber"]}
+{"star_rating": 7.5, "title": "A Simple Plan", "content_rating": "R", "genre": "Crime", "duration": 121, "actors_list": ["Bill Paxton", "Billy Bob Thornton", "Bridget Fonda"]}
+{"star_rating": 7.5, "title": "The Conjuring", "content_rating": "R", "genre": "Horror", "duration": 112, "actors_list": ["Patrick Wilson", "Vera Farmiga", "Ron Livingston"]}
+{"star_rating": 7.5, "title": "The Man Who Knew Too Much", "content_rating": "PG", "genre": "Thriller", "duration": 120, "actors_list": ["James Stewart", "Doris Day", "Brenda de Banzie"]}
+{"star_rating": 7.5, "title": "Quiz Show", "content_rating": "PG-13", "genre": "Drama", "duration": 133, "actors_list": ["Ralph Fiennes", "John Turturro", "Rob Morrow"]}
+{"star_rating": 7.5, "title": "American Graffiti", "content_rating": "PG", "genre": "Comedy", "duration": 110, "actors_list": ["Richard Dreyfuss", "Ron Howard", "Paul Le Mat"]}
+{"star_rating": 7.5, "title": "The Bridges of Madison County", "content_rating": "PG-13", "genre": "Drama", "duration": 135, "actors_list": ["Clint Eastwood", "Meryl Streep", "Annie Corley"]}
+{"star_rating": 7.5, "title": "Gallipoli", "content_rating": "PG", "genre": "Adventure", "duration": 110, "actors_list": ["Mel Gibson", "Mark Lee", "Bill Kerr"]}
+{"star_rating": 7.5, "title": "L'illusionniste", "content_rating": "PG", "genre": "Animation", "duration": 80, "actors_list": ["Jean-Claude Donda", "Eilidh Rankin", "Duncan MacNeil"]}
+{"star_rating": 7.5, "title": "Miracle", "content_rating": "PG", "genre": "Drama", "duration": 135, "actors_list": ["Kurt Russell", "Patricia Clarkson", "Nathan West"]}
+{"star_rating": 7.5, "title": "Maria Full of Grace", "content_rating": "R", "genre": "Crime", "duration": 101, "actors_list": ["Catalina Sandino Moreno", "Guilied Lopez", "Orlando Tob\u00f3n"]}
+{"star_rating": 7.5, "title": "Scott Pilgrim vs. the World", "content_rating": "PG-13", "genre": "Action", "duration": 112, "actors_list": ["Michael Cera", "Mary Elizabeth Winstead", "Kieran Culkin"]}
+{"star_rating": 7.5, "title": "Pleasantville", "content_rating": "PG-13", "genre": "Comedy", "duration": 124, "actors_list": ["Tobey Maguire", "Jeff Daniels", "Joan Allen"]}
+{"star_rating": 7.5, "title": "Sherlock Holmes: A Game of Shadows", "content_rating": "PG-13", "genre": "Action", "duration": 129, "actors_list": ["Robert Downey Jr.", "Jude Law", "Jared Harris"]}
+{"star_rating": 7.5, "title": "Doubt", "content_rating": "PG-13", "genre": "Drama", "duration": 104, "actors_list": ["Meryl Streep", "Philip Seymour Hoffman", "Amy Adams"]}
+{"star_rating": 7.5, "title": "The Fly", "content_rating": "R", "genre": "Horror", "duration": 96, "actors_list": ["Jeff Goldblum", "Geena Davis", "John Getz"]}
+{"star_rating": 7.5, "title": "The Orphanage", "content_rating": "R", "genre": "Drama", "duration": 105, "actors_list": ["Bel\u00e9n Rueda", "Fernando Cayo", "Roger Pr\u00edncep"]}
+{"star_rating": 7.5, "title": "Malena", "content_rating": "R", "genre": "Drama", "duration": 109, "actors_list": ["Monica Bellucci", "Giuseppe Sulfaro", "Luciano Federico"]}
+{"star_rating": 7.5, "title": "Three Days of the Condor", "content_rating": "R", "genre": "Mystery", "duration": 117, "actors_list": ["Robert Redford", "Faye Dunaway", "Cliff Robertson"]}
+{"star_rating": 7.5, "title": "[Rec]", "content_rating": "R", "genre": "Horror", "duration": 78, "actors_list": ["Manuela Velasco", "Ferran Terraza", "Jorge-Yamam Serrano"]}
+{"star_rating": 7.5, "title": "A Perfect World", "content_rating": "PG-13", "genre": "Crime", "duration": 138, "actors_list": ["Kevin Costner", "Clint Eastwood", "Laura Dern"]}
+{"star_rating": 7.5, "title": "To Catch a Thief", "content_rating": "APPROVED", "genre": "Mystery", "duration": 106, "actors_list": ["Cary Grant", "Grace Kelly", "Jessie Royce Landis"]}
+{"star_rating": 7.5, "title": "Best in Show", "content_rating": "PG-13", "genre": "Comedy", "duration": 90, "actors_list": ["Fred Willard", "Eugene Levy", "Catherine O'Hara"]}
+{"star_rating": 7.5, "title": "Everything Is Illuminated", "content_rating": "PG-13", "genre": "Comedy", "duration": 106, "actors_list": ["Elijah Wood", "Eugene Hutz", "Boris Leskin"]}
+{"star_rating": 7.5, "title": "A Nightmare on Elm Street", "content_rating": "R", "genre": "Horror", "duration": 91, "actors_list": ["Heather Langenkamp", "Johnny Depp", "Robert Englund"]}
+{"star_rating": 7.5, "title": "The Ice Storm", "content_rating": "R", "genre": "Drama", "duration": 112, "actors_list": ["Kevin Kline", "Joan Allen", "Sigourney Weaver"]}
+{"star_rating": 7.5, "title": "X2", "content_rating": "PG-13", "genre": "Action", "duration": 134, "actors_list": ["Patrick Stewart", "Hugh Jackman", "Halle Berry"]}
+{"star_rating": 7.5, "title": "We Need to Talk About Kevin", "content_rating": "R", "genre": "Drama", "duration": 112, "actors_list": ["Tilda Swinton", "John C. Reilly", "Ezra Miller"]}
+{"star_rating": 7.5, "title": "Felon", "content_rating": "R", "genre": "Crime", "duration": 104, "actors_list": ["Stephen Dorff", "Marisol Nichols", "Vincent Miller"]}
+{"star_rating": 7.5, "title": "Still Alice", "content_rating": "PG-13", "genre": "Drama", "duration": 101, "actors_list": ["Julianne Moore", "Alec Baldwin", "Kristen Stewart"]}
+{"star_rating": 7.5, "title": "Rust and Bone", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Marion Cotillard", "Matthias Schoenaerts", "Armand Verdure"]}
+{"star_rating": 7.5, "title": "Freedom Writers", "content_rating": "PG-13", "genre": "Biography", "duration": 123, "actors_list": ["Hilary Swank", "Imelda Staunton", "Patrick Dempsey"]}
+{"star_rating": 7.5, "title": "Legends of the Fall", "content_rating": "R", "genre": "Drama", "duration": 133, "actors_list": ["Brad Pitt", "Anthony Hopkins", "Aidan Quinn"]}
+{"star_rating": 7.5, "title": "Buffalo '66", "content_rating": "R", "genre": "Comedy", "duration": 110, "actors_list": ["Vincent Gallo", "Christina Ricci", "Ben Gazzara"]}
+{"star_rating": 7.5, "title": "The Constant Gardener", "content_rating": "R", "genre": "Drama", "duration": 129, "actors_list": ["Ralph Fiennes", "Rachel Weisz", "Hubert Kound\u00e9"]}
+{"star_rating": 7.5, "title": "My Cousin Vinny", "content_rating": "R", "genre": "Comedy", "duration": 120, "actors_list": ["Joe Pesci", "Marisa Tomei", "Ralph Macchio"]}
+{"star_rating": 7.5, "title": "The Texas Chain Saw Massacre", "content_rating": "R", "genre": "Horror", "duration": 83, "actors_list": ["Marilyn Burns", "Edwin Neal", "Allen Danziger"]}
+{"star_rating": 7.5, "title": "Mulan", "content_rating": "G", "genre": "Animation", "duration": 88, "actors_list": ["Ming-Na Wen", "Eddie Murphy", "BD Wong"]}
+{"star_rating": 7.5, "title": "A History of Violence", "content_rating": "R", "genre": "Crime", "duration": 96, "actors_list": ["Viggo Mortensen", "Maria Bello", "Ed Harris"]}
+{"star_rating": 7.5, "title": "Open Range", "content_rating": "R", "genre": "Action", "duration": 139, "actors_list": ["Kevin Costner", "Robert Duvall", "Diego Luna"]}
+{"star_rating": 7.5, "title": "Total Recall", "content_rating": "R", "genre": "Action", "duration": 113, "actors_list": ["Arnold Schwarzenegger", "Sharon Stone", "Michael Ironside"]}
+{"star_rating": 7.5, "title": "Pi", "content_rating": "R", "genre": "Drama", "duration": 84, "actors_list": ["Sean Gullette", "Mark Margolis", "Ben Shenkman"]}
+{"star_rating": 7.5, "title": "The Devil's Backbone", "content_rating": "R", "genre": "Drama", "duration": 106, "actors_list": ["Marisa Paredes", "Eduardo Noriega", "Federico Luppi"]}
+{"star_rating": 7.5, "title": "The Aviator", "content_rating": "PG-13", "genre": "Biography", "duration": 170, "actors_list": ["Leonardo DiCaprio", "Cate Blanchett", "Kate Beckinsale"]}
+{"star_rating": 7.5, "title": "Devil's Advocate", "content_rating": "R", "genre": "Drama", "duration": 144, "actors_list": ["Keanu Reeves", "Al Pacino", "Charlize Theron"]}
+{"star_rating": 7.5, "title": "The Adventures of Priscilla, Queen of the Desert", "content_rating": "R", "genre": "Comedy", "duration": 104, "actors_list": ["Hugo Weaving", "Guy Pearce", "Terence Stamp"]}
+{"star_rating": 7.5, "title": "Harry Potter and the Half-Blood Prince", "content_rating": "PG", "genre": "Adventure", "duration": 153, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 7.5, "title": "Fruitvale Station", "content_rating": "R", "genre": "Biography", "duration": 85, "actors_list": ["Michael B. Jordan", "Melonie Diaz", "Octavia Spencer"]}
+{"star_rating": 7.5, "title": "In the Bedroom", "content_rating": "R", "genre": "Crime", "duration": 130, "actors_list": ["Tom Wilkinson", "Sissy Spacek", "Nick Stahl"]}
+{"star_rating": 7.5, "title": "Source Code", "content_rating": "PG-13", "genre": "Mystery", "duration": 93, "actors_list": ["Jake Gyllenhaal", "Michelle Monaghan", "Vera Farmiga"]}
+{"star_rating": 7.5, "title": "Biutiful", "content_rating": "R", "genre": "Drama", "duration": 148, "actors_list": ["Javier Bardem", "Maricel \u00c1lvarez", "Hanaa Bouchaib"]}
+{"star_rating": 7.5, "title": "From Russia with Love", "content_rating": "APPROVED", "genre": "Action", "duration": 115, "actors_list": ["Sean Connery", "Robert Shaw", "Lotte Lenya"]}
+{"star_rating": 7.5, "title": "Calvary", "content_rating": "R", "genre": "Drama", "duration": 102, "actors_list": ["Brendan Gleeson", "Chris O'Dowd", "Kelly Reilly"]}
+{"star_rating": 7.5, "title": "The Mission", "content_rating": "PG", "genre": "Adventure", "duration": 125, "actors_list": ["Robert De Niro", "Jeremy Irons", "Ray McAnally"]}
+{"star_rating": 7.5, "title": "In the Loop", "content_rating": "NOT RATED", "genre": "Comedy", "duration": 106, "actors_list": ["Tom Hollander", "Peter Capaldi", "James Gandolfini"]}
+{"star_rating": 7.5, "title": "The Three Burials of Melquiades Estrada", "content_rating": "R", "genre": "Adventure", "duration": 121, "actors_list": ["Tommy Lee Jones", "Barry Pepper", "Dwight Yoakam"]}
+{"star_rating": 7.5, "title": "Babel", "content_rating": "R", "genre": "Drama", "duration": 143, "actors_list": ["Brad Pitt", "Cate Blanchett", "Gael Garc\u00eda Bernal"]}
+{"star_rating": 7.5, "title": "Frenzy", "content_rating": "R", "genre": "Thriller", "duration": 116, "actors_list": ["Jon Finch", "Barry Foster", "Alec McCowen"]}
+{"star_rating": 7.5, "title": "Heavenly Creatures", "content_rating": "R", "genre": "Biography", "duration": 99, "actors_list": ["Melanie Lynskey", "Kate Winslet", "Sarah Peirse"]}
+{"star_rating": 7.5, "title": "Sweeney Todd: The Demon Barber of Fleet Street", "content_rating": "R", "genre": "Drama", "duration": 116, "actors_list": ["Johnny Depp", "Helena Bonham Carter", "Alan Rickman"]}
+{"star_rating": 7.5, "title": "Dracula", "content_rating": "R", "genre": "Horror", "duration": 128, "actors_list": ["Gary Oldman", "Winona Ryder", "Anthony Hopkins"]}
+{"star_rating": 7.5, "title": "Looper", "content_rating": "R", "genre": "Action", "duration": 119, "actors_list": ["Joseph Gordon-Levitt", "Bruce Willis", "Emily Blunt"]}
+{"star_rating": 7.5, "title": "The Proposition", "content_rating": "R", "genre": "Crime", "duration": 104, "actors_list": ["Ray Winstone", "Guy Pearce", "Emily Watson"]}
+{"star_rating": 7.5, "title": "Bullitt", "content_rating": "PG", "genre": "Action", "duration": 114, "actors_list": ["Steve McQueen", "Jacqueline Bisset", "Robert Vaughn"]}
+{"star_rating": 7.5, "title": "Harry Potter and the Sorcerer's Stone", "content_rating": "PG", "genre": "Adventure", "duration": 152, "actors_list": ["Daniel Radcliffe", "Rupert Grint", "Richard Harris"]}
+{"star_rating": 7.5, "title": "2046", "content_rating": "R", "genre": "Drama", "duration": 129, "actors_list": ["Tony Chiu Wai Leung", "Ziyi Zhang", "Faye Wong"]}
+{"star_rating": 7.5, "title": "Transamerica", "content_rating": "R", "genre": "Adventure", "duration": 103, "actors_list": ["Felicity Huffman", "Kevin Zegers", "Fionnula Flanagan"]}
+{"star_rating": 7.5, "title": "Smoke", "content_rating": "R", "genre": "Comedy", "duration": 112, "actors_list": ["Harvey Keitel", "William Hurt", "Giancarlo Esposito"]}
+{"star_rating": 7.5, "title": "Suspiria", "content_rating": "X", "genre": "Horror", "duration": 92, "actors_list": ["Jessica Harper", "Stefania Casini", "Flavio Bucci"]}
+{"star_rating": 7.5, "title": "The Judge", "content_rating": "R", "genre": "Drama", "duration": 141, "actors_list": ["Robert Downey Jr.", "Robert Duvall", "Vera Farmiga"]}
+{"star_rating": 7.5, "title": "Bad Education", "content_rating": "NC-17", "genre": "Crime", "duration": 106, "actors_list": ["Gael Garc\u00eda Bernal", "Fele Mart\u00ednez", "Javier C\u00e1mara"]}
+{"star_rating": 7.5, "title": "Up in the Air", "content_rating": "R", "genre": "Drama", "duration": 109, "actors_list": ["George Clooney", "Vera Farmiga", "Anna Kendrick"]}
+{"star_rating": 7.5, "title": "Begin Again", "content_rating": "R", "genre": "Drama", "duration": 104, "actors_list": ["Keira Knightley", "Mark Ruffalo", "Adam Levine"]}
+{"star_rating": 7.5, "title": "Running Scared", "content_rating": "R", "genre": "Action", "duration": 122, "actors_list": ["Paul Walker", "Cameron Bright", "Chazz Palminteri"]}
+{"star_rating": 7.5, "title": "Ghost World", "content_rating": "R", "genre": "Comedy", "duration": 111, "actors_list": ["Steve Buscemi", "Thora Birch", "Scarlett Johansson"]}
+{"star_rating": 7.5, "title": "Witness", "content_rating": "R", "genre": "Crime", "duration": 112, "actors_list": ["Harrison Ford", "Kelly McGillis", "Lukas Haas"]}
+{"star_rating": 7.5, "title": "Trading Places", "content_rating": "R", "genre": "Comedy", "duration": 116, "actors_list": ["Eddie Murphy", "Dan Aykroyd", "Ralph Bellamy"]}
+{"star_rating": 7.5, "title": "Mud", "content_rating": "PG-13", "genre": "Drama", "duration": 130, "actors_list": ["Matthew McConaughey", "Tye Sheridan", "Jacob Lofland"]}
+{"star_rating": 7.5, "title": "Across the Universe", "content_rating": "PG-13", "genre": "Drama", "duration": 133, "actors_list": ["Evan Rachel Wood", "Jim Sturgess", "Joe Anderson"]}
+{"star_rating": 7.5, "title": "Les Miserables", "content_rating": "PG-13", "genre": "Crime", "duration": 134, "actors_list": ["Liam Neeson", "Geoffrey Rush", "Uma Thurman"]}
+{"star_rating": 7.5, "title": "Notes on a Scandal", "content_rating": "R", "genre": "Drama", "duration": 92, "actors_list": ["Cate Blanchett", "Judi Dench", "Andrew Simpson"]}
+{"star_rating": 7.5, "title": "Inside Llewyn Davis", "content_rating": "R", "genre": "Drama", "duration": 104, "actors_list": ["Oscar Isaac", "Carey Mulligan", "John Goodman"]}
+{"star_rating": 7.5, "title": "Brick", "content_rating": "R", "genre": "Crime", "duration": 110, "actors_list": ["Joseph Gordon-Levitt", "Lukas Haas", "Emilie de Ravin"]}
+{"star_rating": 7.5, "title": "Clerks II", "content_rating": "R", "genre": "Comedy", "duration": 97, "actors_list": ["Brian O'Halloran", "Jeff Anderson", "Rosario Dawson"]}
+{"star_rating": 7.5, "title": "Say Anything...", "content_rating": "PG-13", "genre": "Comedy", "duration": 100, "actors_list": ["John Cusack", "Ione Skye", "John Mahoney"]}
+{"star_rating": 7.4, "title": "Man on the Moon", "content_rating": "R", "genre": "Biography", "duration": 118, "actors_list": ["Jim Carrey", "Danny DeVito", "Gerry Becker"]}
+{"star_rating": 7.4, "title": "Mean Streets", "content_rating": "R", "genre": "Crime", "duration": 112, "actors_list": ["Robert De Niro", "Harvey Keitel", "David Proval"]}
+{"star_rating": 7.4, "title": "Harry Potter and the Order of the Phoenix", "content_rating": "PG-13", "genre": "Adventure", "duration": 138, "actors_list": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]}
+{"star_rating": 7.4, "title": "Beetlejuice", "content_rating": "PG", "genre": "Comedy", "duration": 92, "actors_list": ["Alec Baldwin", "Geena Davis", "Michael Keaton"]}
+{"star_rating": 7.4, "title": "Crazy, Stupid, Love.", "content_rating": "PG-13", "genre": "Comedy", "duration": 118, "actors_list": ["Steve Carell", "Ryan Gosling", "Julianne Moore"]}
+{"star_rating": 7.4, "title": "Excalibur", "content_rating": "R", "genre": "Adventure", "duration": 140, "actors_list": ["Nigel Terry", "Helen Mirren", "Nicholas Clay"]}
+{"star_rating": 7.4, "title": "True Grit", "content_rating": "", "genre": "Adventure", "duration": 128, "actors_list": ["John Wayne", "Kim Darby", "Glen Campbell"]}
+{"star_rating": 7.4, "title": "Labyrinth", "content_rating": "PG", "genre": "Adventure", "duration": 101, "actors_list": ["David Bowie", "Jennifer Connelly", "Toby Froud"]}
+{"star_rating": 7.4, "title": "Alice in Wonderland", "content_rating": "G", "genre": "Animation", "duration": 75, "actors_list": ["Kathryn Beaumont", "Ed Wynn", "Richard Haydn"]}
+{"star_rating": 7.4, "title": "Predestination", "content_rating": "R", "genre": "Drama", "duration": 97, "actors_list": ["Ethan Hawke", "Sarah Snook", "Noah Taylor"]}
+{"star_rating": 7.4, "title": "Much Ado About Nothing", "content_rating": "PG-13", "genre": "Comedy", "duration": 111, "actors_list": ["Kenneth Branagh", "Emma Thompson", "Keanu Reeves"]}
+{"star_rating": 7.4, "title": "A Bridge Too Far", "content_rating": "PG", "genre": "Drama", "duration": 175, "actors_list": ["Sean Connery", "Ryan O'Neal", "Michael Caine"]}
+{"star_rating": 7.4, "title": "Raising Arizona", "content_rating": "PG-13", "genre": "Comedy", "duration": 94, "actors_list": ["Nicolas Cage", "Holly Hunter", "Trey Wilson"]}
+{"star_rating": 7.4, "title": "The Bucket List", "content_rating": "PG-13", "genre": "Adventure", "duration": 97, "actors_list": ["Jack Nicholson", "Morgan Freeman", "Sean Hayes"]}
+{"star_rating": 7.4, "title": "Terms of Endearment", "content_rating": "R", "genre": "Comedy", "duration": 132, "actors_list": ["Shirley MacLaine", "Debra Winger", "Jack Nicholson"]}
+{"star_rating": 7.4, "title": "Take Shelter", "content_rating": "R", "genre": "Drama", "duration": 120, "actors_list": ["Michael Shannon", "Jessica Chastain", "Shea Whigham"]}
+{"star_rating": 7.4, "title": "Far from Heaven", "content_rating": "PG-13", "genre": "Drama", "duration": 107, "actors_list": ["Julianne Moore", "Dennis Quaid", "Dennis Haysbert"]}
+{"star_rating": 7.4, "title": "Eraserhead", "content_rating": "UNRATED", "genre": "Drama", "duration": 89, "actors_list": ["Jack Nance", "Charlotte Stewart", "Allen Joseph"]}
+{"star_rating": 7.4, "title": "Frances Ha", "content_rating": "R", "genre": "Comedy", "duration": 86, "actors_list": ["Greta Gerwig", "Mickey Sumner", "Adam Driver"]}
+{"star_rating": 7.4, "title": "Home Alone", "content_rating": "PG", "genre": "Comedy", "duration": 103, "actors_list": ["Macaulay Culkin", "Joe Pesci", "Daniel Stern"]}
+{"star_rating": 7.4, "title": "Bound", "content_rating": "R", "genre": "Crime", "duration": 108, "actors_list": ["Jennifer Tilly", "Gina Gershon", "Joe Pantoliano"]}
+{"star_rating": 7.4, "title": "Sleepy Hollow", "content_rating": "R", "genre": "Drama", "duration": 105, "actors_list": ["Johnny Depp", "Christina Ricci", "Miranda Richardson"]}
+{"star_rating": 7.4, "title": "Pirate Radio", "content_rating": "R", "genre": "Comedy", "duration": 117, "actors_list": ["Philip Seymour Hoffman", "Bill Nighy", "Nick Frost"]}
+{"star_rating": 7.4, "title": "The NeverEnding Story", "content_rating": "PG", "genre": "Adventure", "duration": 102, "actors_list": ["Noah Hathaway", "Barret Oliver", "Tami Stronach"]}
+{"star_rating": 7.4, "title": "X-Men", "content_rating": "PG-13", "genre": "Action", "duration": 104, "actors_list": ["Patrick Stewart", "Hugh Jackman", "Ian McKellen"]}
+{"star_rating": 7.4, "title": "Zero Dark Thirty", "content_rating": "R", "genre": "Drama", "duration": 157, "actors_list": ["Jessica Chastain", "Joel Edgerton", "Chris Pratt"]}
+{"star_rating": 7.4, "title": "Manhattan Murder Mystery", "content_rating": "PG", "genre": "Comedy", "duration": 104, "actors_list": ["Woody Allen", "Diane Keaton", "Jerry Adler"]}
+{"star_rating": 7.4, "title": "National Lampoon's Vacation", "content_rating": "R", "genre": "Comedy", "duration": 98, "actors_list": ["Chevy Chase", "Beverly D'Angelo", "Imogene Coca"]}
+{"star_rating": 7.4, "title": "My Sister's Keeper", "content_rating": "PG-13", "genre": "Drama", "duration": 109, "actors_list": ["Cameron Diaz", "Abigail Breslin", "Alec Baldwin"]}
+{"star_rating": 7.4, "title": "Deconstructing Harry", "content_rating": "R", "genre": "Comedy", "duration": 96, "actors_list": ["Woody Allen", "Judy Davis", "Julia Louis-Dreyfus"]}
+{"star_rating": 7.4, "title": "The Way Way Back", "content_rating": "PG-13", "genre": "Comedy", "duration": 103, "actors_list": ["Steve Carell", "Toni Collette", "Allison Janney"]}
+{"star_rating": 7.4, "title": "Capote", "content_rating": "R", "genre": "Biography", "duration": 114, "actors_list": ["Philip Seymour Hoffman", "Clifton Collins Jr.", "Catherine Keener"]}
+{"star_rating": 7.4, "title": "Driving Miss Daisy", "content_rating": "PG", "genre": "Comedy", "duration": 99, "actors_list": ["Morgan Freeman", "Jessica Tandy", "Dan Aykroyd"]}
+{"star_rating": 7.4, "title": "La Femme Nikita", "content_rating": "R", "genre": "Action", "duration": 118, "actors_list": ["Anne Parillaud", "Marc Duret", "Patrick Fontana"]}
+{"star_rating": 7.4, "title": "Lincoln", "content_rating": "PG-13", "genre": "Biography", "duration": 150, "actors_list": ["Daniel Day-Lewis", "Sally Field", "David Strathairn"]}
+{"star_rating": 7.4, "title": "Limitless", "content_rating": "PG-13", "genre": "Mystery", "duration": 105, "actors_list": ["Bradley Cooper", "Anna Friel", "Abbie Cornish"]}
+{"star_rating": 7.4, "title": "The Simpsons Movie", "content_rating": "PG-13", "genre": "Animation", "duration": 87, "actors_list": ["Dan Castellaneta", "Julie Kavner", "Nancy Cartwright"]}
+{"star_rating": 7.4, "title": "The Rock", "content_rating": "R", "genre": "Action", "duration": 136, "actors_list": ["Sean Connery", "Nicolas Cage", "Ed Harris"]}
+{"star_rating": 7.4, "title": "The English Patient", "content_rating": "R", "genre": "Drama", "duration": 162, "actors_list": ["Ralph Fiennes", "Juliette Binoche", "Willem Dafoe"]}
+{"star_rating": 7.4, "title": "Law Abiding Citizen", "content_rating": "R", "genre": "Crime", "duration": 109, "actors_list": ["Gerard Butler", "Jamie Foxx", "Leslie Bibb"]}
+{"star_rating": 7.4, "title": "Wonder Boys", "content_rating": "R", "genre": "Drama", "duration": 107, "actors_list": ["Michael Douglas", "Tobey Maguire", "Frances McDormand"]}
+{"star_rating": 7.4, "title": "Death at a Funeral", "content_rating": "R", "genre": "Comedy", "duration": 90, "actors_list": ["Matthew Macfadyen", "Peter Dinklage", "Ewen Bremner"]}
+{"star_rating": 7.4, "title": "Blue Valentine", "content_rating": "NC-17", "genre": "Drama", "duration": 112, "actors_list": ["Ryan Gosling", "Michelle Williams", "John Doman"]}
+{"star_rating": 7.4, "title": "The Cider House Rules", "content_rating": "PG-13", "genre": "Drama", "duration": 126, "actors_list": ["Tobey Maguire", "Charlize Theron", "Michael Caine"]}
+{"star_rating": 7.4, "title": "Tootsie", "content_rating": "PG", "genre": "Comedy", "duration": 116, "actors_list": ["Dustin Hoffman", "Jessica Lange", "Teri Garr"]}
+{"star_rating": 7.4, "title": "Back to the Future Part III", "content_rating": "PG", "genre": "Adventure", "duration": 118, "actors_list": ["Michael J. Fox", "Christopher Lloyd", "Mary Steenburgen"]}
+{"star_rating": 7.4, "title": "Master and Commander: The Far Side of the World", "content_rating": "PG-13", "genre": "Action", "duration": 138, "actors_list": ["Russell Crowe", "Paul Bettany", "Billy Boyd"]}
+{"star_rating": 7.4, "title": "Poltergeist", "content_rating": "PG", "genre": "Horror", "duration": 114, "actors_list": ["JoBeth Williams", "Heather O'Rourke", "Craig T. Nelson"]}
+{"star_rating": 7.4, "title": "Wall Street", "content_rating": "R", "genre": "Crime", "duration": 126, "actors_list": ["Charlie Sheen", "Michael Douglas", "Tamara Tunie"]}
